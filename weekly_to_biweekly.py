@@ -15,7 +15,7 @@ def convert_to_biweekly(date):
 data['date'] = pd.to_datetime(data['date']).apply(convert_to_biweekly)
 
 # Remove duplicate dates
-data = data.drop_duplicates(subset='date')
+data = data.drop_duplicates(subset='datee')
 
 data['date'] = data['date'].dt.strftime('%d-%b-%Y')
 

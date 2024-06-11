@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import os
 
 # Load the data from the Excel file
-input_file = 'PKR _ US$ Exchange Rates.xlsx'
+input_file = 'src/PKR _ US$ Exchange Rates.xlsx'
 data = pd.read_excel(input_file)
 
 # Convert the 'date' column to datetime
