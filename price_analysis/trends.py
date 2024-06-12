@@ -1,6 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import os
+import mplcursors as hover
 
 # Load data from the four Excel files
 files = ['Diesel.xlsx', 'Petrol.xlsx', 'Brent.xlsx', 'USDPKR.xlsx']
@@ -22,7 +23,10 @@ colors = ['b', 'c', 'g', 'r']
 
 # Plot each dataframe
 for df, label, color in zip(dataframes, labels, colors):
-    plt.plot(df['date'], df['price'], label=label, color=color)
+    plt.plot(df['date'], df['price'], label=label, color=color, marker='o')
+
+# for hovering
+hover.cursor(hover=True)
 
 # Customize the plot
 plt.title('Price Trends')
