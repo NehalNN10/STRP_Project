@@ -1,5 +1,5 @@
-,date,link,inner_html,word_count,petrol,hsd,headline,openai_headline_very_positive,openai_headline_positive,openai_headline_neutral,openai_headline_negative,openai_headline_very_negative,openai_text_very_positive,openai_text_positive,openai_text_neutral,openai_text_negative,openai_text_very_negative,gemini_headline_very_positive,gemini_headline_positive,gemini_headline_neutral,gemini_headline_negative,gemini_headline_very_negative,gemini_text_very_positive,gemini_text_positive,gemini_text_neutral,gemini_text_negative,gemini_text_very_negative,gemini_headline_overall_sentiment,gemini_text_overall_sentiment,openai_headline_overall_sentiment,openai_text_overall_sentiment
-0,2024-12-16,https://tribune.com.pk/epaper/news/Karachi/2024-12-16/NjI1OTQ4NDgzZTY3NjUxZWM5OWQ2NjkyZjJkMjU5ZjIuanBlZw,"IRSHAD ANSARI
+,Unnamed: 0,date,link,inner_html,word_count,petrol,hsd,headline,openai_headline_very_positive,openai_headline_positive,openai_headline_neutral,openai_headline_negative,openai_headline_very_negative,openai_text_very_positive,openai_text_positive,openai_text_neutral,openai_text_negative,openai_text_very_negative,gemini_headline_very_positive,gemini_headline_positive,gemini_headline_neutral,gemini_headline_negative,gemini_headline_very_negative,gemini_text_very_positive,gemini_text_positive,gemini_text_neutral,gemini_text_negative,gemini_text_very_negative,gemini_headline_overall_sentiment,gemini_text_overall_sentiment,openai_headline_overall_sentiment,openai_text_overall_sentiment
+0,0,2024-12-16,https://tribune.com.pk/epaper/news/Karachi/2024-12-16/NjI1OTQ4NDgzZTY3NjUxZWM5OWQ2NjkyZjJkMjU5ZjIuanBlZw,"IRSHAD ANSARI
 ISLAMABAD
 The federal government
 has slashed the prices of
@@ -12,8 +12,8 @@ main in place for the next
 ",36.0,252.1,255.38,"Diesel price
 slashed, petrol
 unchanged
-",0.1,0.6,0.25,0.04,0.01,0.1,0.65,0.2,0.04,0.01,0.15,0.55,0.25,0.03,0.02,0.05,0.35,0.6,0.0,0.0,0.78,0.44999999999999996,0.74,0.79
-1,2024-12-01,https://tribune.com.pk/epaper/news/Karachi/2024-12-01/ZWQ3ODU2YTM1ZmU5MGM5MjQ5NjQ2YjQzNzQ5ZWM4ZjEuanBlZw,"PETROL
+",0.1,0.6,0.25,0.04,0.01,0.1,0.65,0.2,0.04,0.01,0.15,0.55,0.25,0.03,0.02,0.05,0.35,0.6,0.0,0.0,0.78,0.4499999999999999,0.74,0.79
+1,1,2024-12-01,https://tribune.com.pk/epaper/news/Karachi/2024-12-01/ZWQ3ODU2YTM1ZmU5MGM5MjQ5NjQ2YjQzNzQ5ZWM4ZjEuanBlZw,"PETROL
 HSD
 NEW
 NEW
@@ -127,8 +127,8 @@ Fortnightly in-
 crease reflects
 fluctuation in
 global market
-",0.0,0.05,0.8,0.1,0.05,0.0,0.05,0.15,0.6,0.2,0.0,0.0,0.3,0.6,0.1,0.0,0.05,0.4,0.45,0.1,-0.8,-0.6,-0.15000000000000002,-0.95
-2,2024-11-16,https://tribune.com.pk/epaper/news/Karachi/2024-11-16/YjJiM2Q1YWU5MzMxNGE1M2NhZDgyZjI1NDQwNTM3ZjguanBlZw,"OUR CORRESPONDENT
+",0.0,0.05,0.8,0.1,0.05,0.0,0.05,0.15,0.6,0.2,0.0,0.0,0.3,0.6,0.1,0.0,0.05,0.4,0.45,0.1,-0.8,-0.6,-0.15,-0.95
+2,2,2024-11-16,https://tribune.com.pk/epaper/news/Karachi/2024-11-16/YjJiM2Q1YWU5MzMxNGE1M2NhZDgyZjI1NDQwNTM3ZjguanBlZw,"OUR CORRESPONDENT
 ISLAMABAD
 sene oil was reduced to
 Rs161.54, down by Rs1.48
@@ -208,8 +208,8 @@ and Qasim Naveed.
 for Bilawal, dignitaries
 Petrol prices to
 remain unchanged
-",0.0,0.1,0.7,0.15,0.05,0.05,0.15,0.65,0.1,0.05,0.0,0.01,0.98,0.01,0.0,0.0,0.15,0.6,0.25,0.0,0.0,-0.1,-0.15,0.04999999999999999
-3,2024-11-01,https://tribune.com.pk/epaper/news/Karachi/2024-11-01/MTM4YzNlNzAzZWQ0YzlkYmYwN2NiMzU2ZThhZmQ0NmQuanBlZw,"OUR CORRESPONDENT
+",0.0,0.1,0.7,0.15,0.05,0.05,0.15,0.65,0.1,0.05,0.0,0.01,0.98,0.01,0.0,0.0,0.15,0.6,0.25,0.0,0.0,-0.1,-0.15,0.0499999999999999
+3,3,2024-11-01,https://tribune.com.pk/epaper/news/Karachi/2024-11-01/MTM4YzNlNzAzZWQ0YzlkYmYwN2NiMzU2ZThhZmQ0NmQuanBlZw,"OUR CORRESPONDENT
 ISLAMABAD
 The federal government
 on Thursday marginally
@@ -259,8 +259,8 @@ month of November.
 petrol
 marginally
 raised
-",0.0,0.05,0.6,0.25,0.1,0.0,0.05,0.7,0.2,0.05,0.0,0.0,0.7,0.3,0.0,0.02,0.1,0.65,0.2,0.03,-0.3,-0.12,-0.4,-0.25000000000000006
-4,2024-10-16,https://tribune.com.pk/epaper/news/Karachi/2024-10-16/MGJiODkzODU4OGY5NTIxMTFkMDMzZmUyNjA1YTViNWMuanBlZw,"ZAFAR BHUTTA
+",0.0,0.05,0.6,0.25,0.1,0.0,0.05,0.7,0.2,0.05,0.0,0.0,0.7,0.3,0.0,0.02,0.1,0.65,0.2,0.03,-0.3,-0.12,-0.4,-0.25
+4,4,2024-10-16,https://tribune.com.pk/epaper/news/Karachi/2024-10-16/MGJiODkzODU4OGY5NTIxMTFkMDMzZmUyNjA1YTViNWMuanBlZw,"ZAFAR BHUTTA
 ISLAMABAD
 Despite a rising trend in international oil
 prices, the government kept the petrol
@@ -322,8 +322,8 @@ Kerosene oil is used in
 remote areas, especially in
 northern parts of the coun-
 ",314.0,248.38,255.14,"Diesel price up by Rs5, petrol unchanged
-T ",0.0,0.05,0.45,0.4,0.1,0.0,0.1,0.5,0.3,0.1,0.0,0.0,0.75,0.2,0.05,0.0,0.2,0.5,0.25,0.05,-0.30000000000000004,-0.14999999999999997,-0.55,-0.4
-5,2024-10-01,https://tribune.com.pk/epaper/news/Karachi/2024-10-01/ODZiNDc3YjEyZmNkZTViYzFkMzQyOWNkNmZiZGY1MTEuanBlZw,"ZAFAR BHUTTA
+T ",0.0,0.05,0.45,0.4,0.1,0.0,0.1,0.5,0.3,0.1,0.0,0.0,0.75,0.2,0.05,0.0,0.2,0.5,0.25,0.05,-0.3,-0.1499999999999999,-0.55,-0.4
+5,5,2024-10-01,https://tribune.com.pk/epaper/news/Karachi/2024-10-01/ODZiNDc3YjEyZmNkZTViYzFkMzQyOWNkNmZiZGY1MTEuanBlZw,"ZAFAR BHUTTA
 ISLAMABAD
 The government on Monday reduced the price of petrol by Rs2.07 per litre effective from October 1, 2024.
 Moreover, the price of high-speed diesel (HSD) has been reduced by Rs3.40 per litre.
@@ -359,8 +359,8 @@ Under the direction of PM Shehbaz Sharif, the benefit of a reduction in the pric
 OGRA had, accordingly, worked out prices of pe-troleum products and had proposed the reduction in consumer prices for the
 Ogra in a statement said that the LPG producer price is linked with Saudi Aramco-CP and US$ dollar
 ",619.0,247.03,251.29,"Petrol price slashed by Rs2.07 per litre
-",0.1,0.6,0.25,0.03,0.02,0.05,0.3,0.35,0.2,0.1,0.15,0.75,0.1,0.0,0.0,0.05,0.55,0.2,0.15,0.05,1.05,0.4,0.73,-2.7755575615628914e-17
-6,2024-09-16,https://tribune.com.pk/epaper/news/Karachi/2024-09-16/NjlhN2MxNGRjZThhMGFlZmRkZTliZWRlNWYxNmFmMDIuanBlZw,"
+",0.1,0.6,0.25,0.03,0.02,0.05,0.3,0.35,0.2,0.1,0.15,0.75,0.1,0.0,0.0,0.05,0.55,0.2,0.15,0.05,1.05,0.4,0.73,-2.775557561562892e-17
+6,6,2024-09-16,https://tribune.com.pk/epaper/news/Karachi/2024-09-16/NjlhN2MxNGRjZThhMGFlZmRkZTliZWRlNWYxNmFmMDIuanBlZw,"
 Relief as govt slashes petrol price by Rs10
 FUEL PRICES FROM PAGE 1
 a significant concern for oil marketing companies.
@@ -370,7 +370,7 @@ The reduction in global oil prices has been driven by a surplus in supply relati
 Kerosene oil, now priced at Rs158.47 per liter com- pared to the previous Rs169.62 per liter, has been reduced by Rs11.15 per liter. Kerosene is commonly used in remote areas, especially in northern Pakistan, where LPG is unavailable for stoves. The Pakistan Army is also a significant consumer of kerosene in these regions.
 ",669.0,247.03,246.29,"Volunteers rush to help as Myanmar flood toll tops 113
 ",0.1,0.4,0.2,0.2,0.1,,,,,,,0.0,1.0,0.0,,0.35,0.5,0.12,0.03,0.0,,1.17,0.2,
-7,2024-09-01,https://tribune.com.pk/epaper/news/Karachi/2024-09-01/MjRhYWY1ZTUwYjg0MDM3OWMxODE3ZGM2MDAwMGNmYjYuanBlZw,"OUR CORRESPONDENT
+7,7,2024-09-01,https://tribune.com.pk/epaper/news/Karachi/2024-09-01/MjRhYWY1ZTUwYjg0MDM3OWMxODE3ZGM2MDAwMGNmYjYuanBlZw,"OUR CORRESPONDENT
 ISLAMABAD
 Prime Minister of Pakistan
 has given approval for the re-
@@ -408,7 +408,7 @@ slashed by
 Rs1.86 per
 litre
 ",0.1,0.6,0.25,0.03,0.02,0.1,0.6,0.2,0.05,0.05,0.25,0.65,0.1,0.0,0.0,0.05,0.65,0.2,0.1,0.0,1.15,0.65,0.73,0.6499999999999999
-8,2024-08-14,https://tribune.com.pk/epaper/news/Karachi/2024-08-14/N2M3NDNmMGE0Y2VjYjk1YWU2MjEyYTY5NTI3NGMwOGUuanBlZw,"ZAFFAR BHUTTA
+8,8,2024-08-14,https://tribune.com.pk/epaper/news/Karachi/2024-08-14/N2M3NDNmMGE0Y2VjYjk1YWU2MjEyYTY5NTI3NGMwOGUuanBlZw,"ZAFFAR BHUTTA
 ISLAMABAD
 The federal government has
 announced a reduction in
@@ -446,7 +446,7 @@ diesel prices
 slashed
 significantly
 ",0.6,0.3,0.05,0.03,0.02,0.1,0.65,0.2,0.04,0.01,0.65,0.3,0.05,0.0,0.0,0.1,0.7,0.2,0.0,0.0,1.6,0.8999999999999999,1.43,0.79
-9,2024-01-08,https://tribune.com.pk/epaper/news/Karachi/2024-08-01/MDc1ZDI2YjBmNDFmM2E4YTY3MTk4NzdiY2IxYjdiNGEuanBlZw,"HSD price reduced
+9,9,2024-01-08,https://tribune.com.pk/epaper/news/Karachi/2024-08-01/MDc1ZDI2YjBmNDFmM2E4YTY3MTk4NzdiY2IxYjdiNGEuanBlZw,"HSD price reduced
 by Rs10.86 per
 litre, kerosene by
 Rs6.32 per ltitre
@@ -574,7 +574,7 @@ impact domestic LPG cylin-
 ",499.0,260.96,266.07,"Petrol price slashed by
 Rs6.17 per litre
 ",0.1,0.6,0.25,0.04,0.01,0.1,0.5,0.3,0.08,0.02,0.35,0.55,0.1,0.0,0.0,0.0,0.7,0.2,0.1,0.0,1.25,0.6,0.74,0.5800000000000001
-10,2024-07-16,"['https://tribune.com.pk/epaper/news/Karachi/2024-07-16/MjBmZjdjZDIzMDIzNjg5Mzc3ZWUyNzhiNTBjYWQ4MjQuanBlZw','https://tribune.com.pk/epaper/news/Karachi/2024-07-16/ZGY2OTFiMmZlMzgzMGZjODczZTg3ODI5NGYxNzVlZTEuanBlZw']","Petrol price raised by Rs9.99 per litre; diesel by Rs6.18 
+10,10,2024-07-16,"['https://tribune.com.pk/epaper/news/Karachi/2024-07-16/MjBmZjdjZDIzMDIzNjg5Mzc3ZWUyNzhiNTBjYWQ4MjQuanBlZw','https://tribune.com.pk/epaper/news/Karachi/2024-07-16/ZGY2OTFiMmZlMzgzMGZjODczZTg3ODI5NGYxNzVlZTEuanBlZw']","Petrol price raised by Rs9.99 per litre; diesel by Rs6.18 
 
 The federal government further squeezed people's purchasing power by raising petrol and diesel prices on Monday, a day after notifying a hike in electricity tariff for both domestic and commercial consumers. According to a finance ministry notification, petrol prices rose by Rs9.99 per litre, while high-speed diesel (HSD) increased by Rs6.18 per litre for the next fortnight starting from midnight Monday. The ministry notification said that fuel charges had been increased because of price variations in the international market worked out by the Oil and Gas Regulatory Authority (Ogra). ""Ogra has worked out consumer prices based on international market price fluctuations,"" said the notification. It clarified that there would be no changes in the applicable duties and levies, which will remain at the current level.
 
@@ -582,7 +582,7 @@ Accordingly, the new price of petrol was fixed at Rs275.6 per litre from the pre
 After offering relief to consumers in the last three revisions of oil prices, the federal government increased the prices of petroleum products by up to Rs9.56 per litre on Monday in view of fluctuations in the global fuel prices. 
 
 The upward revision of the fuel prices came a day after the government notified a substantial increase in electricity tariffs, affecting millions of consumers across the country, particularly the residential users. ",248.0,275.6,283.63,Reeling from 'electric shock' consumers hit by 'petrol bomb',0.0,0.01,0.05,0.7,0.24,0.0,0.05,0.15,0.6,0.2,0.0,0.0,0.01,0.29,0.7,0.0,0.0,0.1,0.5,0.4,-1.69,-1.3,-1.17,-0.95
-11,2024-07-01,['https://tribune.com.pk/epaper/news/Karachi/2024-07-01/NmIzNWY3MmNhZTc1NzE0ZGJlNDgyMTZlMWZjMDlmNDAuanBlZw'],"Petrol goes up by Rs7.45, diesel by Rs9.56 for current fortnight
+11,11,2024-07-01,['https://tribune.com.pk/epaper/news/Karachi/2024-07-01/NmIzNWY3MmNhZTc1NzE0ZGJlNDgyMTZlMWZjMDlmNDAuanBlZw'],"Petrol goes up by Rs7.45, diesel by Rs9.56 for current fortnight
 
 After offering relief to consumers in the last three revisions of oil prices, the federal government increased the prices of petroleum products by up to Rs 9.56 per litre on Sunday in view of fluctuations in the global fuel prices.
 
@@ -606,9 +606,9 @@ The Finance Bill 2024 has proposed a maximum petroleum levy limit of Rs80 per li
 
 Over the past fortnight, international prices for petrol and HSD have surged by approximately $4.4 and $5.5 per barrel, respectively. Premium on petrol is calculated at $9.590 per barrel and $6.50 per barrel, same as the previous review.
 
-HSD is widely used in the transport and agriculture sectors. Therefore, an increase in its price will have inflationary effects on consumers, who have been enjoying a relief due to cuts in the prices.",409.0,265.61,277.45,"After taxes in budget, fuel prices also jacked up",0.0,0.05,0.1,0.55,0.3,0.0,0.05,0.1,0.5,0.35,0.0,0.0,0.1,0.5,0.4,0.0,0.02,0.45,0.45,0.08,-1.3,-0.59,-1.0999999999999999,-1.15
-12,2024-06-15,['https://tribune.com.pk/epaper/news/Karachi/2024-06-15/MDE4YzMyNjc0NmZlYTk0ZDUxMGMwMWFlOTM2ZDdjZDQuanBlZw'],"PM Shehbaz Sharif also announced a Significant cut in petrol and diesel prices by Rs 10.20 per litre and Rs2.33 per litre respectively. Earlier on June 1, the government had announced to cut the petrol price by Rs4.74 per litre while that of HSD by Rs3.86 per litre, a PM Office press release said on Friday.",56.0,258.16,267.89,Fuel price reduction,0.1,0.75,0.1,0.03,0.02,0.1,0.6,0.25,0.04,0.01,0.05,0.6,0.3,0.03,0.02,0.05,0.75,0.2,0.0,0.0,0.63,0.85,0.8799999999999999,0.74
-13,2024-06-01,['https://tribune.com.pk/epaper/news/Karachi/2024-06-01/YzljMDE4OTIxNWFlZTcxZGJjMjhiYzM0NDJhNGRiYmYuanBlZw'],"Petrol reduced by Rs4.74; HSD by Rs3.84/ litre
+HSD is widely used in the transport and agriculture sectors. Therefore, an increase in its price will have inflationary effects on consumers, who have been enjoying a relief due to cuts in the prices.",409.0,265.61,277.45,"After taxes in budget, fuel prices also jacked up",0.0,0.05,0.1,0.55,0.3,0.0,0.05,0.1,0.5,0.35,0.0,0.0,0.1,0.5,0.4,0.0,0.02,0.45,0.45,0.08,-1.3,-0.59,-1.1,-1.15
+12,12,2024-06-15,['https://tribune.com.pk/epaper/news/Karachi/2024-06-15/MDE4YzMyNjc0NmZlYTk0ZDUxMGMwMWFlOTM2ZDdjZDQuanBlZw'],"PM Shehbaz Sharif also announced a Significant cut in petrol and diesel prices by Rs 10.20 per litre and Rs2.33 per litre respectively. Earlier on June 1, the government had announced to cut the petrol price by Rs4.74 per litre while that of HSD by Rs3.86 per litre, a PM Office press release said on Friday.",56.0,258.16,267.89,Fuel price reduction,0.1,0.75,0.1,0.03,0.02,0.1,0.6,0.25,0.04,0.01,0.05,0.6,0.3,0.03,0.02,0.05,0.75,0.2,0.0,0.0,0.63,0.85,0.8799999999999999,0.74
+13,13,2024-06-01,['https://tribune.com.pk/epaper/news/Karachi/2024-06-01/YzljMDE4OTIxNWFlZTcxZGJjMjhiYzM0NDJhNGRiYmYuanBlZw'],"Petrol reduced by Rs4.74; HSD by Rs3.84/ litre
 
 After an initial confusion about the fuel rates caused by the premier's ""directives"" that was hurriedly clarified, the government on Friday slashed the prices of petrol and high-speed diesel (HSD) by Rs4.74 and Rs3.84 per litre, respectively.
 
@@ -638,8 +638,8 @@ next fortnightly of May this year,
 
 Notably, the price of crude oil has decreased in the inter- national market during the second fortnightly of May and currently roaming around $81 per barrel.
 
-The federal government is currently charging Rs6o per litre petroleum levy on both petrol and HSD. Currently, no general sales tax is being charged on these two products.",424.0,268.36,270.22,"After initial gaffe, govt notifies cut in fuel rates",0.05,0.3,0.45,0.15,0.05,0.05,0.5,0.3,0.1,0.05,0.0,0.6,0.25,0.15,0.0,,0.45,0.35,0.1,,0.44999999999999996,,0.15,0.4
-14,2024-05-16,['https://tribune.com.pk/epaper/news/Karachi/2024-05-16/NzU5YWJlZWFjYjE4NjM4ZDRhNjA1NThiNTM1MWNjNjMuanBlZw'],"In a significant relief for consumers grappling with inflation, the government announced a welcome reduction in petrol and high-speed diesel (HSD) prices for the upcoming fortnight.  Effective from May 16 (Thursday), the new prices bring respite as petrol sees a decrease of Rs15.39 per litre, now priced at Rs273.1o0, while HSD experiences a dip of Rs7.88 per litre, with the new rate at Rs274.08.
+The federal government is currently charging Rs6o per litre petroleum levy on both petrol and HSD. Currently, no general sales tax is being charged on these two products.",424.0,268.36,270.22,"After initial gaffe, govt notifies cut in fuel rates",0.05,0.3,0.45,0.15,0.05,0.05,0.5,0.3,0.1,0.05,0.0,0.6,0.25,0.15,0.0,,0.45,0.35,0.1,,0.4499999999999999,,0.15,0.4
+14,14,2024-05-16,['https://tribune.com.pk/epaper/news/Karachi/2024-05-16/NzU5YWJlZWFjYjE4NjM4ZDRhNjA1NThiNTM1MWNjNjMuanBlZw'],"In a significant relief for consumers grappling with inflation, the government announced a welcome reduction in petrol and high-speed diesel (HSD) prices for the upcoming fortnight.  Effective from May 16 (Thursday), the new prices bring respite as petrol sees a decrease of Rs15.39 per litre, now priced at Rs273.1o0, while HSD experiences a dip of Rs7.88 per litre, with the new rate at Rs274.08.
 
 The decision, outlined in a notification by the finance ministry, comes as a response to the recent downward trend in global petroleum prices. The ministry highlighted that the Oil and Gas Regulatory Authority (OGRA) diligently computed consumer prices, aligning them with international market fluctuations.
 
@@ -659,8 +659,8 @@ Kerosene will now be sold at Rs173.48 per litre from Rs183.34 and LDO at Rs161.1
 
 In the northern regions, the armed forces stand as a major consumer of LPG, utilising it extensively for heating and food preparation. LDO is mainly used in industries. At present, the government is charging Rs 60 per liter petroleum levy each on petrol and HSD. However, the rate of general sales tax (GST) is zero, The Centre had tactically increased the rate of petroleum levy to avoid sharing it with provinces.
 
-In the past, the GST used to be higher, and the federal government was obligated to share it with provinces. ",383.0,273.1,274.08,Petrol becomes cheaper by Rs 15.39/litre,0.1,0.6,0.25,0.04,0.01,0.1,0.75,0.12,0.02,0.01,0.1,0.8,0.1,0.0,0.0,0.45,0.35,0.18,0.02,0.0,1.0,1.23,0.74,0.9099999999999999
-15,2024-05-01,['https://tribune.com.pk/epaper/news/Karachi/2024-05-01/MDMyYWJiM2Q5NzEwNGE0YjA3NWE3NzE3MzAwODcxMDYuanBlZw'],"The government on Tuesday slashed the fuel prices from Wednesday (today), in line with the recommendations of the Oil and Gas Regulatory Authority (OGRA), according to a notification issued by the finance ministry.
+In the past, the GST used to be higher, and the federal government was obligated to share it with provinces. ",383.0,273.1,274.08,Petrol becomes cheaper by Rs 15.39/litre,0.1,0.6,0.25,0.04,0.01,0.1,0.75,0.12,0.02,0.01,0.1,0.8,0.1,0.0,0.0,0.45,0.35,0.18,0.02,0.0,1.0,1.23,0.74,0.91
+15,15,2024-05-01,['https://tribune.com.pk/epaper/news/Karachi/2024-05-01/MDMyYWJiM2Q5NzEwNGE0YjA3NWE3NzE3MzAwODcxMDYuanBlZw'],"The government on Tuesday slashed the fuel prices from Wednesday (today), in line with the recommendations of the Oil and Gas Regulatory Authority (OGRA), according to a notification issued by the finance ministry.
 
 The ministry notified the new reduced prices of petrol and diesel for the next fortnight. It did not notify the reduced prices of light diesel oil and kerosene for being deregulated. A separate notification was issued by Ogra for the decrease in the price of liquefied petroleum gas (LPG).
 
@@ -675,7 +675,7 @@ Separately, Ogra notified Rs11.88 per kilogram decrease in the LPG price to Rs23
 In April, the LPG price was fixed at Rs250 per kg and domestic cylinder was available at Rs2,954 and commercial cylinder at Rs11,366 in the open market. However, the domestic cylinder would now be available at Rs 2,814 and commercial cylinder at Rs 10,826.
 
 Ogra said in a statement that the LPG producer price was linked to the Saudi Aramco-CP and the US dollar exchange rate. As compared to previous month, the Saudi Aramco-CP has decreased by 5.6%. The average dollar exchange rate has also gone down by 0.18%, resulting to 4.74% decrease in the price.",354.0,288.49,281.96,"Petrol price slashed by Rs5.45, HSD by Rs8.42",0.1,0.6,0.25,0.04,0.01,0.1,0.6,0.25,0.04,0.01,0.45,0.4,0.15,0.0,0.0,0.12,0.73,0.15,0.0,0.0,1.3,0.97,0.74,0.74
-16,2024-04-16,['https://tribune.com.pk/epaper/news/Karachi/2024-04-16/MWMzZjk4ZjY1MzNhMDFlZTNiMDllZjcxYmNiNjk2NzAuanBlZw'],"Govt says rate increased in view of rising trend in international market
+16,16,2024-04-16,['https://tribune.com.pk/epaper/news/Karachi/2024-04-16/MWMzZjk4ZjY1MzNhMDFlZTNiMDllZjcxYmNiNjk2NzAuanBlZw'],"Govt says rate increased in view of rising trend in international market
 
 The federal government raised the prices of petroleum products by up to Rs8.14 per liter on Monday due to fluctuations in global oil prices. The new prices will take effect from today, April 16, This marks the second price hike in petroleum products this month. According to a notification, the price of petrol has been raised by Rs4.53 per liter, from Rs289.41 to Rs293.94 per liter. The price of high-speed diesel (HSD) has also been increased by Rs8.14 per liter, from Rs282.24 to Rs290.38 per liter.
 
@@ -695,8 +695,8 @@ The federal government strategically increased the petroleum levy rate as revenu
 
 Oil and electricity consumers are seen as easy targets for taxation, with the government preferring to levy higher taxes on them rather than expanding the tax net.
 
-Consumers may face increased taxes in the upcoming budget due to IMF pressure. There are indications that the government may raise the petroleum levy rate in the forthcoming budget to bolster revenue collection from oil consumers.",411.0,293.94,290.38,Petrol price jacked up for 2nd time in April,0.0,0.05,0.15,0.65,0.15,0.0,0.05,0.1,0.55,0.3,0.0,0.0,0.05,0.55,0.4,0.0,0.01,0.15,0.5,0.34,-1.35,-1.1700000000000002,-0.8999999999999999,-1.0999999999999999
-17,2024-04-01,['https://tribune.com.pk/epaper/news/Karachi/2024-04-01/OTNkMGZlNjY0NjkwNDkyZTBhODNiNWNkMmYyMWJlN2EuanBlZw'],"The new government on Sunday increased the price of petrol by Rs 9.66 per litre effective from Monday (today) in line with the fluctuation in global oil prices — just as the inflation-hit people were preparing to celebrate the upcoming Eidul Fitr.
+Consumers may face increased taxes in the upcoming budget due to IMF pressure. There are indications that the government may raise the petroleum levy rate in the forthcoming budget to bolster revenue collection from oil consumers.",411.0,293.94,290.38,Petrol price jacked up for 2nd time in April,0.0,0.05,0.15,0.65,0.15,0.0,0.05,0.1,0.55,0.3,0.0,0.0,0.05,0.55,0.4,0.0,0.01,0.15,0.5,0.34,-1.35,-1.1700000000000002,-0.8999999999999999,-1.1
+17,17,2024-04-01,['https://tribune.com.pk/epaper/news/Karachi/2024-04-01/OTNkMGZlNjY0NjkwNDkyZTBhODNiNWNkMmYyMWJlN2EuanBlZw'],"The new government on Sunday increased the price of petrol by Rs 9.66 per litre effective from Monday (today) in line with the fluctuation in global oil prices — just as the inflation-hit people were preparing to celebrate the upcoming Eidul Fitr.
 
 However, it decreased the price of high-speed diesel (HSD) by Rs 3.32 per litre on the recommendation of the Oil and Gas Regulatory Authority (Ogra).
 
@@ -726,8 +726,8 @@ Kerosene is primarily used for adulteration and lighting in remote areas, while 
 
 Currently, the government is charging a levy of Rs6o per litre on almost all petroleum products.
 
-The International Monetary Fund (IMF) is pushing the government to impose a general sales tax (GST) of Rs18 per litre on the petroleum products. Presently, there is no GST on these products. If the government imposes the GST, the prices of petroleum products will go up further up in the coming months.",433.0,289.41,282.24,Govt drops 'petrol bomb' on inflation hit nation,0.0,0.05,0.1,0.5,0.35,0.1,0.3,0.2,0.25,0.15,0.0,0.0,0.05,0.2,0.75,0.05,0.3,0.15,0.3,0.2,-1.7,-0.29999999999999993,-1.15,-0.050000000000000044
-18,2024-03-16,['https://tribune.com.pk/epaper/news/Karachi/2024-03-16/YWI5OWE1ZDk1OTQxNDgyZWY0ZTMwMTlmOWUzOWIzY2MuanBlZw'],"Diesel would now be available at Rs 285.56 per litre, says statement
+The International Monetary Fund (IMF) is pushing the government to impose a general sales tax (GST) of Rs18 per litre on the petroleum products. Presently, there is no GST on these products. If the government imposes the GST, the prices of petroleum products will go up further up in the coming months.",433.0,289.41,282.24,Govt drops 'petrol bomb' on inflation hit nation,0.0,0.05,0.1,0.5,0.35,0.1,0.3,0.2,0.25,0.15,0.0,0.0,0.05,0.2,0.75,0.05,0.3,0.15,0.3,0.2,-1.7,-0.2999999999999999,-1.15,-0.05
+18,18,2024-03-16,['https://tribune.com.pk/epaper/news/Karachi/2024-03-16/YWI5OWE1ZDk1OTQxNDgyZWY0ZTMwMTlmOWUzOWIzY2MuanBlZw'],"Diesel would now be available at Rs 285.56 per litre, says statement
 
 In a move to provide some relief to people during Ramazan from the persistently high inflation, the federal government on Friday reduced the price of high-speed diesel (HSD) by Rs 1.77 per litre while maintaining the tariffs of petrol, according to a statement issued by the Finance Division. According to the statement, the HSD would now be available at Rs285.56 per litre. The price of petrol has been kept at Rs 279.75 per litre. The prices would be effective from midnight today. The statement underscored that these revisions align with the recommendations of the fuel regulator, the Oil and Gas Regulatory Authority (Ogra).
 
@@ -738,7 +738,7 @@ Petrol is mainly used in motorbikes and passenger cars and it is also an alterna
 Owing to the scarcity of locally produced gas, the transport sector in Punjab primarily uses petrol and imported liquefied natural gas (LNG).
 
 Kerosene oil is used for cooking purposes in far-off areas of the country, especially its northern parts where liquefied petroleum gas (LPG) is not readily available. Pakistan Army is also a major consumer of kerosene oil.",226.0,279.75,285.56,"HSD price reduced by Rs1.77 per litre, petrol left unchanged",0.05,0.6,0.3,0.03,0.02,0.03,0.2,0.55,0.18,0.04,0.0,0.25,0.75,0.0,0.0,0.05,0.45,0.5,0.0,0.0,0.25,0.55,0.63,0.0
-19,2024-03-01,['https://tribune.com.pk/epaper/news/Karachi/2024-03-01/MzUwZjExNTFiNjc1MTFkMGFhN2U1OWU0MmNjOTY1YzMucG5n'],"Diesel rate kept unchanged at Rs287.33 per litre
+19,19,2024-03-01,['https://tribune.com.pk/epaper/news/Karachi/2024-03-01/MzUwZjExNTFiNjc1MTFkMGFhN2U1OWU0MmNjOTY1YzMucG5n'],"Diesel rate kept unchanged at Rs287.33 per litre
 
 The interim government on Thursday announced an increase of Rs 4.13 per litre in the price of petrol for the fortnight starting from March 1, 2024 due to higher import premium. Ina late night statement, the Finance Division announced an increase in the ex-depot petrol price, whereas, the rate of high speed diesel (HSD) had been kept unchanged for the fortnight (March 1-15). The price of petrol has been fixed at Rs279.75 from Rs275.62 per litre. The price of HSD has been kept unchanged at Rs287.33 per litre.
 
@@ -749,7 +749,7 @@ Import premium on petrol is estimated at $10.48 per barrel which was recoded at 
 The government is charging Rs6o per litre Petroleum Levy on both HSD and petrol.
 
 In the first two months of the current year, geopolitical unrest in the Middle East and concerns about declining supplies drove up the price of oil by almost 10 per cent.",205.0,279.75,287.33,Caretakers hike petrol price before their exit,0.0,0.05,0.1,0.6,0.25,0.0,0.05,0.6,0.25,0.1,0.0,0.0,0.1,0.7,0.2,0.0,0.15,0.45,0.4,0.0,-1.1,-0.25,-1.05,-0.4
-20,2024-02-16,['https://tribune.com.pk/epaper/news/Karachi/2024-02-16/ZDUzNmQ2YTZjMmY1MWI2OTM0ZmUwOTFkM2Q3MzIzMzAucG5n'],"Residential gas prices up 67%; subsidy to fertiliser plants goes
+20,20,2024-02-16,['https://tribune.com.pk/epaper/news/Karachi/2024-02-16/ZDUzNmQ2YTZjMmY1MWI2OTM0ZmUwOTFkM2Q3MzIzMzAucG5n'],"Residential gas prices up 67%; subsidy to fertiliser plants goes
 
 The government on Thursday increased gas tariff for residential users by up to 67% and up to 700% hike for fertiliser plants, while jacked up the prices of petroleum products by up to Rs8.37 per liter from Friday (today), in a move aimed at addressing the economic dynamics and ensuring stability in the energy sector.
 
@@ -764,7 +764,7 @@ Residential consumers The fresh revision also puts maximum burden on the most vu
 The prices for non-protected residential consumers are either now close to the prescribed price of Rs1,597 per mmbtu or even higher than the prices of imported re-gasified liquefied natural gas (RLNG). The rates for 1.5 Hm3 consumers have been increased to Rs1,450 - higher by 21%. The new prices for the 2 Hm3 monthly consumption consumers are Rs1,900-up by 19% - and Rs300 more than the cost of gas they need to pay. Similarly for the next slab of 3 Hms consumption, the new rate is Rs3,300 - close to the imported gas rate of Rs 3,750.
 
  The two highest residential slabs are charged rates that are even higher than the imported gas prices Rs3,800 and R$4,300. They are now forced to pay for the subsidies of other domestic consumers, which is unjustifiable. Earlier this month, OGRA is- sued a determination of revised estimated revenue requirements (RERR) for FY 2023-24 for both the SNGPL and the SSGCL. According to the revised determination, the SNGPL requires a revenue of Rs592 billion and the SSCCL requires a revenue of Rs310 billion this fiscal year, the total revenue requirement has been determined at Rs902 billion, arriving at an average prescribed price of Rs1,596 per mmbtu. The residential consumers of housing societies that buy gas in bulk will face a 45% increase in their prices. Their new rate is Rs2,900-up by Rs900 compared to current rates that too are just three months old. The fresh increase in prices is expected to further fuel the inflation that remains far higher than the goal set by the central bank. The inflation rate in January remained at 28.4% as against the annual target of 21%. Industrial Consumers The cabinet approved further increase in the gas prices for the in-house power generation of the industries for both the export and non-export sectors. Going forward, the cabinet has ended the distinction of the ex- port and non-export and a new uniformed rate for in-house gas plants has been set. The cabinet approved increase in the captive plants rates from Rs2,200 to 2,750 for exporters and from Rs2,500 to 2,750 for  local production - an increase, ranging from 10% to 25%. The Petroleum Division had proposed Rs2,950 per mmbtu rate, which was opposed by the industry minister. The Pakistan Textile Exporters Association (PTEA) Pattern- in-Chief Khurram Mukhtar emphasised the need for negotiating sustainable energy tariffs with the IMF and rationalising cross subsidies on industrial energy tariffs to support growth. ""Just raising energy tariffs is not going to work; strict enforcement requires reducing T&D losses and full bills recovery,"" said Mukhtar. ""Current hike in gas and electricity tariffs is disastrous for the economy and lacks any wisdom,"" he added. Fertiliser plants The caretaker cabinet has taken some corrective measures to stop the misuse of subsidy by the fer- tiliser plants. These plants were availing subsidised gas but were still selling expensive urea to the farmers. The cabinet approved increase  in the feed gas prices for Engro Fertiliser from Rs200 to Rs1,597 per MMBtu a surge of 700% that ends R$39 billion subsidies. The effective date for revised gas tariff for Engro Fertiliser is 1st March, 2024. It also approved increase in gas prices for Fauji Fertiliser Bin Qasim Limited (FFBQL) from Rs580 to Rs1,597 mmbtu, showing an increase of 175% and ending its Rs10 billion subsidy. Agritech and Fatima Fertiliser are currently getting RLNG from SNGPL network. The cabinet approved increasing their prices by 29% to Rs1,597 per mmbtu, which is the average prescribed price in case these plants are offered system gas on SNGPL. The government still has to increase the gas prices for those fertiliser plants, which are availing the gas from the Mari Gas network. For the CNG sector, the government has increased the prices from Rs3,600 per mmbtu to R$3,750 per mmbtu equivalent to the RLNG price being the fuel for majority CNC producers in the country.",1199.0,275.62,287.33,"Homes hit, businesses reel as energy rates jacked up",0.0,0.01,0.1,0.6,0.29,0.0,0.05,0.1,0.45,0.4,0.0,0.0,0.05,0.45,0.5,0.0,0.05,0.2,0.47,0.28,-1.45,-0.98,-1.17,-1.2
-21,2024-02-01,['https://tribune.com.pk/epaper/news/Karachi/2024-02-01/MjJjNGViNWRkZjI3ZjNjM2E0Mjg3MDU2ZjQ0MTY4NjMucG5n'],"Diesel rate also goes up by Rs2.75 for the fortnight
+21,21,2024-02-01,['https://tribune.com.pk/epaper/news/Karachi/2024-02-01/MjJjNGViNWRkZjI3ZjNjM2E0Mjg3MDU2ZjQ0MTY4NjMucG5n'],"Diesel rate also goes up by Rs2.75 for the fortnight
 
 The government on Wednesday implemented a significant hike in petrol prices by Rs 13.55 per litre for the fortnight starting February 1-15.
 
@@ -779,7 +779,7 @@ In Punjab, there is no indigenous gas available for the CNG sector for several y
 ""The government of Pakistan has decided to bring changes in the current prices of petroleum products during the fortnight starting from 1st February 2024, as recommended by the Oil and Gas Regulatory Authority (OGRA),"" the finance ministry said in the statement.
 
  Pakistan is a net importer of petroleum products, therefore, premium on oil imports also reflects in the prices. Import premium on petrol is estimated at $9.47 per barrel, whereas, the premium on HSD has been estimated to increase to $6.50 per barrel from $5.30 per barrel. In the international market, the price of Brent had gone up by $5 per barrel to $83 from $78 per barrel on January 16. The HSD has also become costlier by about $2 per barrel to $97 from about $95 per barrel during the same period. At present, the government is charging higher rate of petroleum levy on petroleum products up to Rs 60 per litre. Therefore, the key reason of higher oil prices in Pakistan was the higher taxes, which the federal government was collecting to meet current expenditures. The Russia and Ukraine war was also another reason that had led to higher oil prices in the international market that affected the prices on domestic level.",390.0,272.89,278.96,Buckle up motorists: petrol surges by Rs13.55,0.0,0.05,0.1,0.6,0.25,0.0,0.05,0.25,0.5,0.2,0.0,0.0,0.1,0.5,0.4,0.0,0.0,0.55,0.35,0.1,-1.3,-0.55,-1.05,-0.85
-22,2024-01-16,"['https://tribune.com.pk/epaper/news/Karachi/2024-01-16/MTFlYjA4YzRhYWRjYmEzMzJiZjVlNDM4YmM4Njk1Y2MuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2024-01-16/MDY0NjdhOTVhZGNjM2IyYzEyZGNlNGZhMDgxYjZiOWMuanBlZw']","Price of high-speed diesel remains unchanged
+22,22,2024-01-16,"['https://tribune.com.pk/epaper/news/Karachi/2024-01-16/MTFlYjA4YzRhYWRjYmEzMzJiZjVlNDM4YmM4Njk1Y2MuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2024-01-16/MDY0NjdhOTVhZGNjM2IyYzEyZGNlNGZhMDgxYjZiOWMuanBlZw']","Price of high-speed diesel remains unchanged
 
 The caretaker federal government has announced a significant reduction in the price of petrol by Rs 8 per litre, effective from today (Tuesday). The new price of petrol is now Rs259.34 per litre, down from the previous Rs267.34.
 
@@ -799,8 +799,8 @@ Kerosene oil is widely used in stoves in remote areas where liquefied petroleum 
 
 The decision-making process also took into account global oil market dynamics, with Brent Oil prices decreasing by $1.5 per barrel from $84.50 to $83 since January 1, 2024.
 
-Additionally, the HSD rate experienced a modest reduction of ap- proximately $1 per barrel, falling from $97 to $95.80. It is noteworthy that during this period, the Pakistani rupee has gained ground against the US dollar by Rs3.",315.0,259.34,276.21,Consumers get Rs8/litre relief on petrol price,0.1,0.8,0.05,0.03,0.02,0.1,0.5,0.35,0.03,0.02,0.2,0.65,0.15,0.0,0.0,0.03,0.35,0.45,0.17,0.0,1.05,0.23999999999999996,0.9299999999999999,0.63
-23,2024-01-01,['https://tribune.com.pk/epaper/news/Karachi/2024-01-01/MTRjNDJlZDM0ZTkyYzk2ZmM0YWNhYjNlY2E5ZjdmNDAuanBlZw'],"The government has decided to keep the current prices of petrol and high-speed diesel (HSD) unchanged from January 1 till January 15 this year, the finance ministry notified on Sunday.
+Additionally, the HSD rate experienced a modest reduction of ap- proximately $1 per barrel, falling from $97 to $95.80. It is noteworthy that during this period, the Pakistani rupee has gained ground against the US dollar by Rs3.",315.0,259.34,276.21,Consumers get Rs8/litre relief on petrol price,0.1,0.8,0.05,0.03,0.02,0.1,0.5,0.35,0.03,0.02,0.2,0.65,0.15,0.0,0.0,0.03,0.35,0.45,0.17,0.0,1.05,0.2399999999999999,0.93,0.63
+23,23,2024-01-01,['https://tribune.com.pk/epaper/news/Karachi/2024-01-01/MTRjNDJlZDM0ZTkyYzk2ZmM0YWNhYjNlY2E5ZjdmNDAuanBlZw'],"The government has decided to keep the current prices of petrol and high-speed diesel (HSD) unchanged from January 1 till January 15 this year, the finance ministry notified on Sunday.
 
 The notification added that decision had been made on the recommendation of the Oil and Gas Regulatory Authority (Ogra).
 
@@ -898,8 +898,8 @@ Later, the board members had unanimously ap- proved the provision of Rs13 millio
 
  
 
-  ",980.0,267.34,276.21,Fuel prices to remain unchanged,0.0,0.05,0.8,0.1,0.05,,,,,,0.0,0.01,0.98,0.01,0.0,0.0,0.65,0.35,0.0,0.0,0.0,0.65,-0.15000000000000002,
-24,2023-12-16,['https://tribune.com.pk/epaper/news/Karachi/2023-12-16/MjMyMzgzZjI4NWFhMTc1NmRjMzc2YWFlOWU3NDQxZTEuanBlZw'],"Also decreases rates of diesel and kerosene oil
+  ",980.0,267.34,276.21,Fuel prices to remain unchanged,0.0,0.05,0.8,0.1,0.05,,,,,,0.0,0.01,0.98,0.01,0.0,0.0,0.65,0.35,0.0,0.0,0.0,0.65,-0.15,
+24,24,2023-12-16,['https://tribune.com.pk/epaper/news/Karachi/2023-12-16/MjMyMzgzZjI4NWFhMTc1NmRjMzc2YWFlOWU3NDQxZTEuanBlZw'],"Also decreases rates of diesel and kerosene oil
 
 The caretaker federal government on Friday decreased the prices of petroleum products by up to Rs14 per litre for the next fortnight on the recommendation of the Oil and Gas Regulatory Authority. According to a notification issued by the Finance Division, petrol, which was earlier being sold at Rs281.34 per litre, will now be avail- able at Rs267.34 per litre, showing a drop of Rs14. Petrol is an alternative to the compressed natural gas (CNG), especially in Punjab where CNG outlets rely on imported gas. However, in the recent winter, LNG was not made available to them.
 
@@ -912,7 +912,7 @@ sectors. The reduction in its price will bring the inflationary impact down and 
 Further, the price of kerosene oil also witnessed a decline of Rsio.14 per litre to Rs191.02 from the earlier Rs201.16. Kerosene oil is an important household fuel because of its use for cooking and heating purposes in remote areas.
 
 Pakistan Army is also its key user in the northern part of Pakistan. The government also cut the price of light diesel oil by Rs11.29 from Rs175.93 per litre to Rs164.64 per litre. The light diesel oil is used in industry.",234.0,267.34,276.21,Govt slashes petrol price by Rs 14 per litre,0.1,0.75,0.1,0.04,0.01,0.1,0.6,0.25,0.03,0.02,0.3,0.5,0.2,0.0,0.0,0.35,0.6,0.05,0.0,0.0,1.1,1.2999999999999998,0.8899999999999999,0.73
-25,2023-12-01,['https://tribune.com.pk/epaper/news/Karachi/2023-12-01/NDE5ZGU0MjU0YzMxYTc3Y2JkYTI3NDZhODkwZjYyYTYucG5n'],"Keeps petrol rate unchanged; increases LPG price by 1.5%
+25,25,2023-12-01,['https://tribune.com.pk/epaper/news/Karachi/2023-12-01/NDE5ZGU0MjU0YzMxYTc3Y2JkYTI3NDZhODkwZjYyYTYucG5n'],"Keeps petrol rate unchanged; increases LPG price by 1.5%
 
 The government on Thursday slashed the price of high speed diesel (HSD) by Rs7 per litre in line with fluctuation in the global oil prices effective from Dec 1, 2023. Following the reduction, high speed diesel (HSD) will be sold at Rs289.71 per litre against the earlier price of Rs296.71 per litre, registering a decline of Rs7 per litre. However, the government decided to maintain the existing prices of petrol for the next fortnight during month of December. Petrol will be sold at its existing price of Rs281.34 per litre. The government has decided to reduce the price of kerosene oil by Rs3.82 per litre. Following the reduction, kerosene oil will be available at Rs201.16 per litre against its earlier price of Rs204.98 per litre. The price of light diesel oil (LDO) has also come down by Rs 4.52 per litre from Rs180.45 to Rs175.93 per litre.
 
@@ -927,14 +927,14 @@ The LPG consumer price has also been adjusted. For Dec 2023, it is set at Rs254,
 Ogra attributed the price changes to the fluctuation in the US dollar exchange rate, which went up by 1.87%.
 
 However, the Saudi Aramco Contract Price (CP), which also influences LPG prices in Pakistan, remained unchanged. As a result of these factors, the LPG consumer price saw an increase of 1.5%, or Rs45.18 per 11.8 kg cylinder, and the per kilo increase in LPG consumer price is Rs3.82.",342.0,281.34,289.71,Govt slashes diesel price by Rs7,0.1,0.6,0.2,0.05,0.05,0.0,0.1,0.45,0.3,0.15,0.3,0.65,0.05,0.0,0.0,0.03,0.3,0.4,0.25,0.02,1.25,0.07,0.6499999999999999,-0.5
-26,2023-11-16,['https://tribune.com.pk/epaper/news/Karachi/2023-11-16/NDQ2YzkxNjUxYjdmMzBmMzU4ZjFkZjNmNTZlNWI4NWIuanBlZw'],"The federal caretaker government reduced the prices of petroleum products on Wednesday, providing much-needed relief to the people who have borne the brunt of a challenging economic crisis since mid-2022. According to a notification issued by the Finance Division, the price of petrol has been reduced by Rs2.04 whereas the tariff of high-speed diesel (HSD) has been slashed by Rs6.47. It stated that the prices of petroleum products were reduced following a recommendation by the Oil and Gas Regulatory Authority (Ogra). After the reduction, the price of petrol has been reduced from Rs283.38 to Rs281.34. Petrol is predominantly used in motorbikes and cars as an alternative to compressed natural gas (CNG), especially in the Punjab province where indigenous gas is not available at CNG retail outlets. Similarly, the tariff of HSD has been slashed from Rs303.18 to Rs296.71. HSD is primarily used in the agriculture and transport sectors, and this price reduction may help alleviate inflation to some extent.
+26,26,2023-11-16,['https://tribune.com.pk/epaper/news/Karachi/2023-11-16/NDQ2YzkxNjUxYjdmMzBmMzU4ZjFkZjNmNTZlNWI4NWIuanBlZw'],"The federal caretaker government reduced the prices of petroleum products on Wednesday, providing much-needed relief to the people who have borne the brunt of a challenging economic crisis since mid-2022. According to a notification issued by the Finance Division, the price of petrol has been reduced by Rs2.04 whereas the tariff of high-speed diesel (HSD) has been slashed by Rs6.47. It stated that the prices of petroleum products were reduced following a recommendation by the Oil and Gas Regulatory Authority (Ogra). After the reduction, the price of petrol has been reduced from Rs283.38 to Rs281.34. Petrol is predominantly used in motorbikes and cars as an alternative to compressed natural gas (CNG), especially in the Punjab province where indigenous gas is not available at CNG retail outlets. Similarly, the tariff of HSD has been slashed from Rs303.18 to Rs296.71. HSD is primarily used in the agriculture and transport sectors, and this price reduction may help alleviate inflation to some extent.
 
 The price of kerosene oil, whose consumption increases significantly during winters in remote areas, has been reduced to Rs204.98 per litre from Rs211.03 per litre.
 
 Kerosene oil is commonly used in stoves, particularly in remote areas, including the northern regions of the country. The Pakistan Army is also a major consumer of kerosene oil.
 
 The government has also reduced the price of light-diesel oil (LDO) from Rs189.46 to Rs180.45 per litre.",230.0,281.34,296.71,"Petrol price slashed by Rs2.04, HSD by Rs6.47",0.1,0.6,0.25,0.04,0.01,0.1,0.65,0.2,0.04,0.01,0.1,0.65,0.25,0.0,0.0,0.4,0.45,0.15,0.0,0.0,0.8500000000000001,1.25,0.74,0.79
-27,2023-11-01,['https://tribune.com.pk/epaper/news/Karachi/2023-11-01/ODNiYTVmN2VlMTFhMGUxODBkZWJjOGM4N2FlMTdlYzcuanBlZw'],"Traders reluctant to reduce commodity costs and pass on benefits  In a perplexing trend, while commodity prices and transport fares surge rapidly in response to increases in fuel costs and exchange rates, they exhibit stubborn resistance to reduction, even as the rupee strengthens against the dollar and the government cuts fuel prices.
+27,27,2023-11-01,['https://tribune.com.pk/epaper/news/Karachi/2023-11-01/ODNiYTVmN2VlMTFhMGUxODBkZWJjOGM4N2FlMTdlYzcuanBlZw'],"Traders reluctant to reduce commodity costs and pass on benefits  In a perplexing trend, while commodity prices and transport fares surge rapidly in response to increases in fuel costs and exchange rates, they exhibit stubborn resistance to reduction, even as the rupee strengthens against the dollar and the government cuts fuel prices.
 
 Ever since the start of October, petrol and diesel prices have gone down by Rs4o, and the rupee has made more than Rs 20 in gains against the dollar in the same time period.
 
@@ -960,8 +960,8 @@ If the government restricts itself to announcing a decrease in fuel prices every
 
 However, Malik Naeem, a trader at the Rampura Gate area in Peshawar, believes that even if the government were to start enforcing price limits, it would not be practical for traders like him to comply. ""I purchased my stock when both fuel and the dollar rate were above the Rs300 mark. Why should I sell it for cheap now? When I buy new stock at reduced rates, I will be happy to pass it on to my customers,"" declared Naeem.
 
-A similarly defiant Malik Qaiser Gujjar, owner of a local transport company in Southern Punjab, claimed that the reduction of pettol prices could not be seen in a vacuum. ""When fuel prices were at an all-time high, many transporters were forced out of business. Now we have fewer buses to meet the demand, thus we have to charge more,"" explained Gujjar while talking to The Express Tribune.",787.0,283.38,303.18,"Stubborn inflation: fuel and rupee improve, prices don't",0.0,0.1,0.3,0.4,0.2,0.02,0.05,0.15,0.55,0.23,0.0,0.05,0.15,0.55,0.25,0.0,0.02,0.1,0.4,0.48,-1.0,-1.3399999999999999,-0.7000000000000001,-0.9199999999999999
-28,2023-10-16,['https://tribune.com.pk/epaper/news/Karachi/2023-10-16/MjYxMDBkZWE2ZDE0MTYwM2ExODhjMzkwMTQwOTYxZWIuanBlZw'],"Govt reduces rate by Rs40 per litre, effective today  The federal caretaker government has made a substantial reduction in the price of petrol, cutting it by Rs 40 per litre, providing the much-needed relief to the people who have borne the brunt of a challenging economic crisis since mid-2022.
+A similarly defiant Malik Qaiser Gujjar, owner of a local transport company in Southern Punjab, claimed that the reduction of pettol prices could not be seen in a vacuum. ""When fuel prices were at an all-time high, many transporters were forced out of business. Now we have fewer buses to meet the demand, thus we have to charge more,"" explained Gujjar while talking to The Express Tribune.",787.0,283.38,303.18,"Stubborn inflation: fuel and rupee improve, prices don't",0.0,0.1,0.3,0.4,0.2,0.02,0.05,0.15,0.55,0.23,0.0,0.05,0.15,0.55,0.25,0.0,0.02,0.1,0.4,0.48,-1.0,-1.34,-0.7000000000000001,-0.92
+28,28,2023-10-16,['https://tribune.com.pk/epaper/news/Karachi/2023-10-16/MjYxMDBkZWE2ZDE0MTYwM2ExODhjMzkwMTQwOTYxZWIuanBlZw'],"Govt reduces rate by Rs40 per litre, effective today  The federal caretaker government has made a substantial reduction in the price of petrol, cutting it by Rs 40 per litre, providing the much-needed relief to the people who have borne the brunt of a challenging economic crisis since mid-2022.
 
 The price of petrol has been reduced from Rs 323.38 to Rs 283.38 per litre, effective from today, Oct 16. This reduction is in line with fluctuations in the global oil prices and the strengthening of the Pakistani rupee against the US dollar.
 
@@ -981,8 +981,8 @@ The government has increased the petroleum levy by Rs 5 per litre on HSD, raisin
 
 However, the government imposes zero sales tax on these two petroleum products. Sales tax revenue goes to the provinces, while petroleum levy revenue is collected by the federal government. This explains why the federal government reduced the sales tax to zero but continued to increase the petroleum levy. In addition, the government imposes a petroleum levy of Rs50 per litre on the HOBC and Rs32.56 per litre on E-10 gasoline. E-10 gasoline is a biofuel composed of 90% regular unleaded and 10% ethanol, a natural byproduct of plant fermentation. The government collects approximately Rs75 billion in revenue from petroleum levy from oil consumers every month, according to some estimates. Sources indicate that the prices of petroleum products on Platts, a price benchmark service for the oil industry, have significantly decreased, and the Pakistani rupee has strengthened against the US dollar. Over the past two weeks, the Pakistani rupee has gained an average of Rs 7.50 against the US dollar. The average prices of petrol and HSD on Platts, including incidentals and duties, are Rs233.49 per litre and Rs305.93 per litre, respectively. The PSO, responsible for importing petroleum products, has been granted of an exchange loss adjustment of Rs 0.74 per litre on petrol.  The government has also so increased dealers' margins op by Rs 0.41 per litre on petrol and diesel, raising them Hu from Rs7.82 to Rs8.23 per litre.
 
-Oil marketing companies (OMCs) have seen their margins increase by Rs 0.33 per litre, from Rs7.08 to Rs7.41 per litre on petrol, and by Rs 0.47 per litre on HSD, from Rs6.94 to Rs7.41 per litre.",579.0,283.38,303.18,Petrol price cut fuels big relief to masses,0.1,0.8,0.05,0.03,0.02,0.15,0.55,0.2,0.08,0.02,0.65,0.3,0.05,0.0,0.0,0.25,0.4,0.25,0.1,0.0,1.6,0.8,0.9299999999999999,0.73
-29,2023-10-01,['https://tribune.com.pk/epaper/news/Karachi/2023-10-01/ODdlNzM3OTFiNzU4YWVjZTFiOTJmYTJlM2ZlZWEzZjguanBlZw'],"Petroleum products rates slashed by up to Rs 11 per litre
+Oil marketing companies (OMCs) have seen their margins increase by Rs 0.33 per litre, from Rs7.08 to Rs7.41 per litre on petrol, and by Rs 0.47 per litre on HSD, from Rs6.94 to Rs7.41 per litre.",579.0,283.38,303.18,Petrol price cut fuels big relief to masses,0.1,0.8,0.05,0.03,0.02,0.15,0.55,0.2,0.08,0.02,0.65,0.3,0.05,0.0,0.0,0.25,0.4,0.25,0.1,0.0,1.6,0.8,0.93,0.73
+29,29,2023-10-01,['https://tribune.com.pk/epaper/news/Karachi/2023-10-01/ODdlNzM3OTFiNzU4YWVjZTFiOTJmYTJlM2ZlZWEzZjguanBlZw'],"Petroleum products rates slashed by up to Rs 11 per litre
 
 In the caretaker government's first step of providing relief to the inflation-hit people, the prices of petroleum products have been reduced by up to Rs 11 per litre, in a first major decline in two months on the back of a strengthened rupee.
 
@@ -1008,8 +1008,8 @@ The finance ministry also cited the improvement in the value of the Pakistani ru
 
 The Pakistani rupee has claimed the title of the world's best-performing  currency for September, marking a seven-week high against the US dollar. On the 17th successive working day of its upward trajectory, the rupee closed at an impressive Rs287.74 against the greenback, gaining 0.35% or Rs 1.01, according to the State Bank of Pakistan's data.
 
-Over the past 17 working days, the Pakistani currency has cumulatively strengthened by an impressive 6.73%, recovering 19.36 from its record low of Rs307.10/$ on September 5, 2023. This remarkable performance has brought the rupee back to its pre-caretaker government levels. Earlier, the authorities were expecting the price of a litre of petrol to fall by Rs11.98 and the rate of HSD to dip by Rs9.17 but it turned out to be the other way around. However, the consumers of liquefied petroleum gas (LPG) are in for tougher times ahead as the Oil and Gas Regulatory Authority (Ogra) has notified an increase of Rs21 per kg of the product for the month of October. According to a notification issued by Ogra, the price of a domestic cylinder of LPG has been jacked up by Rs246. From Sunday, a domestic cylinder of LPG will cost Rs3,080 instead of its earlier price of Rs2,833. Similarly, the price of commercial LPG cylinder has been increased by Rs947. Ogra has set the price of LPG for commercial use at Rs261 per kg against its previous rate of Rs240. The price a commercial LPG cylinder has been pushed up from Rs10,902 to Rs11,849.",528.0,323.38,318.18,Rising rupee helps govt rein in runaway POL prices,0.1,0.6,0.25,0.03,0.02,0.15,0.4,0.2,0.15,0.1,0.15,0.65,0.15,0.03,0.02,0.25,0.2,0.3,0.15,0.1,0.8800000000000001,0.35000000000000003,0.73,0.35000000000000003
-30,2023-09-16,['https://tribune.com.pk/epaper/news/Karachi/2023-09-16/YWQ5ODI5YWMwMTY0ZDRmZDBkZDM4ZTcwM2UxY2Q1N2IuanBlZw'],"Interim govt jacks up petrol price by Rs40.93 per litre in just two gos
+Over the past 17 working days, the Pakistani currency has cumulatively strengthened by an impressive 6.73%, recovering 19.36 from its record low of Rs307.10/$ on September 5, 2023. This remarkable performance has brought the rupee back to its pre-caretaker government levels. Earlier, the authorities were expecting the price of a litre of petrol to fall by Rs11.98 and the rate of HSD to dip by Rs9.17 but it turned out to be the other way around. However, the consumers of liquefied petroleum gas (LPG) are in for tougher times ahead as the Oil and Gas Regulatory Authority (Ogra) has notified an increase of Rs21 per kg of the product for the month of October. According to a notification issued by Ogra, the price of a domestic cylinder of LPG has been jacked up by Rs246. From Sunday, a domestic cylinder of LPG will cost Rs3,080 instead of its earlier price of Rs2,833. Similarly, the price of commercial LPG cylinder has been increased by Rs947. Ogra has set the price of LPG for commercial use at Rs261 per kg against its previous rate of Rs240. The price a commercial LPG cylinder has been pushed up from Rs10,902 to Rs11,849.",528.0,323.38,318.18,Rising rupee helps govt rein in runaway POL prices,0.1,0.6,0.25,0.03,0.02,0.15,0.4,0.2,0.15,0.1,0.15,0.65,0.15,0.03,0.02,0.25,0.2,0.3,0.15,0.1,0.8800000000000001,0.35,0.73,0.35
+30,30,2023-09-16,['https://tribune.com.pk/epaper/news/Karachi/2023-09-16/YWQ5ODI5YWMwMTY0ZDRmZDBkZDM4ZTcwM2UxY2Q1N2IuanBlZw'],"Interim govt jacks up petrol price by Rs40.93 per litre in just two gos
 
 In another massive hike in the rates of petroleum products on Friday after the interim set-up took over the reins in August, the price of petrol was increased by Rs26.02 per litre while that of high-speed diesel (HSD) by Rs17.34 per litre.
 
@@ -1026,7 +1026,7 @@ This new increase will further burden the citizens who are already grappling wit
 On Thursday, sources said that the government was all set to pass on to the consumers about 88 paisas per litre impact of increase in sale margins for petroleum dealers and marketing companies already approved by the Economic Coordination Committee (ECC) of the Cabinet last week.
 
 The import parity price for petrol, diesel, and kerosene oil had increased by about Rs13, Rs14 and Rs10 per litre, respectively since Sept 1, but sale prices were estimated to go up by Rs13, Rs16 and over Rs10 per litre  as per product imports by  the Pakistan State Oil. Jet fuels are also estimated to  be costlier by Rs10 per litre. Similarly, the sources said, the petrol and diesel prices were estimated to cross Rs320 and Rs325 per litre, respectively. The kerosene oil rate would be on the higher side of Rs240 per litre. The increase in the prices of petroleum products came on the heels of over 27.4 per cent increase in the August rate of inflation that would also have a lag effect on general prices in the country over the coming days and weeks.",504.0,331.38,329.18,"Petrol, diesel witness massive price hikes",0.0,0.05,0.1,0.5,0.35,0.0,0.01,0.1,0.6,0.29,0.0,0.0,0.1,0.4,0.5,0.0,0.0,0.08,0.32,0.6,-1.4,-1.52,-1.15,-1.17
-31,2023-09-01,['https://tribune.com.pk/epaper/news/Karachi/2023-09-01/ZTNlYjQ3NTg1YjYxYmIxM2NmODNmNmVmZWYzYWUxOWEucG5n'],"Govt jacks up petrol price by a whopping Rs 14.91; PSX tumbles, rupee continues downward slide
+31,31,2023-09-01,['https://tribune.com.pk/epaper/news/Karachi/2023-09-01/ZTNlYjQ3NTg1YjYxYmIxM2NmODNmNmVmZWYzYWUxOWEucG5n'],"Govt jacks up petrol price by a whopping Rs 14.91; PSX tumbles, rupee continues downward slide
 
 In utter disregard to a growing public discontent over a surging cost of living and inflated power bills, the caretaker government on Tuesday gave in to the International Monetary Fund (IME) diktat and announced a whopping Rs 18.44 per liter increase in the price of petroleum products.
 
@@ -1045,7 +1045,7 @@ The price of both petrol and diesel crossed the Rs300 per litre mark for first t
 Due to its use in transportation, the transport cost will go up that would result in higher inflationary impact on commodities.
 
 The farmers also use diesel in tractors and therefore, the rise in its prices will also increase their miseries. Pakistan's a net importer of petroleum products and any depreciation in the value of the rupee against the dollar had also resulted in the hike in prices of both petrol and diesel that are widely used by the masses. The prices of kerosene oil and light diesel oil were supposed to be hiked by Rs13.82 per litre and Rs8.66 per litre, respectively. But the government has not been announcing the prices of these petroleum products for the last couple of months. Therefore, according to the notification issued by the Finance Division, there was no announcement regarding the new rates of these two petroleum products. The finance ministry in a statement said that owing to the increasing trends of petroleum prices in the international market and ex- change rate variation, the government decided to revise the existing consumer prices of petroleum products. It said that new prices of petroleum products would be effective from Sept 1, 2023. The government was charging heavy taxes on petroleum products. It was charging petroleum levy on petroleum products up to Rs55 per litre from the oil consumers. It collected Rs75 billion on account of petroleum levy on petroleum products from the consumers in the month of July. It was also expecting another Rs75 billion petroleum levy from the consumers during the month of August. With rise in prices of petroleum products and shortage of dollars in the country, the smuggling of the petroleum products from Iran had witnessed a sharp rise. The legal oil industry in Pakistan had raised the issue of smuggling with the government several times. The Petroleum Division had also taken up the matter with the interior minis- try and the Federal Board of Revenue to take measures to stop smuggling of petroleum products from Iran. But it still continued that resulted in decline in sale of petroleum products by the local industry. This means that petroleum dealers have been selling Iranian oil at a price higher than the one notified by the government, oil industry officials said. According to report, there were 1,500 petrol pumps that were black-listed by the local oil companies but they were storing smuggled Iranian petrol and diesel and also selling to the masses at higher rates.",727.0,305.36,311.84,POL price hike adds to people's misery,0.0,0.01,0.05,0.7,0.24,0.0,0.01,0.05,0.45,0.49,0.0,0.0,0.03,0.25,0.72,0.0,0.0,0.05,0.35,0.6,-1.69,-1.5499999999999998,-1.17,-1.42
-32,2023-08-16,['https://tribune.com.pk/epaper/news/Karachi/2023-08-16/Mzc1NGZjODdlMmQ3MGY2Mzc5ODMxY2YwNjRiN2ExMjcuanBlZw'],"POL prices jacked up by a whopping Rs20 per litre  In the very first move after coming to power, the interim government of Prime Minister Anwarul Haq Kakar on Tuesday jacked up the prices of petroleum products by up to Rs20, almost a fortnight after the previous government made a similar increase.
+32,32,2023-08-16,['https://tribune.com.pk/epaper/news/Karachi/2023-08-16/Mzc1NGZjODdlMmQ3MGY2Mzc5ODMxY2YwNjRiN2ExMjcuanBlZw'],"POL prices jacked up by a whopping Rs20 per litre  In the very first move after coming to power, the interim government of Prime Minister Anwarul Haq Kakar on Tuesday jacked up the prices of petroleum products by up to Rs20, almost a fortnight after the previous government made a similar increase.
 
 In a stunning display of legislative acrobatics in July, the joint sitting of parliament redrew the lines of political authority as it bestowed upon the upcoming caretaker set-up with an unprecedented mandate to navigate major economic and political landscapes.
 
@@ -1077,8 +1077,8 @@ sita the For the next fortnight, the government has not changed petroleum levy o
 
 Earlier, the government used to share increase/ decrease in the prices of HSD, petrol, kerosene oil and light diesel oil, however, since the last few fortnights, it is merely sharing the prices of petrol and HSD.
 
-The prices of petroleum products will be effective dep from Aug 16, 2023 till further revision which is due on Aug 31.",671.0,290.45,293.4,Populism takes back seat under caretakers,0.0,0.1,0.6,0.2,0.1,0.0,0.05,0.2,0.55,0.2,0.0,0.05,0.7,0.25,0.0,0.0,0.02,0.23,0.4,0.35,-0.2,-1.08,-0.30000000000000004,-0.9
-33,2023-08-02,"['https://tribune.com.pk/epaper/news/Karachi/2023-08-02/MDU4YTEyYjBhMDE3MDk5OWE2OGY3N2M4YzQ1OTdmNGIuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2023-08-02/ZmQxNTM4MTcyNzMzZmNiODJkNTVkYTYzNmRjZjJjNmYuanBlZw']","Increase comes as govt has a few days left in office
+The prices of petroleum products will be effective dep from Aug 16, 2023 till further revision which is due on Aug 31.",671.0,290.45,293.4,Populism takes back seat under caretakers,0.0,0.1,0.6,0.2,0.1,0.0,0.05,0.2,0.55,0.2,0.0,0.05,0.7,0.25,0.0,0.0,0.02,0.23,0.4,0.35,-0.2,-1.08,-0.3,-0.9
+33,33,2023-08-02,"['https://tribune.com.pk/epaper/news/Karachi/2023-08-02/MDU4YTEyYjBhMDE3MDk5OWE2OGY3N2M4YzQ1OTdmNGIuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2023-08-02/ZmQxNTM4MTcyNzMzZmNiODJkNTVkYTYzNmRjZjJjNmYuanBlZw']","Increase comes as govt has a few days left in office
 
 With a few days left in office, the government on Tuesday jacked up the prices of petroleum products by a staggering Rs19.95 per litre with immediate effect (August 1).
 
@@ -1123,7 +1123,7 @@ On the contrary, the previous regime violated the agreement with the IMF just fo
 ""The government's tenure will end in a few days, but we have prioritised the state over politics. In contrast, (PTI chief) Imran Khan, who was certain about the end of his government, subsidised petroleum products and violated the IMF agreement which inflicted massive damage on the economy,"" she maintained.
 
 The minister observed that the present coalition government did not take decisions for petty political advantages, rather the same were made in the larger national interest.",616.0,272.95,273.4,"Petrol, diesel become dearer by almost Rs 20",0.0,0.05,0.1,0.6,0.25,0.0,0.05,0.15,0.6,0.2,0.0,0.0,0.15,0.75,0.1,0.0,0.05,0.15,0.35,0.45,-0.95,-1.2,-1.05,-0.95
-34,2023-07-16,"['https://tribune.com.pk/epaper/news/Karachi/2023-07-16/NDhjY2FiODUyYzA2ZjU3YWM1MGNkNDQ4M2Q2OWY4YzIuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2023-07-16/ZmYyMDZjNTFiNDAxM2Q0NTQ3MWRjOTBhYTY2MmI5ZTIuanBlZw']","Petrol price cut by Rs9, diesel by Rs7 as govt withholds increase in PDL
+34,34,2023-07-16,"['https://tribune.com.pk/epaper/news/Karachi/2023-07-16/NDhjY2FiODUyYzA2ZjU3YWM1MGNkNDQ4M2Q2OWY4YzIuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2023-07-16/ZmYyMDZjNTFiNDAxM2Q0NTQ3MWRjOTBhYTY2MmI5ZTIuanBlZw']","Petrol price cut by Rs9, diesel by Rs7 as govt withholds increase in PDL
 
 The government on Saturday slashed the prices of key petroleum products for July 16-31 fortnight on the back of strengthening of the rupee against the US dollar following approval of a new International Monetary Fund (IMF) deal.
 
@@ -1139,8 +1139,8 @@ The minister said that the international fuel market had been fluctuating during
 
 ""There was an increase in one product and decline in the others,"" the finance minister said. ""But the strengthening of the rupee against the dollar has offset the price increase,"" he added
 
-The government was charging Rs55 per litre PDL on petrol and was scheduled to increase it to Rs 60 per litre.",293.0,253.0,253.5,Rising rupee brings relief to fuel consumers,0.1,0.75,0.1,0.03,0.02,0.1,0.65,0.2,0.04,0.01,0.05,0.85,0.1,0.0,0.0,0.38,0.35,0.27,0.0,0.0,0.95,1.1099999999999999,0.8799999999999999,0.79
-35,2023-07-02,"['https://tribune.com.pk/epaper/news/Karachi/2023-07-02/Yzk1ZjVjYjY0MWY3MzU1YjQ4ZDFhMWIxMWUyMGRiZWQuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2023-07-02/Yzc0Y2ZlMWE5ODc4MTNkODAxYWFkMjQ3Zjk0MGNjOWEuanBlZw']","On the recommendation of the Oil and Gas Regulatory Authority (OGRA), the federal government has announced that petroleum prices will be maintained at their current rate of Rs262 per litre, while diesel costs have been raised by Rs7.5 to a rate of Rs260.5 per litre.
+The government was charging Rs55 per litre PDL on petrol and was scheduled to increase it to Rs 60 per litre.",293.0,253.0,253.5,Rising rupee brings relief to fuel consumers,0.1,0.75,0.1,0.03,0.02,0.1,0.65,0.2,0.04,0.01,0.05,0.85,0.1,0.0,0.0,0.38,0.35,0.27,0.0,0.0,0.95,1.11,0.8799999999999999,0.79
+35,35,2023-07-02,"['https://tribune.com.pk/epaper/news/Karachi/2023-07-02/Yzk1ZjVjYjY0MWY3MzU1YjQ4ZDFhMWIxMWUyMGRiZWQuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2023-07-02/Yzc0Y2ZlMWE5ODc4MTNkODAxYWFkMjQ3Zjk0MGNjOWEuanBlZw']","On the recommendation of the Oil and Gas Regulatory Authority (OGRA), the federal government has announced that petroleum prices will be maintained at their current rate of Rs262 per litre, while diesel costs have been raised by Rs7.5 to a rate of Rs260.5 per litre.
 
 Finance Minister Ishaq Dar shared the news in a tweet late last night, stating that the newly announced rates would be valid until July 15.
 
@@ -1170,8 +1170,8 @@ Earlier this week, oil fell, giving up earlier gains, as worries over further in
 
 Benchmark Brent crude prices are down over 15% this year as rising interest rates hit investor appetite, while China's economic recovery has faltered after several months of softer-than-expected consumption and other data. At 1348 GMT, Brent was down 43 cents, or 0.6%, to $71.83 a barrel, while US WTI crude slipped 12 cents, or 0.2%, to $67.58. ""For now, the market remains stuck with demand concerns weighing,"" said Ole Hansen, head of commodity strategy at Saxo Bank. ""OPEC production cuts have helped prevent a deeper setback.""
 
-Meanwhile, the Oil Companies Advisory Council (OCAC) has cautioned the government that imports on foreign suppliers' account through the customs bonded storages pose a significant threat to the local refineries, leading to potential economic repercussions not only within the oil industry but also for the overall economy.",560.0,262.0,260.5,Diesel price jacked up; petrol stays put,0.0,0.05,0.1,0.6,0.25,0.02,0.15,0.4,0.3,0.13,0.0,0.02,0.28,0.55,0.15,0.0,0.03,0.3,0.52,0.15,-0.8300000000000001,-0.79,-1.05,-0.37000000000000005
-36,2023-06-16,['https://tribune.com.pk/epaper/news/Karachi/2023-06-16/ODk1YmM3YmUwMDkyM2M0MzI0Y2Y3ZGM5MDNlNmRmYzkucG5n'],"Light diesel oil becomes expensive by Rs2.52 per litre
+Meanwhile, the Oil Companies Advisory Council (OCAC) has cautioned the government that imports on foreign suppliers' account through the customs bonded storages pose a significant threat to the local refineries, leading to potential economic repercussions not only within the oil industry but also for the overall economy.",560.0,262.0,260.5,Diesel price jacked up; petrol stays put,0.0,0.05,0.1,0.6,0.25,0.02,0.15,0.4,0.3,0.13,0.0,0.02,0.28,0.55,0.15,0.0,0.03,0.3,0.52,0.15,-0.8300000000000001,-0.79,-1.05,-0.37
+36,36,2023-06-16,['https://tribune.com.pk/epaper/news/Karachi/2023-06-16/ODk1YmM3YmUwMDkyM2M0MzI0Y2Y3ZGM5MDNlNmRmYzkucG5n'],"Light diesel oil becomes expensive by Rs2.52 per litre
 
 The government on Thursday kept petroleum product prices unchanged for the second fortnight of June. However, the price of light diesel oil (LDO) was increased by Rs 2.52 to Rs 150.20 per litre, Prices of petrol, high-speed diesel (HSD) and kerosene oil were left unchanged for June 16 to 30, 2023. Earlier, it was projected that the price of petrol would be reduced by Rs 1.87 per litre while HSD would become expensive by Rs3.29 per litre.
 
@@ -1187,8 +1187,8 @@ The government also maintained the price of kerosene oil at Rs164.07 per litre. 
 
 Kerosene oil is used in remote areas like northern parts of the country where liquefied petroleum gas (LPG) is not available.
 
-The price of LDO went up to Rs 150.20 per litre from. Rs 147.68, registering an increase of Rs2.52. The price revision was almost in line with the expected increase of Rs2.48 per litre.",398.0,262.0,253.0,"Petrol, diesel prices left unchanged",0.0,0.1,0.7,0.15,0.05,0.0,0.1,0.6,0.2,0.1,0.0,0.01,0.98,0.01,0.0,0.05,0.45,0.4,0.1,0.0,0.0,0.44999999999999996,-0.15,-0.30000000000000004
-37,2023-06-01,['https://tribune.com.pk/epaper/news/Karachi/2023-06-01/YWZiMDIxNmIxMjU3MjkzZGE2MjZjZTY5YTRhNmZhMTUuanBlZw'],"Govt says rates reduced to provide relief to consumers
+The price of LDO went up to Rs 150.20 per litre from. Rs 147.68, registering an increase of Rs2.52. The price revision was almost in line with the expected increase of Rs2.48 per litre.",398.0,262.0,253.0,"Petrol, diesel prices left unchanged",0.0,0.1,0.7,0.15,0.05,0.0,0.1,0.6,0.2,0.1,0.0,0.01,0.98,0.01,0.0,0.05,0.45,0.4,0.1,0.0,0.0,0.4499999999999999,-0.15,-0.3
+37,37,2023-06-01,['https://tribune.com.pk/epaper/news/Karachi/2023-06-01/YWZiMDIxNmIxMjU3MjkzZGE2MjZjZTY5YTRhNmZhMTUuanBlZw'],"Govt says rates reduced to provide relief to consumers
 
 The government reduced the price of petrol by Rs 8 per litre and the prices of the high-speed diesel (HSD) and the light diesel oil (LDO) by Rs 5 for the next fortnight, an official announcement said on Wednesday.
 
@@ -1199,7 +1199,7 @@ Similarly, the HSD will now be sold at Rs253 per litre from the previous Rs258 p
 The finance division said that government had decided to reduce the existing prices of petroleum products to provide relief to the consumers. Petrol is used in motorbikes and small cars and it is also an alternate to compressed natural gas (CNG).
 
 The HSD is widely used in agriculture and transport sectors and the LDO is used. in industry. The reduction in the HSD price will have healthy impact on farmers and may lead to cut in the cost of transportation of goods.",214.0,262.0,253.0,"Petrol price slashed by Rs 8, diesel by Rs 5",0.1,0.6,0.25,0.03,0.02,0.1,0.65,0.2,0.03,0.02,0.15,0.65,0.2,0.0,0.0,0.25,0.6,0.15,0.0,0.0,0.95,1.1,0.73,0.78
-38,2023-05-16,"['https://tribune.com.pk/epaper/news/Karachi/2023-05-16/MGI2NjcxYTBmMDYyMzRmNGY3ZmY5MzBjMGVjZDE3YmUuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2023-05-16/NWU1YTY4ODJkMTAyZTE4OTA3NWE1ZTVhMDI5ZmJhMzYuanBlZw']","The federal government announced a substantial reduction in the prices of petroleum products on Monday, with a view to passing on the benefits of a decline in the prices in the international market to the people.
+38,38,2023-05-16,"['https://tribune.com.pk/epaper/news/Karachi/2023-05-16/MGI2NjcxYTBmMDYyMzRmNGY3ZmY5MzBjMGVjZDE3YmUuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2023-05-16/NWU1YTY4ODJkMTAyZTE4OTA3NWE1ZTVhMDI5ZmJhMzYuanBlZw']","The federal government announced a substantial reduction in the prices of petroleum products on Monday, with a view to passing on the benefits of a decline in the prices in the international market to the people.
 
 According to a finance ministry statement, the price of petrol was slashed by Rs12 per litre, diesel by Rs30 per litre, and kerosene oil by Rs12 per litre. The price cut takes effect from Tuesday for the next fortnight.
 
@@ -1222,7 +1222,7 @@ The government is currently charging maximum petroleum levy (PL) of Rs50 per lit
 Therefore, the government did not have the space to adjust reduction in prices of petroleum products to generate more revenue. The revenue on account of petroleum levy goes to the federal government.
 
 There was a space to increase the rate of general sales tax on the petroleum products. However, the receipts of sales tax go to the provinces, therefore, the government preferred to make a cut in prices of petroleum products amid current political situation.",422.0,270.0,258.0,Substantial cut in POL prices announced,0.1,0.6,0.25,0.03,0.02,0.4,0.45,0.1,0.03,0.02,0.5,0.35,0.15,0.0,0.0,0.15,0.6,0.25,0.0,0.0,1.35,0.8999999999999999,0.73,1.1800000000000002
-39,2023-05-01,"['https://tribune.com.pk/epaper/news/Karachi/2023-05-01/NmFjMzg0ZTAyMTc5ZDE5OTdkZDYyZGYyMTE5OGMxN2MuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2023-05-01/NTgwMWRmMTEwODYzNDExMzAxZWYzZjJkNTQ2YWU1YjkuanBlZw']","The government on Sunday reduced the prices of high speed diesel (HSD) by Rs5 per litre and the light diesel oil (LDO) by Rs 10 per litre for the next 15 days mainly because of fluctuations in the global oil prices, but kept that of petrol unchanged.
+39,39,2023-05-01,"['https://tribune.com.pk/epaper/news/Karachi/2023-05-01/NmFjMzg0ZTAyMTc5ZDE5OTdkZDYyZGYyMTE5OGMxN2MuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2023-05-01/NTgwMWRmMTEwODYzNDExMzAxZWYzZjJkNTQ2YWU1YjkuanBlZw']","The government on Sunday reduced the prices of high speed diesel (HSD) by Rs5 per litre and the light diesel oil (LDO) by Rs 10 per litre for the next 15 days mainly because of fluctuations in the global oil prices, but kept that of petrol unchanged.
 
 The new petroleum prices came into effect after midnight Sunday. For the next 15 days, the HSD will be sold at Rs288 per litre against last fortnight's price of Rs293 per litre.
 
@@ -1239,7 +1239,7 @@ Therefore, the government passed on relief to the consumers on the HSD. Although
 The petrol is used by motorbikes and cars. This is also an alternative to compressed natural gas (CNG). After gas shortage and higher prices of liquefied natural gas (LNG), the CNG retail outlets were shut during the winter season. Therefore, consumers mainly in Punjab, were forced to use expensive fuel, petrol, for cars. Kerosene oil is used in the remote areas of Pakistan for cooking purposes, especially in the northern part of the country, where the liquefied petroleum gas (LPG) was not available. The army is also a key user of the kerosene oil in the upcountry areas.
 
 The LDO is used in the industry. The fall in fuel prices came as dollar witnessed a decline of Rs2.57 from 286.66 to Rs284.09 during the last fortnight.",367.0,282.0,288.0,"Diesel prices slashed, petrol stays firm",0.1,0.65,0.2,0.03,0.02,0.1,0.45,0.3,0.1,0.05,0.1,0.55,0.35,0.0,0.0,0.05,0.45,0.35,0.15,0.0,0.75,0.4,0.78,0.45
-40,2023-04-16,"['https://tribune.com.pk/epaper/news/Karachi/2023-04-16/MmU0Y2MzYTgwMDdlODYyODNiZTdlNzM0ZDIwNWIxYjgucG5n', 'https://tribune.com.pk/epaper/news/Karachi/2023-04-16/ODk2NWY5OTQ5OGI2Mjg3ZGFlN2MwY2ZkYjUxZDU3NjgucG5n']","Ahead of Eidul Fitr, which is likely to be celebrated at the end of next week, the federal government has increased the price of petrol by Rs 10 and that of kerosene oil by Rs5.78. After this increase, the prices of petrol and kerosene oil have respectively risen to Rs282 per litre and Rs186.07 per litre. These fuels were earlier available at Rs272 and Rs180.29 per litre. The kerosene oil is usually used in stoves in remote areas of the country like the northern area where liquefied petroleum gas (LPG) is not available. According to a brief notification issued by the Finance Division in the wee hours of Sunday, the new prices will be effective from April 16 [today]. ""[The prices were increased] in the wake of increase in petroleum prices in the international market and exchange rate variations,"" it said.
+40,40,2023-04-16,"['https://tribune.com.pk/epaper/news/Karachi/2023-04-16/MmU0Y2MzYTgwMDdlODYyODNiZTdlNzM0ZDIwNWIxYjgucG5n', 'https://tribune.com.pk/epaper/news/Karachi/2023-04-16/ODk2NWY5OTQ5OGI2Mjg3ZGFlN2MwY2ZkYjUxZDU3NjgucG5n']","Ahead of Eidul Fitr, which is likely to be celebrated at the end of next week, the federal government has increased the price of petrol by Rs 10 and that of kerosene oil by Rs5.78. After this increase, the prices of petrol and kerosene oil have respectively risen to Rs282 per litre and Rs186.07 per litre. These fuels were earlier available at Rs272 and Rs180.29 per litre. The kerosene oil is usually used in stoves in remote areas of the country like the northern area where liquefied petroleum gas (LPG) is not available. According to a brief notification issued by the Finance Division in the wee hours of Sunday, the new prices will be effective from April 16 [today]. ""[The prices were increased] in the wake of increase in petroleum prices in the international market and exchange rate variations,"" it said.
 
 Earlier, Finance Minister Ishaq Dar announced a hike in the petrol and kerosene oil prices in a press conference. Dar said the fuel prices have been increased for 15 days after which they will once again be revised in accordance with the international prices.
 
@@ -1256,7 +1256,7 @@ It is estimated that around Rs8,000 to 10,000 tonnes of the HSD is being smuggle
 The local industry has expressed serious concerns over smuggling of fuel and reduction in diesel sales.
 
 ""Last year in April the daily consumption of the HSD was more than 30,000 per tonne,"" said a marketing company.",407.0,282.0,293.0,Petrol price jacked up by Rs 10 per litre,0.0,0.05,0.1,0.6,0.25,0.0,0.05,0.2,0.5,0.25,0.0,0.0,0.25,0.65,0.1,0.0,0.01,0.15,0.4,0.44,-0.8500000000000001,-1.27,-1.05,-0.95
-41,2023-04-01,['https://tribune.com.pk/epaper/news/Karachi/2023-04-01/YzI1YTUwOGY5NDc1NGMzNDUzZDdkNjVjN2JjMDBjZDkuanBlZw'],"Reduces prices of kerosene oil, light diesel oil by Rs 10 per litre
+41,41,2023-04-01,['https://tribune.com.pk/epaper/news/Karachi/2023-04-01/YzI1YTUwOGY5NDc1NGMzNDUzZDdkNjVjN2JjMDBjZDkuanBlZw'],"Reduces prices of kerosene oil, light diesel oil by Rs 10 per litre
 
 The government on Friday kept prices of diesel and petrol unchanged effective from April 1, 2023 despite a dip in rates in the international market.
 
@@ -1282,8 +1282,8 @@ Kerosene oil is an important household fuel because of its use for cooking and h
 
 In 13 days, the US dollar appreciated by Rs 4.66 against the rupee.
 
-The light diesel oil is used in industry. The government cut its price by Rs 10 from Rs184.68 per litre to Rs 174.68 per litre.",250.0,272.0,293.0,"Govt keeps petrol, diesel prices unchanged",0.0,0.1,0.8,0.05,0.05,0.1,0.4,0.3,0.15,0.05,0.01,0.02,0.95,0.01,0.01,0.0,0.18,0.12,0.5,0.2,0.010000000000000002,-0.72,-0.05000000000000002,0.35000000000000003
-42,2023-03-16,"['https://tribune.com.pk/epaper/news/Karachi/2023-03-16/MGMyOTgxNGM0YWM2YjkzNjBmODAwODhmMjJjNTk1YTcuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2023-03-16/MTU0N2JlYjA5ZDIwNTFmMDMxMjllOTkxMWMyOWRiMGEuanBlZw']","HSD price soars by Rs 13 per litre
+The light diesel oil is used in industry. The government cut its price by Rs 10 from Rs184.68 per litre to Rs 174.68 per litre.",250.0,272.0,293.0,"Govt keeps petrol, diesel prices unchanged",0.0,0.1,0.8,0.05,0.05,0.1,0.4,0.3,0.15,0.05,0.01,0.02,0.95,0.01,0.01,0.0,0.18,0.12,0.5,0.2,0.01,-0.72,-0.05,0.35
+42,42,2023-03-16,"['https://tribune.com.pk/epaper/news/Karachi/2023-03-16/MGMyOTgxNGM0YWM2YjkzNjBmODAwODhmMjJjNTk1YTcuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2023-03-16/MTU0N2JlYjA5ZDIwNTFmMDMxMjllOTkxMWMyOWRiMGEuanBlZw']","HSD price soars by Rs 13 per litre
 
 The government on Wednesday increased the price of petrol by Rs5 and high speed diesel (HSD) by Rs13 per litre.
 
@@ -1318,7 +1318,7 @@ The industry has been requesting the energy and finance ministries to develop a 
 The OCAC had asked for an immediate establishment of a holistic mechanism to offset losses through the IFEM.
 
 It had also warned that the industry was on the verge of collapse and requested the government to take immediate action to ensure uninterrupted supply of petroleum products across the country.",476.0,272.0,293.0,Petrol price jacked up by Rs 5,0.0,0.05,0.1,0.6,0.25,0.0,0.01,0.1,0.55,0.34,0.0,0.0,0.15,0.65,0.2,0.01,0.01,0.18,0.42,0.38,-1.05,-1.15,-1.05,-1.22
-43,2023-03-01,"['https://tribune.com.pk/epaper/news/Karachi/2023-03-01/YjU4MGU5OGU5ZDJlZmNiNzFhY2Y0NDFkZDIwNDgwN2EuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2023-03-01/NDg0OGZhZTNmODgzZDI1MzY1ZWUyNTMwZjA3NTJlYzIuanBlZw']","The government on Tuesday reduced the price of petrol by Rs 5 per litre with effect from March 1 (today). However, despite the prediction of a drop in diesel price, the government kept it unchanged in order to raise the petroleum levy rate. The price of kerosene oil also witnessed a drop of Rs15 per litre.
+43,43,2023-03-01,"['https://tribune.com.pk/epaper/news/Karachi/2023-03-01/YjU4MGU5OGU5ZDJlZmNiNzFhY2Y0NDFkZDIwNDgwN2EuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2023-03-01/NDg0OGZhZTNmODgzZDI1MzY1ZWUyNTMwZjA3NTJlYzIuanBlZw']","The government on Tuesday reduced the price of petrol by Rs 5 per litre with effect from March 1 (today). However, despite the prediction of a drop in diesel price, the government kept it unchanged in order to raise the petroleum levy rate. The price of kerosene oil also witnessed a drop of Rs15 per litre.
 
 The light diesel oil (LDO) price also saw a major drop of Rs12 per litre.
 
@@ -1345,7 +1345,7 @@ Pakistan Army was also a key user of kerosene oil in northern parts of the count
 The price of kerosene oil dropped to Rs187.73 per litre against the earlier rate of Rs202.73.
 
 The LDO is used in the industry and will be available now at Rs184.68 per litre as compared to Rs196.68 per litre.",352.0,267.0,280.0,Petrol price slashed by Rs 5 per litre,0.1,0.75,0.1,0.03,0.02,0.15,0.35,0.4,0.08,0.02,0.2,0.7,0.1,0.0,0.0,0.0,0.35,0.35,0.25,0.05,1.1,0.0,0.8799999999999999,0.53
-44,2023-02-16,"['https://tribune.com.pk/epaper/news/Karachi/2023-02-16/MmYxY2FlODhkZDRmMTJhMjc2NDRiZTdjOWQ4NGFjMWEuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2023-02-16/NWYwNThiMTg1YjIzNTA1ZWNhYTdlZjg4MTExOGYxOTguanBlZw']","Govt announces a significant Rs22.20 per litre increase in petrol rates
+44,44,2023-02-16,"['https://tribune.com.pk/epaper/news/Karachi/2023-02-16/MmYxY2FlODhkZDRmMTJhMjc2NDRiZTdjOWQ4NGFjMWEuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2023-02-16/NWYwNThiMTg1YjIzNTA1ZWNhYTdlZjg4MTExOGYxOTguanBlZw']","Govt announces a significant Rs22.20 per litre increase in petrol rates
 
 As the inflation-stricken nation continues to reel from the effects of economic maelstrom, the government on Wednesday dropped another oil bomb by increasing the price of petrol by Rs22.20 per litre effective February 16 (today).
 
@@ -1387,8 +1387,8 @@ Following the issuance of the OGRA notification effective February 15, LPG will 
 
 LPG Association Chairman. Irfan Khokhar termed the price hike ""unbearable"" and advised all district presidents of LPG associations to stage protests. He said that instead of giving relief the government had imposed more taxes while billions of rupees subsidy was being offered in the imported LNG. He noted that this was the second time that the price of LPG had in- creased during February.
 
-He said the government should allow the LPG plant of Jamshoro Joint Venture Limited (JJVL) to start production at the earliest in order to provide relief to the people, noting that the plant had been closed for the last 32 months and caused a revenue loss of around Rs157 billion.",638.0,272.0,280.0,Rising cost of living: fuel prices jacked up again,0.0,0.05,0.1,0.55,0.3,0.0,0.01,0.1,0.55,0.34,0.0,0.0,0.03,0.4,0.57,0.0,0.0,0.05,0.35,0.6,-1.54,-1.5499999999999998,-1.0999999999999999,-1.22
-45,2023-01-30,"['https://tribune.com.pk/epaper/news/Karachi/2023-01-30/ODI4ODE5MzllNjU2MmE0MWI4NDQ3ODYyOGJmNmQ3OGMuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2023-01-30/MTJjZTg0Yzk0MWQ5Zjc1NTM4MWZkMzAzZjY4NGZmODEuanBlZw']","Kerosene oil, light diesel rates also increased by of economy Rs18 per litre until Feb 15
+He said the government should allow the LPG plant of Jamshoro Joint Venture Limited (JJVL) to start production at the earliest in order to provide relief to the people, noting that the plant had been closed for the last 32 months and caused a revenue loss of around Rs157 billion.",638.0,272.0,280.0,Rising cost of living: fuel prices jacked up again,0.0,0.05,0.1,0.55,0.3,0.0,0.01,0.1,0.55,0.34,0.0,0.0,0.03,0.4,0.57,0.0,0.0,0.05,0.35,0.6,-1.54,-1.5499999999999998,-1.1,-1.22
+45,45,2023-01-30,"['https://tribune.com.pk/epaper/news/Karachi/2023-01-30/ODI4ODE5MzllNjU2MmE0MWI4NDQ3ODYyOGJmNmQ3OGMuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2023-01-30/MTJjZTg0Yzk0MWQ5Zjc1NTM4MWZkMzAzZjY4NGZmODEuanBlZw']","Kerosene oil, light diesel rates also increased by of economy Rs18 per litre until Feb 15
 
 In another unpopular decision, the coalition government jacked up the prices of petrol and high speed diesel (HSD) by a whopping Rs35 per litre, two days ahead of the scheduled announcement of fuel prices in the country.
 
@@ -1402,8 +1402,8 @@ Similarly, the prices of kerosene oil rose by Rs18, from Rs171.83 to Rs189.83, a
 
 Earlier, there were rumours about the massive increase in fuel prices in the wake of rupee's free-fall last week. This led to the closure of the retail outlets of petroleum products, hence the government was forced to announce the new prices on Sunday, a couple of days before the scheduled time. The move aimed at resuming the sale of petroleum products ? at retail outlets. This appeared to be a failure of the government to take action against the petrol pump owners who hoarded the fuel stocks and dropped a petrol bomb on the consumers. Currently, the government is charging Rs50 per litre petroleum levy on petrol. It also raised the rate of the levy on the HSD by Rs5 per litre to R$40 per litre on Sunday. Also, it raised prices of petroleum products, on the one hand, and put an additional burden of Rs 7.49 per litre on oil marketing companies (OMCs) on account of freight margin, on the other. The government allowed the Inland Freight Equalization Margin (IFEM) to the OMCS to transport petrol to different oil depots across the country. It went to negative Rs 3.21 per litre during the ongoing month to negative Rs 10.70 per litre. This means that the OMCS will not be receiving any freight rate on transportation of petrol, rather they would be bearing the burden of Rs10.70 per litre on petrol. Dar announced the hike in the prices of all the petroleum products, in a short televised address on Sunday morning. ""The new prices will come into effect within next two to three minutes, by 11am,"" the finance minister said, adding that the new prices would be effective till February 15, 2023. Dar also said that the increase was being made immediately on the recommendation of the Oil and Gas Regulatory Authority (Ogra), which had reported artificial shortages and hoarding of fuel in anticipation of price rises. ""Hence this price hike is being done. immediately to combat the artificial shortage.""
 
-Dar recalled that during the last four months, from October to January 29, the price of petrol was not increased, while the prices of diesel and kerosene oil were decreased. The rupee depreciated by almost 12% against the dollar last week, while the oil prices increased by 11% in the international market. the ""Despite international prices and the rupee devaluation, on directions of Prime Minister Shehbaz Sharif, it has been decided to make the minimum increase in the prices of these four products,"" he said. The retails outlets stopped selling the fuel on Saturday after speculation of up to Rs80 per litre increase in the prices of Petrol and HSD. The minister expressed the hope that the announcement of new prices would dispel the rumours that petrol supplies were running dry. ",660.0,249.8,262.8,"Petrol, diesel prices jacked up by Rs 35",0.0,0.05,0.1,0.55,0.3,0.0,0.05,0.1,0.45,0.4,0.0,0.0,0.1,0.5,0.4,0.0,0.02,0.13,0.4,0.45,-1.3,-1.28,-1.0999999999999999,-1.2
-46,2023-01-16,['https://tribune.com.pk/epaper/news/Karachi/2023-01-16/NjFiYTQ4ZGJhYjdjZjBkNGE0YzYzOTVjYmRkYWRkNTMuanBlZw'],"It was expected the prices would go up by Rs8.98 per litre
+Dar recalled that during the last four months, from October to January 29, the price of petrol was not increased, while the prices of diesel and kerosene oil were decreased. The rupee depreciated by almost 12% against the dollar last week, while the oil prices increased by 11% in the international market. the ""Despite international prices and the rupee devaluation, on directions of Prime Minister Shehbaz Sharif, it has been decided to make the minimum increase in the prices of these four products,"" he said. The retails outlets stopped selling the fuel on Saturday after speculation of up to Rs80 per litre increase in the prices of Petrol and HSD. The minister expressed the hope that the announcement of new prices would dispel the rumours that petrol supplies were running dry. ",660.0,249.8,262.8,"Petrol, diesel prices jacked up by Rs 35",0.0,0.05,0.1,0.55,0.3,0.0,0.05,0.1,0.45,0.4,0.0,0.0,0.1,0.5,0.4,0.0,0.02,0.13,0.4,0.45,-1.3,-1.28,-1.1,-1.2
+46,46,2023-01-16,['https://tribune.com.pk/epaper/news/Karachi/2023-01-16/NjFiYTQ4ZGJhYjdjZjBkNGE0YzYzOTVjYmRkYWRkNTMuanBlZw'],"It was expected the prices would go up by Rs8.98 per litre
 
 Finance Minister Ishaq Dar has said that the petroleum prices will be ""maintained as they are"" and will remain unchanged for the remaining 15 days of January.
 
@@ -1417,8 +1417,8 @@ However, sources in the Petroleum Division had said that the government could ke
 
 At present, the government is charging consumers Rs 50 per litre petroleum levy on petrol and Rs32.50 per litre on HSD. However, no general sales tax is collected on the sale of petroleum products which include pettol, HSD, high octane blending component, kerosene oil and light diesel oil.
 
-Apart from the petroleum levy, the inland freight equalisation margin had been fixed at Rs3.51 per litre on the sale of petrol and at Rs 0.81 per litre on the sale of HSD. Further, the oil marketing companies' margins of Rs 5 per litre are collected on the sale of petrol and HSD while the commission of dealers has been set at Rs7 per litre for the two petroleum products.",332.0,214.8,227.8,Govt keeps petrol rate unchanged,0.0,0.1,0.7,0.15,0.05,0.0,0.05,0.85,0.05,0.05,0.005,0.02,0.95,0.02,0.005,0.05,0.55,0.35,0.05,0.0,1.734723475976807e-18,0.6,-0.15,-0.10000000000000002
-47,2023-01-01,['https://tribune.com.pk/epaper/news/Karachi/2023-01-01/ZTY5NDFlYzFkMDQ5MTlhODIwZDYzZjdlYWJiMzNjZWQuanBlZw'],"Dar says PM refused to budge on OGRA's proposal  The government on Saturday announced that oil prices would remain unchanged effective from January 1, 2023.
+Apart from the petroleum levy, the inland freight equalisation margin had been fixed at Rs3.51 per litre on the sale of petrol and at Rs 0.81 per litre on the sale of HSD. Further, the oil marketing companies' margins of Rs 5 per litre are collected on the sale of petrol and HSD while the commission of dealers has been set at Rs7 per litre for the two petroleum products.",332.0,214.8,227.8,Govt keeps petrol rate unchanged,0.0,0.1,0.7,0.15,0.05,0.0,0.05,0.85,0.05,0.05,0.005,0.02,0.95,0.02,0.005,0.05,0.55,0.35,0.05,0.0,1.734723475976807e-18,0.6,-0.15,-0.1
+47,47,2023-01-01,['https://tribune.com.pk/epaper/news/Karachi/2023-01-01/ZTY5NDFlYzFkMDQ5MTlhODIwZDYzZjdlYWJiMzNjZWQuanBlZw'],"Dar says PM refused to budge on OGRA's proposal  The government on Saturday announced that oil prices would remain unchanged effective from January 1, 2023.
 
 It decided to leave the prices of petrol and high speed diesel (HSD) unchanged at the current levels for the first half of January 2023.
 
@@ -1452,8 +1452,8 @@ Currently, the PL at one litre of petrol has reached its upper cap of Rs50, whil
 
 Apart from the international oil rates, the serious impact faced by the oil marketing companies (OMC) in Pakistan was the fluctuating exchange rate.
 
-The largest oil importer in the country is the state-owned Pakistan State Oil, and it was facing huge rupee-dollar exchange loss on the imports of petroleum products, and as the petroleum prices were kept unchanged, the OMCs could not recover the amount from the customers, thus creating a huge backlog to be paid by the government.",519.0,214.8,227.8,Govt keeps POL rates unchanged,0.0,0.1,0.7,0.15,0.05,0.05,0.15,0.5,0.2,0.1,0.0,0.12,0.85,0.03,0.0,0.2,0.35,0.2,0.2,0.05,0.09,0.44999999999999996,-0.15,-0.15
-48,2022-12-16,"['https://tribune.com.pk/epaper/news/Karachi/2022-12-16/Y2E1NWE2ZWQwMTRlNjAyN2UxN2FlOTU5NjA1NmIyMjQucG5n', 'https://tribune.com.pk/epaper/news/Karachi/2022-12-16/MDg0NGQ5NjFkMTEyMmEwYWRjMGNmOWVjZjczMGJjNWUucG5n']","Reduces HSD rate by Rs 7.50 per litre  The federal government on Thursday slashed the prices of petroleum products by up to Rs 10 per litre effective from December 16, 2022.
+The largest oil importer in the country is the state-owned Pakistan State Oil, and it was facing huge rupee-dollar exchange loss on the imports of petroleum products, and as the petroleum prices were kept unchanged, the OMCs could not recover the amount from the customers, thus creating a huge backlog to be paid by the government.",519.0,214.8,227.8,Govt keeps POL rates unchanged,0.0,0.1,0.7,0.15,0.05,0.05,0.15,0.5,0.2,0.1,0.0,0.12,0.85,0.03,0.0,0.2,0.35,0.2,0.2,0.05,0.09,0.4499999999999999,-0.15,-0.15
+48,48,2022-12-16,"['https://tribune.com.pk/epaper/news/Karachi/2022-12-16/Y2E1NWE2ZWQwMTRlNjAyN2UxN2FlOTU5NjA1NmIyMjQucG5n', 'https://tribune.com.pk/epaper/news/Karachi/2022-12-16/MDg0NGQ5NjFkMTEyMmEwYWRjMGNmOWVjZjczMGJjNWUucG5n']","Reduces HSD rate by Rs 7.50 per litre  The federal government on Thursday slashed the prices of petroleum products by up to Rs 10 per litre effective from December 16, 2022.
 
 Finance Minister Ishaq Dar in a tweet said that the government had reduced the price of high speed diesel by Rs7.50 per litre. The government slashed the price of petrol by Rs10 per litre, kerosene oil by Rs10 per litre and light diesel oil (LDO) by Rs 10 per litre. Following reduction in the prices of petroleum products, the high speed diesel will be sold at Rs227.80 per litre. Petrol will be available at Rs214.80 per litre following reduction in the price. The kerosene oil will be sold at Rs171.83 per litre.
 
@@ -1476,7 +1476,7 @@ The HSD is widely used in agriculture and transport sectors. Therefore, partial 
 The CNG stations in Punjab have been operating on imported LNG which is not available during the current season. Therefore, the demand of petrol will be higher during the month of December.
 
 Kerosene oil is used in remote areas of Pakistan, especially the northern part of the country, where LPG or pipe gas was not available for cooking purpose.",451.0,214.8,227.8,Govt slashes petrol price by Rs 10 per litre,0.1,0.75,0.1,0.03,0.02,0.1,0.55,0.2,0.1,0.05,0.4,0.55,0.05,0.0,0.0,0.05,0.6,0.25,0.1,0.0,1.35,0.6,0.8799999999999999,0.55
-49,2022-12-01,['https://tribune.com.pk/epaper/news/Karachi/2022-12-01/ZjVmYjc1ZWZlYjZiOTE5ZjljZGRmMGM4ZmY2ZTVlMDguanBlZw'],"Diesel rate should have been cut by Rs 11.95 per litre, but govt did not revise it
+49,49,2022-12-01,['https://tribune.com.pk/epaper/news/Karachi/2022-12-01/ZjVmYjc1ZWZlYjZiOTE5ZjljZGRmMGM4ZmY2ZTVlMDguanBlZw'],"Diesel rate should have been cut by Rs 11.95 per litre, but govt did not revise it
 
 Finance Minister Ishaq Dar on Wednesday announced that the government was keeping prices of petrol and diesel unchanged effective from December 1, 2022.
 
@@ -1508,22 +1508,22 @@ Instead of passing on the increase or absorbing the impact of the increase by re
 
 The oil industry body said that the inland freight equalisation margin (IFEM) was reduced by Rs3.21 and Rs2.72 per litre on motor spirit and high-speed diesel respectively.
 
-It further said that the exchange loss adjustment was reduced by Rs3.01 and Rs2.11 per litre on motor spirit and diesel respectively.",481.0,224.8,235.3,Govt decides against POL price cut,0.0,0.05,0.1,0.7,0.15,0.0,0.05,0.1,0.55,0.3,0.0,0.0,0.45,0.5,0.05,0.02,0.13,0.2,0.4,0.25,-0.6,-0.73,-0.95,-1.0999999999999999
-50,2022-11-16,['https://tribune.com.pk/epaper/news/Karachi/2022-11-16/NjI4MTEyOTI4MzJhNWM3NWY4NGMxNzVjYTgwODMyOTQuanBlZw'],"Fuel prices would remain unchanged for the second fortnight of the current month, Finance Minister Ishaq Dar announced on Tuesday.
+It further said that the exchange loss adjustment was reduced by Rs3.01 and Rs2.11 per litre on motor spirit and diesel respectively.",481.0,224.8,235.3,Govt decides against POL price cut,0.0,0.05,0.1,0.7,0.15,0.0,0.05,0.1,0.55,0.3,0.0,0.0,0.45,0.5,0.05,0.02,0.13,0.2,0.4,0.25,-0.6,-0.73,-0.95,-1.1
+50,50,2022-11-16,['https://tribune.com.pk/epaper/news/Karachi/2022-11-16/NjI4MTEyOTI4MzJhNWM3NWY4NGMxNzVjYTgwODMyOTQuanBlZw'],"Fuel prices would remain unchanged for the second fortnight of the current month, Finance Minister Ishaq Dar announced on Tuesday.
 
 Dar told a press conference that the government had decided not to make any changes in current prices of petroleum products for the next 15 days. Accordingly, the price of high speed diesel had been maintained at Rs 235.30 per liter, petrol Rs 224.80 per litre, kerosene oil Rs 191.83 per litre and light diesel at Rs186.50 per litre.
 
 Petrol is an alternative of compressed natural gas (CNG), especially in Punjab. High speed diesel is normally used in transport and agriculture sectors. Therefore, any revision in its price would have a direct impact on the consumers.
 
-Kerosene oil is used for cooking purposes in those areas of northern parts where the liquefied petroleum gas (LPG) was not available. The Pakistan Army also used kerosene oil in northern parts of the country. Light Diesel Oil is used in the industry.",159.0,224.8,235.3,Fuel prices remain unchanged for this fortnight,0.0,0.05,0.85,0.05,0.05,0.0,0.05,0.85,0.08,0.02,0.0,0.03,0.95,0.02,0.0,0.0,0.15,0.85,0.0,0.0,0.009999999999999998,0.15,-0.10000000000000002,-0.06999999999999999
-51,2022-11-01,['https://tribune.com.pk/epaper/news/Karachi/2022-11-01/MTI1Yjg3NTYwMWQ0YzgzNWQ5MDg3NGQ4OTIwMjZlZTcuanBlZw'],"The federal government on Monday announced that prices of petroleum products would remain unchanged for the next fortnight - till Nov 15.
+Kerosene oil is used for cooking purposes in those areas of northern parts where the liquefied petroleum gas (LPG) was not available. The Pakistan Army also used kerosene oil in northern parts of the country. Light Diesel Oil is used in the industry.",159.0,224.8,235.3,Fuel prices remain unchanged for this fortnight,0.0,0.05,0.85,0.05,0.05,0.0,0.05,0.85,0.08,0.02,0.0,0.03,0.95,0.02,0.0,0.0,0.15,0.85,0.0,0.0,0.0099999999999999,0.15,-0.1,-0.0699999999999999
+51,51,2022-11-01,['https://tribune.com.pk/epaper/news/Karachi/2022-11-01/MTI1Yjg3NTYwMWQ0YzgzNWQ5MDg3NGQ4OTIwMjZlZTcuanBlZw'],"The federal government on Monday announced that prices of petroleum products would remain unchanged for the next fortnight - till Nov 15.
 
 ""The current prices will be maintained for the next 15 days,"" Finance Minister Ishaq Dar said during a press conference in Islamabad.
 
 He said that the date to file income tax returns has been extended for a month as demanded by the business community and they can now be filled till Nov 30.
 
-Dar said the government had also increased the threshold of LCs from. $50,000 to $100,000 which would clear further 1,365 cases. The implementation of the decision would begin Tuesday (today), he added.",107.0,224.8,235.3,Petroleum prices to remain unchanged,0.0,0.05,0.8,0.1,0.05,0.1,0.25,0.55,0.05,0.05,0.0,0.05,0.9,0.05,0.0,0.02,0.35,0.6,0.02,0.01,0.0,0.35,-0.15000000000000002,0.3
-52,2022-10-16,['https://tribune.com.pk/epaper/news/Karachi/2022-10-16/NzUxNTE3ZWUwNTg4OWVmMGYyOGJiMmI0OWNkMWUzZTEuanBlZw'],"'Will not pass on minor cut in petrol price to consumers'  As the by-polls are being held on Sunday (today), the PML-N led coalition government on Saturday decided to keep the prices of petroleum products unchanged apparently in a bid to win the support of the voters and produce a ""feel-good effect"" to dilute the political noise being created by the PTI. Finance Minister Ishaq Dar, who is in the United States to hold important meetings with the global ending institutions, announced in a video statement that rates of oil would be maintained for the next fortnight - October 16 to 31. The finance minister had received a summary in Washington which was moved by the Oil and Gas Regulatory Authority (Ogra). Dar said in the video statement that he had consulted Prime Minister Shehbaz Sharif and decided to keep the oil prices unchanged.
+Dar said the government had also increased the threshold of LCs from. $50,000 to $100,000 which would clear further 1,365 cases. The implementation of the decision would begin Tuesday (today), he added.",107.0,224.8,235.3,Petroleum prices to remain unchanged,0.0,0.05,0.8,0.1,0.05,0.1,0.25,0.55,0.05,0.05,0.0,0.05,0.9,0.05,0.0,0.02,0.35,0.6,0.02,0.01,0.0,0.35,-0.15,0.3
+52,52,2022-10-16,['https://tribune.com.pk/epaper/news/Karachi/2022-10-16/NzUxNTE3ZWUwNTg4OWVmMGYyOGJiMmI0OWNkMWUzZTEuanBlZw'],"'Will not pass on minor cut in petrol price to consumers'  As the by-polls are being held on Sunday (today), the PML-N led coalition government on Saturday decided to keep the prices of petroleum products unchanged apparently in a bid to win the support of the voters and produce a ""feel-good effect"" to dilute the political noise being created by the PTI. Finance Minister Ishaq Dar, who is in the United States to hold important meetings with the global ending institutions, announced in a video statement that rates of oil would be maintained for the next fortnight - October 16 to 31. The finance minister had received a summary in Washington which was moved by the Oil and Gas Regulatory Authority (Ogra). Dar said in the video statement that he had consulted Prime Minister Shehbaz Sharif and decided to keep the oil prices unchanged.
 
 According to recommendations, a minor reduction was suggested in the price of petrol whereas a proposal to increase the price of diesel, kerosene oil and light diesel oil (LDO) was on the cards.
 
@@ -1549,8 +1549,8 @@ The National Electric Power Regulatory Authority (Nepra) had also decided to inc
 
 This is stated to be a technical fraud as the past tariff increased on quarterly adjustment was going to end and the government would have to impose new tariff on the consumers on account of fourth quarterly adjustment.
 
-Now, the existing tariff would continue but there will be an imposition of new tariff on the consumers to burden them with Rs94 billion.",536.0,224.8,235.3,Govt keeps petrol price unchanged,0.0,0.1,0.6,0.2,0.1,0.0,0.1,0.25,0.45,0.2,0.0,0.03,0.94,0.03,0.0,,0.1,0.15,0.37,,0.0,,-0.30000000000000004,-0.7500000000000001
-53,2022-10-01,"['https://tribune.com.pk/epaper/news/Karachi/2022-10-01/NDFhZGM4MzM4MTdkYjEyYWViMDc2MjBiYjcyNDdhNjcuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2022-10-01/Njg2Y2FiMDU4ZWFlMjQxZmVlMDY0ZjEzMGQwNTEzNmYuanBlZw']","In his maiden speech, Dar announces major relief
+Now, the existing tariff would continue but there will be an imposition of new tariff on the consumers to burden them with Rs94 billion.",536.0,224.8,235.3,Govt keeps petrol price unchanged,0.0,0.1,0.6,0.2,0.1,0.0,0.1,0.25,0.45,0.2,0.0,0.03,0.94,0.03,0.0,,0.1,0.15,0.37,,0.0,,-0.3,-0.7500000000000001
+53,53,2022-10-01,"['https://tribune.com.pk/epaper/news/Karachi/2022-10-01/NDFhZGM4MzM4MTdkYjEyYWViMDc2MjBiYjcyNDdhNjcuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2022-10-01/Njg2Y2FiMDU4ZWFlMjQxZmVlMDY0ZjEzMGQwNTEzNmYuanBlZw']","In his maiden speech, Dar announces major relief
 
 In his maiden press conference, Finance Minister Ishaq Dar on Friday announced to cut petroleum products prices by up to Rs12.6 per litre or 5.4% by making adjustments in taxes but still keeping those significantly lower than the International Monetary Fund requirement.
 
@@ -1585,12 +1585,12 @@ During this week, the rupee covered Rs11.20 a dollar or 4.7% of its lost value, 
 The State Bank of Pakistan has given show cause notices to these banks but is still shy of imposing heavy penalties, including a possibility to get the concerned officials of these banks sacked for manipulation of the currency that caused a national crisis-like situation.
 
 The global crude oil prices are also on a downward trajectory and were traded at around $87 per barrel on Friday. Ishaq Dar is also expected to review the petroleum prices determination formula, which is currently tilted in favour of the oil marketing companies.",697.0,224.8,235.3,POL prices slashed by Rs 12.6 per litre,0.1,0.6,0.2,0.05,0.05,0.15,0.6,0.15,0.08,0.02,0.2,0.6,0.2,0.0,0.0,0.28,0.32,0.15,0.18,0.07,1.0,0.56,0.6499999999999999,0.78
-54,2022-09-21,['https://tribune.com.pk/epaper/news/Karachi/2022-09-21/ZWRiZGJjOTg4N2E2MDg0NDVjNGI0MWVkY2M3NzYxNjIuanBlZw'],"The price of petrol apart from diesel has been jacked up by Rs1.45 per litre, according to the Ministry of Finance on Tuesday.
+54,54,2022-09-21,['https://tribune.com.pk/epaper/news/Karachi/2022-09-21/ZWRiZGJjOTg4N2E2MDg0NDVjNGI0MWVkY2M3NzYxNjIuanBlZw'],"The price of petrol apart from diesel has been jacked up by Rs1.45 per litre, according to the Ministry of Finance on Tuesday.
 
 The rate of petrol has been increased to Rs237.43 from Rs235.98 per litre. However, there was no change in the price of diesel.
 
-Further, the price of kerosene has been reduced by Rs8.30 to Rs202.02 per litre. Similarly, the price of light diesel oil has been reduced by Rs 4.26 to Rs197.28 per litre from Rs201.54.",79.0,237.43,247.43,Petrol price jacked up by Rs 1.45 per litre,0.0,0.05,0.1,0.6,0.25,0.1,0.25,0.4,0.2,0.05,0.0,0.0,0.25,0.65,0.1,0.0,0.4,0.5,0.1,0.0,-0.8500000000000001,0.30000000000000004,-1.05,0.14999999999999997
-55,2022-09-01,"['https://tribune.com.pk/epaper/news/Karachi/2022-09-01/MzRkZTJiMzE3YTQ4NWU2NTU1MWM3OWZjZWNkZGY1MzcuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2022-09-01/NjhjZmEwMDdiMTNmMzhiZmYxYTUzNGE2MzBlZmUyYjYuanBlZw']","Petroleum prices have been increased by nearly Rs 11 per litre
+Further, the price of kerosene has been reduced by Rs8.30 to Rs202.02 per litre. Similarly, the price of light diesel oil has been reduced by Rs 4.26 to Rs197.28 per litre from Rs201.54.",79.0,237.43,247.43,Petrol price jacked up by Rs 1.45 per litre,0.0,0.05,0.1,0.6,0.25,0.1,0.25,0.4,0.2,0.05,0.0,0.0,0.25,0.65,0.1,0.0,0.4,0.5,0.1,0.0,-0.8500000000000001,0.3,-1.05,0.1499999999999999
+55,55,2022-09-01,"['https://tribune.com.pk/epaper/news/Karachi/2022-09-01/MzRkZTJiMzE3YTQ4NWU2NTU1MWM3OWZjZWNkZGY1MzcuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2022-09-01/NjhjZmEwMDdiMTNmMzhiZmYxYTUzNGE2MzBlZmUyYjYuanBlZw']","Petroleum prices have been increased by nearly Rs 11 per litre
 
 As the country reels through floods, the government on Wednesday dropped another petrol bomb, increasing the prices of petroleum products from September 1, despite the Oil and Gas Regulatory  Authority's (Ogra) proposal for a reduction.
 
@@ -1605,7 +1605,7 @@ High-speed diesel is widely used in the agriculture and transport sectors, Since
 Petrol is used in personal means of transport, While Compressed Natural Gas (CNG) is an alternative fuel, all CNG stations have been selling Liquefied Natural Gas (LNG) instead. Pakistan has not arranged LNG imports, therefore, there is a shortage at CNG stations as well. This leaves the public without any alternative fuel source.
 
 Kerosene oil is widely used in remote areas of Pakistan, including places up north, where Liquefied Petroleum Gas (LPG) is not available for cooking. The Pakistan Army also uses kerosene oil in remote areas of the country. The massive increase in its price will add to the inflationary pressure on the poor who used it for cooking. """,334.0,235.98,247.43,Another petrol bomb dropped amid floods,0.0,0.05,0.1,0.5,0.35,0.0,0.01,0.1,0.45,0.44,0.0,0.0,0.05,0.35,0.6,0.0,0.01,0.09,0.35,0.55,-1.5499999999999998,-1.4400000000000002,-1.15,-1.32
-56,2022-08-16,"['https://tribune.com.pk/epaper/news/Karachi/2022-08-16/NGQ2OTI2OTlhMGMyZjU0NzAxOTI3MmE4YTFjODRlMDcuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2022-08-16/ZWZkZDI4MWYyYzRjOGJkYWI5ZjdiMzk3OWRmOTQyYTkuanBlZw']","Price of petrol increased by Rs 6.72 per litre  The government's move of jacking up the petrol price on Monday caught the people off guard, as it was expected that the rate would witness a significant decrease.
+56,56,2022-08-16,"['https://tribune.com.pk/epaper/news/Karachi/2022-08-16/NGQ2OTI2OTlhMGMyZjU0NzAxOTI3MmE4YTFjODRlMDcuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2022-08-16/ZWZkZDI4MWYyYzRjOGJkYWI5ZjdiMzk3OWRmOTQyYTkuanBlZw']","Price of petrol increased by Rs 6.72 per litre  The government's move of jacking up the petrol price on Monday caught the people off guard, as it was expected that the rate would witness a significant decrease.
 
 The price of petrol was increased by Rs 6.72 per litre and that of high speed diesel (HSD) was reduced by Rs 0.51 and kerosene oil by Rs1.67 per litre effective from August 16 (today).
 
@@ -1623,8 +1623,8 @@ In the past, the sharp devaluation of the rupee against the dollar had also been
 
 In recent days, the position of the rupee had strengthened against the dollar. Despite that, there had been an increase in the price of petrol. And, there had not been any major cut in the price of diesel which is widely used in agriculture and transport sectors in the country.
 
-Price impact As the HSD is mainly used in agriculture and transport sectors, reduction in its prices will have a direct inflationary impact on the life of the masses. The farmers are already facing high prices of electricity and the reduction in price of HSD might cause some relief in the cost of doing business. The price of HSD is already at a high level. The fresh nominal reduction in its price may not have a major impact on the transport and agriculture sectors that are directly linked to activities of farmers and the people. Due to hike in the price of diesel, transport fares have already gone up, resulting in higher prices of commodities in the country. Petrol is used in motor bikes and cars. Its alternative is compressed natural gas (CNG). The CNG retail outlets in Punjab have been operating on imported liquefied natural gas (LNG) and the cost of it has gone up manifold due to Russia- Ukraine conflict. Even, Pakistan has been unable to secure LNG contracts on spot basis due to the highest-ever prices of commodities in the international market. Pakistan LNG Limited - a state run company - had failed to arrange the LNG cargoes even during the last winter season. Australia had been a major gas exporter. However, as its regulator put curbs on gas exports, further shortage of gas in the global market is expected. In this situation, Pakistan may not be able to secure contracts for the upcoming winter season. Therefore, the next winter will also be tough for the commuters. In this situation, the consumers in Punjab will be relying more on petrol and fresh increase in its price will have a negative impact on the life of those using motorcycles and cars in the province, experts added. Kerosene oil is used in remote areas, where the liquefied petroleum gas (LPG) was not available for cooking purposes. The army is a key user of kerosene oil in remote areas, like the northern areas. The poor population also uses this fuel in northern parts of Pakistan.",608.0,233.91,244.44,Govt's petrol-hike move catches people off guard,0.0,0.05,0.1,0.55,0.3,0.0,0.05,0.1,0.55,0.3,0.0,0.0,0.1,0.65,0.25,0.0,0.05,0.2,0.3,0.45,-1.15,-1.15,-1.0999999999999999,-1.0999999999999999
-57,2022-08-01,"['https://tribune.com.pk/epaper/news/Karachi/2022-08-01/OTMwZDg3MmVmOGMzNjIwY2M5NjhhYTMyMzhmMmYzNmQuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2022-08-01/OGRlODkzZWQ2ZGVmMGFiNzdiMWFiNGVhZDRhYjE4NzAuanBlZw']","Light diesel rate reduced fractionally, kerosene oil price increased
+Price impact As the HSD is mainly used in agriculture and transport sectors, reduction in its prices will have a direct inflationary impact on the life of the masses. The farmers are already facing high prices of electricity and the reduction in price of HSD might cause some relief in the cost of doing business. The price of HSD is already at a high level. The fresh nominal reduction in its price may not have a major impact on the transport and agriculture sectors that are directly linked to activities of farmers and the people. Due to hike in the price of diesel, transport fares have already gone up, resulting in higher prices of commodities in the country. Petrol is used in motor bikes and cars. Its alternative is compressed natural gas (CNG). The CNG retail outlets in Punjab have been operating on imported liquefied natural gas (LNG) and the cost of it has gone up manifold due to Russia- Ukraine conflict. Even, Pakistan has been unable to secure LNG contracts on spot basis due to the highest-ever prices of commodities in the international market. Pakistan LNG Limited - a state run company - had failed to arrange the LNG cargoes even during the last winter season. Australia had been a major gas exporter. However, as its regulator put curbs on gas exports, further shortage of gas in the global market is expected. In this situation, Pakistan may not be able to secure contracts for the upcoming winter season. Therefore, the next winter will also be tough for the commuters. In this situation, the consumers in Punjab will be relying more on petrol and fresh increase in its price will have a negative impact on the life of those using motorcycles and cars in the province, experts added. Kerosene oil is used in remote areas, where the liquefied petroleum gas (LPG) was not available for cooking purposes. The army is a key user of kerosene oil in remote areas, like the northern areas. The poor population also uses this fuel in northern parts of Pakistan.",608.0,233.91,244.44,Govt's petrol-hike move catches people off guard,0.0,0.05,0.1,0.55,0.3,0.0,0.05,0.1,0.55,0.3,0.0,0.0,0.1,0.65,0.25,0.0,0.05,0.2,0.3,0.45,-1.15,-1.15,-1.1,-1.1
+57,57,2022-08-01,"['https://tribune.com.pk/epaper/news/Karachi/2022-08-01/OTMwZDg3MmVmOGMzNjIwY2M5NjhhYTMyMzhmMmYzNmQuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2022-08-01/OGRlODkzZWQ2ZGVmMGFiNzdiMWFiNGVhZDRhYjE4NzAuanBlZw']","Light diesel rate reduced fractionally, kerosene oil price increased
 
 The government on Sunday reduced the price of petrol by Rs3.05 per litre and that of light diesel oil (LDO) by Rs 0.12 per litre from August 1 (today) but increased the price of high speed diesel (HSD) by Rs8.95 per litre and that of kerosene oil by Rs 4.62 per litre.
 
@@ -1648,8 +1648,8 @@ Pakistan had been struggling to strike LNG contracts on spot basis. However, the
 
 ""Therefore, the consumers in Punjab will be relying more on petrol,"" an expert said. ""The reduction in its price will also have healthy impact on the life of those using motorcycles and cars in the province,"" he added.
 
-Kerosene oil is used in remote areas, where the Liquefied Petroleum Gas (LPG) was not available for cooking purpose. The army is a key user of kerosene oil in remote areas, like the northern areas. The poor population also use this fuel in northern parts of Pakistan.",496.0,227.19,244.95,"Petrol price slashed, diesel's jacked up",0.1,0.2,0.3,0.25,0.15,0.1,0.35,0.25,0.2,0.1,0.2,0.15,0.35,0.15,0.15,0.0,0.1,0.3,0.25,0.35,0.10000000000000009,-0.85,-0.15000000000000002,0.14999999999999997
-58,2022-07-15,"['https://tribune.com.pk/epaper/news/Karachi/2022-07-15/OThiODBjMGRiNzBiYWI4MGRhYjU1ZDk5OTYyYzkxNWEuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2022-07-15/ZjQzNmM2NTQyMWI5ODc2OWFmZGM2MTQ4YTYxZGVlZjQuanBlZw']","PM says govt fulfilling its promise of passing on benefit of dip in global rates to consumers
+Kerosene oil is used in remote areas, where the Liquefied Petroleum Gas (LPG) was not available for cooking purpose. The army is a key user of kerosene oil in remote areas, like the northern areas. The poor population also use this fuel in northern parts of Pakistan.",496.0,227.19,244.95,"Petrol price slashed, diesel's jacked up",0.1,0.2,0.3,0.25,0.15,0.1,0.35,0.25,0.2,0.1,0.2,0.15,0.35,0.15,0.15,0.0,0.1,0.3,0.25,0.35,0.1,-0.85,-0.15,0.1499999999999999
+58,58,2022-07-15,"['https://tribune.com.pk/epaper/news/Karachi/2022-07-15/OThiODBjMGRiNzBiYWI4MGRhYjU1ZDk5OTYyYzkxNWEuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2022-07-15/ZjQzNmM2NTQyMWI5ODc2OWFmZGM2MTQ4YTYxZGVlZjQuanBlZw']","PM says govt fulfilling its promise of passing on benefit of dip in global rates to consumers
 
 Prime Minister Shahbaz Sharif on Thursday announced a reduction of Rs 40.54 per litre in the price of diesel and Rs 18.50 per litre in that of petrol in order to pass on the benefit of the drop in global oil prices to the consumers.
 
@@ -1690,7 +1690,7 @@ The prime minister said that government had inked an agreement with the IMF. Ack
 ""I have faith that Pakistan will see that time, If we follow what the Holy Quran has ordained us with, I have no doubt that difficulties will vanish,"" the prime minister said, appealing to the nation to work hard to achieve the goal.
 
 The government said that prices of petroleum products had been fluctuating in the international market, while rupee-dollar parity was also impacting the end consumers. However, the prices are showing a downward trend during the ongoing fortnight in the international market.",795.0,230.24,236.0,Shehbaz announces fuel price relief,0.1,0.75,0.1,0.03,0.02,0.1,0.65,0.15,0.05,0.05,0.4,0.55,0.05,0.0,0.0,0.2,0.3,0.3,0.2,0.0,1.35,0.5,0.8799999999999999,0.7
-59,2022-07-01,"['https://tribune.com.pk/epaper/news/Karachi/2022-07-01/MWZiMmYyNmUyMzQyOWI1NTQ0MmEyM2QwMjkyZjhmZTcuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2022-07-01/MGYzNzcwMDEyNDIxYmYwZjk3NDExZjlhMTQ1YTE3ZjcuanBlZw']","Raises rates by up to Rs18.83 per litre on account of petroleum levy  The coalition government on Thursday dropped another oil bomb as it increased the prices by up to Rs18.83 per litre on account of petroleum levy on these products. The new prices will be effective from Friday (today). Earlier, the government had been charging zero petroleum levy and general sales tax on petroleum products to absorb the impact of the hike in global oil prices and depreciation of the rupee against the dollar. The government increased the price of petrol by Rs14.85 per litre, from Rs233.89 to Rs 248.74 per litre. High speed diesel (HSD) has been upped by Rs13.23 per litre, from Rs 263.31 to Rs276.54. Kerosene oil has been jacked up the most, Rs18.83 per litre to Rs230.26 from Rs211.43 per litre. This was followed by low diesel oil (LDO), with its price being increased by Rs 18.68 per litre to Rs226.15 from Rs207.47.
+59,59,2022-07-01,"['https://tribune.com.pk/epaper/news/Karachi/2022-07-01/MWZiMmYyNmUyMzQyOWI1NTQ0MmEyM2QwMjkyZjhmZTcuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2022-07-01/MGYzNzcwMDEyNDIxYmYwZjk3NDExZjlhMTQ1YTE3ZjcuanBlZw']","Raises rates by up to Rs18.83 per litre on account of petroleum levy  The coalition government on Thursday dropped another oil bomb as it increased the prices by up to Rs18.83 per litre on account of petroleum levy on these products. The new prices will be effective from Friday (today). Earlier, the government had been charging zero petroleum levy and general sales tax on petroleum products to absorb the impact of the hike in global oil prices and depreciation of the rupee against the dollar. The government increased the price of petrol by Rs14.85 per litre, from Rs233.89 to Rs 248.74 per litre. High speed diesel (HSD) has been upped by Rs13.23 per litre, from Rs 263.31 to Rs276.54. Kerosene oil has been jacked up the most, Rs18.83 per litre to Rs230.26 from Rs211.43 per litre. This was followed by low diesel oil (LDO), with its price being increased by Rs 18.68 per litre to Rs226.15 from Rs207.47.
 
 The government has imposed Rs10 per litre petroleum levy on petrol, Rs5 per litre on HSD, Rs5 per litre to on kerosene oil and RS5 per litre on LDO. Addressing a news conference, Finance Minister Miftah Ismail said that the increase was made to meet the conditions set forth by the International Monetary Fund (IMF).
 
@@ -1734,8 +1734,8 @@ It will affect the farming sector that is already facing a miserable situation d
 
 Petrol is used in motorbikes and cars and therefore, further increase in its price will also hit the middle-class society.
 
-Kerosene oil is used in remote areas where LPG is not available for cooking. Pakistan Army also uses kerosene oil in remote areas, including northern parts, of the country.",698.0,248.74,276.54,Govt fails to rein in runaway fuel prices,0.0,0.05,0.1,0.6,0.25,0.0,0.05,0.15,0.5,0.3,0.0,0.0,0.05,0.45,0.5,0.0,0.05,0.2,0.35,0.4,-1.45,-1.0999999999999999,-1.05,-1.05
-60,2022-06-16,"['https://tribune.com.pk/epaper/news/Karachi/2022-06-16/ZmQyYzlkNDlkMGEyZWQzYWExY2QzNWU2NTkyODI0YWEuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2022-06-16/NzhlOWM3MWU4YzkwZTExMjc4NjViNTdjNjdmZjQ3ZDguanBlZw']","Govt announces third increase in POL prices in 20 days  The federal government on Wednesday announced a massive increase in prices of all petroleum products -  especially petrol by Rs 24 per litre and high-speed diesel (HSD) by Rs 59.16 per litre - the third such raise within the last 20 days.
+Kerosene oil is used in remote areas where LPG is not available for cooking. Pakistan Army also uses kerosene oil in remote areas, including northern parts, of the country.",698.0,248.74,276.54,Govt fails to rein in runaway fuel prices,0.0,0.05,0.1,0.6,0.25,0.0,0.05,0.15,0.5,0.3,0.0,0.0,0.05,0.45,0.5,0.0,0.05,0.2,0.35,0.4,-1.45,-1.1,-1.05,-1.05
+60,60,2022-06-16,"['https://tribune.com.pk/epaper/news/Karachi/2022-06-16/ZmQyYzlkNDlkMGEyZWQzYWExY2QzNWU2NTkyODI0YWEuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2022-06-16/NzhlOWM3MWU4YzkwZTExMjc4NjViNTdjNjdmZjQ3ZDguanBlZw']","Govt announces third increase in POL prices in 20 days  The federal government on Wednesday announced a massive increase in prices of all petroleum products -  especially petrol by Rs 24 per litre and high-speed diesel (HSD) by Rs 59.16 per litre - the third such raise within the last 20 days.
 
 The new prices would come into effect from midnight tonight, Finance Minister Miftah Ismail said while addressing a news conference in Islamabad. He was flanked by State Minister for Petroleum Musadik Malik.
 
@@ -1782,7 +1782,7 @@ Earlier this month, the federal government had decided to raise the prices of al
 Back then, Miftah had said the government was still facing a loss of around Rs 9 in petrol despite a hike of Rs30 as it was ""not collecting any tax"" on the fuel.
 
 The minister had added that the government was holding talks with the IMF every day. ""We cannot accept all their demands but there are certain points that we have to agree to.""",662.0,233.89,263.31,Fuel prices raised again to unlock IMF funding,0.0,0.05,0.15,0.6,0.2,0.0,0.02,0.15,0.55,0.28,0.0,0.0,0.15,0.6,0.25,0.0,0.0,0.1,0.45,0.45,-1.1,-1.35,-0.95,-1.09
-61,2022-06-03,"['https://tribune.com.pk/epaper/news/Karachi/2022-06-03/MjY3MTgyY2JmYTBjNGM2YmZjYmQzM2Q5NDdiMzhhM2EuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2022-06-03/NzgzOThlNDQ5MzI5YzBlMWJkNzM0YWMwMWJjODJkYjMuanBlZw']","POL price hiked by Rs30; power tariff Rs7.91  The federal government on Thursday dropped a fuel bomb on the nation after it suffered an electric shock earlier in the day - to meet the conditions imposed by the International Monetary Fund (IMF) for the revival of the stalled loan programme signed with the global lender during the previous PTI regime.
+61,61,2022-06-03,"['https://tribune.com.pk/epaper/news/Karachi/2022-06-03/MjY3MTgyY2JmYTBjNGM2YmZjYmQzM2Q5NDdiMzhhM2EuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2022-06-03/NzgzOThlNDQ5MzI5YzBlMWJkNzM0YWMwMWJjODJkYjMuanBlZw']","POL price hiked by Rs30; power tariff Rs7.91  The federal government on Thursday dropped a fuel bomb on the nation after it suffered an electric shock earlier in the day - to meet the conditions imposed by the International Monetary Fund (IMF) for the revival of the stalled loan programme signed with the global lender during the previous PTI regime.
 
 The federal government has decided to raise the prices of all petroleum products with the exception of one by another Rs30, just a week after making a similar increase - hours after the National Electric Power Regulatory Authority (Nepra) approved a massive increase of Rs7.91 per unit in the power tariff.
 
@@ -1839,7 +1839,87 @@ The total revenue requirement of XWDISCOs including DISCOs margin and prior year
 Nepra further said that MEPCO, GEPCO, HESCO, SEPCO, QESCO, PESCO & TESCO had been allowed an investment of around Rs 406 billion for their distribution investment programme for the five-year period.
 
 However, the power regulator had reduced XWDISCOs allowed T&D losses from 13.46% to 11.70% for the FY 2022-23.",826.0,209.86,204.15,"Double whammy for consumers as fuel, power prices jacked up",0.0,0.05,0.1,0.6,0.25,0.0,0.05,0.1,0.45,0.4,0.0,0.0,0.05,0.35,0.6,0.0,0.02,0.18,0.35,0.45,-1.5499999999999998,-1.23,-1.05,-1.2
-62,2022-05-16,"['https://tribune.com.pk/epaper/news/Karachi/2022-05-16/NGQwNjIzNWY2NzgxNTFiYTJiODFmMjQzOGI1NjA3ZWMuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2022-05-16/NTQ4YjgwZWVlNTE2ZjQwNGZlMzYyNDMwYzhkY2Q3NGMuanBlZw']","Miftah says Shehbaz opposing hike in POL rates
+62,62,2022-05-27,https://tribune.com.pk/epaper/news/Karachi/2022-05-27/Mjc0YjZhYjFhNGU3YTRmZmMwZjE5YTlhZTUwMzczZjkuanBlZw,"
+Price hike to help pave way for reaching staff-level
+agreement with global lender
+SHAHBAZ RANA
+ISLAMABAD
+PETROL
+HSD
+NEW
+Rs179.86
+NEW
+Rs174.15
+OLD
+Rs149.86
+OLD
+Rs144.15
+ing Rs56 per liter subsidy
+and I have only reduced the
+loss by Rs30 per liter,"" said
+Miftah while addressing
+the news conference. High-
+speed-diesel new price will be
+Rs174.15 per liter, showing an
+increase of 20.8%.
+Miftah said that the gov-
+ernment was giving Rs86 per
+liter subsidy, and in the first
+batch it has reduced the sub-
+sidy amount by only Rs30.
+""The government cannot
+take the country towards
+default and is ready to pay
+the political cost for the sake
+of protecting the interest of
+the state,"" said the finance
+minister.
+""There is an option whether
+to protect political interests of
+the government or save the
+country from default and we
+POL PRICES, PAGE 6
+In a surprise move, the
+government on Thursday
+increased the petroleum
+products rates by Rs30 per
+liter, or up to one-fourth of
+their existing prices, paving
+the way for reaching a staff-
+level agreement with the
+International Monetary Fund
+by June 12.
+The unprecedented deci-
+sion will help defuse the
+landmines laid by the gov-
+ernment of former prime
+minister Imran Khan on the
+one hand, and will save the
+country from looming default
+on the other.
+Finance Minister Miftah
+Ismail made the decision
+public in an unscheduled
+news conference after Prime
+Minister Shehbaz Sharif
+gave him the go-ahead in a
+party meeting.
+""The federal government
+has decided to raise the prices
+of petroleum products by
+Rs30 per liter, with the hike
+set to go into effect at mid-
+night tonight,"" said Ismail.
+With the fresh hike, the
+new price of petrol will be
+Rs179.86 per liter - the high-
+est ever rate — and showing
+an increase of 20% over the
+existing prices. Ismail said
+that it was a ""difficult deci-
+sion that will erode political
+capital"" of the government.",325,179.86,174.15,"Caving in to IMF, govt drops petrol bomb", , , , , , , , , , , , , , , , , , , , , , , , 
+63,63,2022-05-16,"['https://tribune.com.pk/epaper/news/Karachi/2022-05-16/NGQwNjIzNWY2NzgxNTFiYTJiODFmMjQzOGI1NjA3ZWMuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2022-05-16/NTQ4YjgwZWVlNTE2ZjQwNGZlMzYyNDMwYzhkY2Q3NGMuanBlZw']","Miftah says Shehbaz opposing hike in POL rates
 
 Finance Minister Miftah Ismail on Sunday said the government was not increasing the prices of petroleum products ""for the time being""  - a decision that was against one of the key pre-conditions set by the International Monetary Fund (IMF) for the revival of the country's loan programme - and might reconsider its move soon.
 
@@ -1893,8 +1973,8 @@ Earlier in the day, the minister, while responding to PTI leader Umar's tweet, a
 
 Umar had stated in a tweet that the country's growth forecast this year had been over 5% before a vote of no-confidence had left the PTI government packing.
 
-""Great crops numbers coming in particularly sugar cane, maize, rice and potato, Plus the double digit growth of large scale manufacturing recently released means growth for this year should be even higher than the 5.6%. last year,"" the former planning and development minister had claimed.",787.0,149.86,144.15,Fuel prices to remain unchanged for now,0.1,0.2,0.55,0.1,0.05,0.05,0.15,0.5,0.2,0.1,0.0,0.03,0.95,0.02,0.0,0.02,0.13,0.1,0.4,0.35,0.009999999999999998,-0.93,0.2,-0.15
-63,2022-05-01,['https://tribune.com.pk/epaper/news/Karachi/2022-05-01/OTMxZjk4MjQwYjMxMjJlZTY1MjYxOGIxZDEzMWUwZjkuanBlZw'],"PDC piles up as govt decides to keep petroleum prices unchanged
+""Great crops numbers coming in particularly sugar cane, maize, rice and potato, Plus the double digit growth of large scale manufacturing recently released means growth for this year should be even higher than the 5.6%. last year,"" the former planning and development minister had claimed.",787.0,149.86,144.15,Fuel prices to remain unchanged for now,0.1,0.2,0.55,0.1,0.05,0.05,0.15,0.5,0.2,0.1,0.0,0.03,0.95,0.02,0.0,0.02,0.13,0.1,0.4,0.35,0.0099999999999999,-0.93,0.2,-0.15
+64,64,2022-05-01,['https://tribune.com.pk/epaper/news/Karachi/2022-05-01/OTMxZjk4MjQwYjMxMjJlZTY1MjYxOGIxZDEzMWUwZjkuanBlZw'],"PDC piles up as govt decides to keep petroleum prices unchanged
 
 The decision to freeze petroleum product prices is going to add another Rs 40 billion to price differential claims (PDC) - the cost of subsidy provided for oil consumers.
 
@@ -1934,8 +2014,8 @@ Currently, the crop sowing season is going on, which has led to an increase in t
 
 However, the PDC poses a threat to the oil industry, which could result in the piling up of circular debt if the government delays payments.
 
-The government has committed to clear PDC after every 15 days. However, the commitment has not been fulfilled and the PDC amount has continued to swell.",530.0,149.86,144.15,Oil industry's PDC to swell by Rs 40b,0.0,0.05,0.7,0.2,0.05,0.05,0.2,0.3,0.3,0.15,0.0,0.0,0.1,0.5,0.4,0.0,0.1,0.25,0.45,0.2,-1.3,-0.7500000000000001,-0.25000000000000006,-0.29999999999999993
-64,2022-04-16,"['https://tribune.com.pk/epaper/news/Karachi/2022-04-16/N2ZkYjMyZDJiMDc3NWM2YmFiMTE3YzA4ODA2NGEyZDcuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2022-04-16/YTY0YzE1M2FmNTI5Mjk0OGUyZmJhY2E1NDYxYzY3NTAuanBlZw']","PM Shehbaz turns down OGRA summary  In a balancing act after coming to power on April 11, the ruling Pakistan Muslim League-Nawaz has approved an increase of up to Rs 5 per unit in the power tariff while on the other hand rejected the summary for raising the petroleum products prices by up to Rs 51 per litre.
+The government has committed to clear PDC after every 15 days. However, the commitment has not been fulfilled and the PDC amount has continued to swell.",530.0,149.86,144.15,Oil industry's PDC to swell by Rs 40b,0.0,0.05,0.7,0.2,0.05,0.05,0.2,0.3,0.3,0.15,0.0,0.0,0.1,0.5,0.4,0.0,0.1,0.25,0.45,0.2,-1.3,-0.7500000000000001,-0.25,-0.2999999999999999
+65,65,2022-04-16,"['https://tribune.com.pk/epaper/news/Karachi/2022-04-16/N2ZkYjMyZDJiMDc3NWM2YmFiMTE3YzA4ODA2NGEyZDcuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2022-04-16/YTY0YzE1M2FmNTI5Mjk0OGUyZmJhY2E1NDYxYzY3NTAuanBlZw']","PM Shehbaz turns down OGRA summary  In a balancing act after coming to power on April 11, the ruling Pakistan Muslim League-Nawaz has approved an increase of up to Rs 5 per unit in the power tariff while on the other hand rejected the summary for raising the petroleum products prices by up to Rs 51 per litre.
 
 The National Electric Power Regulatory Authority (Nepra) on Friday raised the power tariff by Rs 4.8 per unit on account of fuel adjustment for the month of February 2022. However, Prime Minister Shehbaz Sharif turned down an increase of up to Rs 51 per litre in the price of diesel proposed by the Oil and Gas Regulatory Authority (Ogra), effective from April 16, 2022.
 
@@ -2008,7 +2088,7 @@ The international energy markets remained volatile and the premiums on MS and HS
 If the energy markets remained in their present situation, the estimated amount of PDCs for the period between April 16 to June 30, 2022 would be Rs136 billion.
 
 The demand for MS and HSD in the country remained very high. This high demand not only made the petroleum market vulnerable to supply disruptions and placed a very heavy burden on the liquidity in the sector, but was also increasing the import bill to a very high level.",1302.0,149.86,144.15,"Power tariff jacked up, POL prices stay put",0.0,0.1,0.3,0.4,0.2,0.0,0.1,0.25,0.45,0.2,0.0,0.03,0.95,0.01,0.01,0.08,0.12,0.3,0.35,0.15,0.0,-0.3699999999999999,-0.7000000000000001,-0.7500000000000001
-65,2022-03-01,"['https://tribune.com.pk/epaper/news/Karachi/2022-03-01/MzkyZmVjYjQ5OTVmMWY0MjBhYTI5MmNiNDdjNjA5MGIuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2022-03-01/OTQ0YzNkNjJiMDJkMWE4MTI1M2NlOGJkNTgwYmJjNjAuanBlZw']","PM orders cuts in fuel prices, power tariff; unveils bonanza of incentives for several sectors
+66,66,2022-03-01,"['https://tribune.com.pk/epaper/news/Karachi/2022-03-01/MzkyZmVjYjQ5OTVmMWY0MjBhYTI5MmNiNDdjNjA5MGIuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2022-03-01/OTQ0YzNkNjJiMDJkMWE4MTI1M2NlOGJkNTgwYmJjNjAuanBlZw']","PM orders cuts in fuel prices, power tariff; unveils bonanza of incentives for several sectors
 
 Prime Minister Imran Khan announced on Monday Rs 10 per litre reduction in the prices of petrol and diesel as well as Rs 5 per unit cut in the electricity tariff, along with a bonanza of incentives in several areas of the economy. In a televised address to the nation, the prime minister, while acknowledging the hue and cry made by the opposition parties about the runaway inflation, among other things, said that there would be no increase in the petrol, diesel and electricity charges until the next budget. Imran's announcements are seen as clear deviation from the International Monetary Fund's (IME) bailout package, wherein the government has already agreed to increase tax rates on the petroleum products. The government has consistently increased power tariff since it entered the IMF programme.
 
@@ -2036,8 +2116,8 @@ Imran recalled that three leading newspapers had carried stories, stating that t
 
 Following the speech, social media was abuzz with different interpretation of the address but the two most common takeaways were that Imran was apparently readying himself and the party for the elections and, maybe, the government was thinking to say goodbye to the IMF programme.
 
-Some others questioned how would the government pay for all the measures that the prime minister had announced. A PML-N spokesperson termed the address an attempt to ""save his job and the sinking government boat"".",899.0,149.86,144.15,Imran announces mega relief package,0.1,0.6,0.2,0.05,0.05,0.15,0.25,0.3,0.2,0.1,0.6,0.3,0.1,0.0,0.0,0.1,0.35,0.25,0.2,0.1,1.5,0.14999999999999997,0.6499999999999999,0.14999999999999997
-66,2022-02-16,"['https://tribune.com.pk/epaper/news/Karachi/2022-02-16/MzJmNWQ0YWI4NGYzNzY5OTYwNWIwYWNmODQ4MjFmZjAuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2022-02-16/YmMwNzVmOTU3MzJmMDhkNjY2ZDk3NmZmYjhkZmMzOTUuanBlZw']","Petrol reaches Rs160 per litre; diesel hits Rs154.15  The federal government on Tuesday made a massive increase of up to Rs 12.03 per litre in the prices of petroleum products, taking that of petrol to a record level of Rs159.86 per litre effective from February 16 (today).
+Some others questioned how would the government pay for all the measures that the prime minister had announced. A PML-N spokesperson termed the address an attempt to ""save his job and the sinking government boat"".",899.0,149.86,144.15,Imran announces mega relief package,0.1,0.6,0.2,0.05,0.05,0.15,0.25,0.3,0.2,0.1,0.6,0.3,0.1,0.0,0.0,0.1,0.35,0.25,0.2,0.1,1.5,0.1499999999999999,0.6499999999999999,0.1499999999999999
+67,67,2022-02-16,"['https://tribune.com.pk/epaper/news/Karachi/2022-02-16/MzJmNWQ0YWI4NGYzNzY5OTYwNWIwYWNmODQ4MjFmZjAuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2022-02-16/YmMwNzVmOTU3MzJmMDhkNjY2ZDk3NmZmYjhkZmMzOTUuanBlZw']","Petrol reaches Rs160 per litre; diesel hits Rs154.15  The federal government on Tuesday made a massive increase of up to Rs 12.03 per litre in the prices of petroleum products, taking that of petrol to a record level of Rs159.86 per litre effective from February 16 (today).
 
 The price of petrol broke all previous records by reaching the Rs160 per litre mark.
 
@@ -2075,8 +2155,8 @@ There is also an increase of Rs9.43 per litre in the price of light diesel oil (
 
 There has been a continuous increase in prices of petroleum products in recent months.
 
-The geopolitical situation in the Middle East and Ukraine had also fuelled more hikes in prices of petroleum products.",499.0,149.86,144.15,Petroleum prices break all records,0.0,0.0,0.1,0.6,0.3,0.0,0.05,0.1,0.6,0.25,0.0,0.0,0.03,0.35,0.62,0.0,0.05,0.2,0.35,0.4,-1.5899999999999999,-1.0999999999999999,-1.2,-1.05
-67,2022-02-01,['https://tribune.com.pk/epaper/news/Karachi/2022-02-01/NWI4Yzg4NGI4ZWUwYWFmYmUzZTUwZjc1NTMwMGE5MDkuanBlZw'],"SAPM says government wants to protect people from inflation
+The geopolitical situation in the Middle East and Ukraine had also fuelled more hikes in prices of petroleum products.",499.0,149.86,144.15,Petroleum prices break all records,0.0,0.0,0.1,0.6,0.3,0.0,0.05,0.1,0.6,0.25,0.0,0.0,0.03,0.35,0.62,0.0,0.05,0.2,0.35,0.4,-1.59,-1.1,-1.2,-1.05
+68,68,2022-02-01,['https://tribune.com.pk/epaper/news/Karachi/2022-02-01/NWI4Yzg4NGI4ZWUwYWFmYmUzZTUwZjc1NTMwMGE5MDkuanBlZw'],"SAPM says government wants to protect people from inflation
 
 To ""save the people of Pakistan from inflation"", Prime Minister Imran Khan on Monday rejected a summary proposing hike in prices of petroleum products for a fortnight.
 
@@ -2092,8 +2172,8 @@ It is worth mentioning here that the government's decision to not increase fuel 
 
 Inflation in the face of unemployment and low income has curtailed the economic power of many citizens, and any measures that increase the burden on the masses are likely to be met with agitation and mistrust.
 
-The opposition is already banking on the public's frustration with repeated price hikes and constant inflation, and has decided to launch anti-government protests.",216.0,149.86,144.15,PM Imran rejects increase in fuel prices,0.1,0.5,0.3,0.05,0.05,0.1,0.3,0.2,0.25,0.15,0.6,0.3,0.08,0.01,0.01,0.3,0.35,0.15,0.15,0.05,1.47,0.7,0.55,-0.050000000000000044
-68,2022-01-16,"['https://tribune.com.pk/epaper/news/Karachi/2022-01-16/NDFmZjVkZTFlNjFhOWNhM2QwMzliY2E0YzA1MzM1YjguanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2022-01-16/MzdjMTU3NjBiY2Q5ZjgzZGMxZDM5MmJmNTU3YTk2ZWIuanBlZw']","Petrol to be available at Rs147.83, HSD at Rs 144.62
+The opposition is already banking on the public's frustration with repeated price hikes and constant inflation, and has decided to launch anti-government protests.",216.0,149.86,144.15,PM Imran rejects increase in fuel prices,0.1,0.5,0.3,0.05,0.05,0.1,0.3,0.2,0.25,0.15,0.6,0.3,0.08,0.01,0.01,0.3,0.35,0.15,0.15,0.05,1.47,0.7,0.55,-0.05
+69,69,2022-01-16,"['https://tribune.com.pk/epaper/news/Karachi/2022-01-16/NDFmZjVkZTFlNjFhOWNhM2QwMzliY2E0YzA1MzM1YjguanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2022-01-16/MzdjMTU3NjBiY2Q5ZjgzZGMxZDM5MmJmNTU3YTk2ZWIuanBlZw']","Petrol to be available at Rs147.83, HSD at Rs 144.62
 
 The government on Saturday increased the prices of petroleum products by up to Rs3 per litre effective from January 16 (today).
 
@@ -2135,8 +2215,8 @@ After the increase, the price of petrol went up from the previous Rs140.82 per l
 
 The rate of kerosene oil was increased by Rs 3.95 to Rs 133.53 per litre as against Rs 129.53 per litre.
 
-The price of LDO had shot up to Rs 111.06 per litre from Rs 107.06 registering a hike of Rs 4.15 per litre.",536.0,159.86,154.15,Fuel prices rise by Rs 3 per litre,0.0,0.05,0.1,0.4,0.45,0.0,0.05,0.15,0.5,0.3,0.0,0.0,0.3,0.55,0.15,0.02,0.08,0.4,0.45,0.05,-0.8500000000000001,-0.43000000000000005,-1.25,-1.05
-69,2022-01-01,"['https://tribune.com.pk/epaper/news/Karachi/2022-01-01/ZWE0ODg2MGQ3Yzg4Mjg4ODFhOTAzMWIyMDFhZGQ4MzQuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2022-01-01/YWEyMDkxZjhkMWQxYzc2ZWYwMjRlOTMyNzY0ZTkzZjIuanBlZw']","As the bells toll for another new year, petrol prices will go dearer following Prime Minister Imran Khan's approval for an increase in oil prices of up to Rs 4 per litre.
+The price of LDO had shot up to Rs 111.06 per litre from Rs 107.06 registering a hike of Rs 4.15 per litre.",536.0,159.86,154.15,Fuel prices rise by Rs 3 per litre,0.0,0.05,0.1,0.4,0.45,0.0,0.05,0.15,0.5,0.3,0.0,0.0,0.3,0.55,0.15,0.02,0.08,0.4,0.45,0.05,-0.8500000000000001,-0.43,-1.25,-1.05
+70,70,2022-01-01,"['https://tribune.com.pk/epaper/news/Karachi/2022-01-01/ZWE0ODg2MGQ3Yzg4Mjg4ODFhOTAzMWIyMDFhZGQ4MzQuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2022-01-01/YWEyMDkxZjhkMWQxYzc2ZWYwMjRlOTMyNzY0ZTkzZjIuanBlZw']","As the bells toll for another new year, petrol prices will go dearer following Prime Minister Imran Khan's approval for an increase in oil prices of up to Rs 4 per litre.
 
 The new prices, part of the government's commitments with the International Monetary Fund (IMF), will come into effect from January 1 (today).
 
@@ -2171,7 +2251,7 @@ LPG is used in remote areas where kerosene oil is not available for cooking purp
 Despite the cut in prices, the LPG will still be available at the highest price of Rs207 per litre.
 
 Domestic cylinders will be available at Rs 2321 to the customers.",469.0,147.83,144.62,Rs 4 petrol price hike greets nation on New Year,0.0,0.01,0.05,0.6,0.34,0.02,0.1,0.45,0.3,0.13,0.0,0.0,0.15,0.75,0.1,0.0,0.1,0.3,0.5,0.1,-0.95,-0.6,-1.27,-0.4200000000000001
-70,2021-12-16,"['https://tribune.com.pk/epaper/news/Karachi/2021-12-16/NWQ0MDE3MmYzMzg4ZWUyMjgwZGY4ZjUwMDJjNzFlYzEuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-12-16/YTZkZGI0Zjg5ZDk1NjM5ZDAyZWFiZWZkY2Q1YmIyMjUuanBlZw']","Instead of passing full relief to the people, the federal government on Wednesday only reduced the rates of petrol and high speed diesel by Rs 5 per litre ""in view of the declining price trend of petroleum products"" across the world.
+71,71,2021-12-16,"['https://tribune.com.pk/epaper/news/Karachi/2021-12-16/NWQ0MDE3MmYzMzg4ZWUyMjgwZGY4ZjUwMDJjNzFlYzEuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-12-16/YTZkZGI0Zjg5ZDk1NjM5ZDAyZWFiZWZkY2Q1YmIyMjUuanBlZw']","Instead of passing full relief to the people, the federal government on Wednesday only reduced the rates of petrol and high speed diesel by Rs 5 per litre ""in view of the declining price trend of petroleum products"" across the world.
 
  The Oil and Gas Regulatory Authority (Ogra) had proposed a reduction in prices of petroleum products by Rs 8 to 10 per litre, Ogra had recommended Rs10.77 and Rs7.73 per litre reduction in the prices of petrol and high-speed diesel (HSD), respectively.
 
@@ -2212,7 +2292,7 @@ The rate of kerosene oil was increased by Rs 6.27 to Rs 116.53 per litre as agai
 On October 30, PM Imran had turned down a proposal of Ogra for increasing fuel prices from November 1.
 
 However, the prices of the petroleum products remained unchanged for the second half of November, as PM Imran rejected the recommendations for any increase in their prices.",676.0,147.83,144.62,"Govt cuts petrol, diesel prices by Rs 5",0.1,0.6,0.2,0.05,0.05,0.0,0.1,0.25,0.45,0.2,0.05,0.75,0.2,0.0,0.0,0.0,0.05,0.25,0.5,0.2,0.85,-0.85,0.6499999999999999,-0.7500000000000001
-71,2021-12-01,['https://tribune.com.pk/epaper/news/Karachi/2021-12-01/YzJlNjY0MGNhYmM3MTM2NDFlOTc5NGQ0MjNmMTk1ZDcuanBlZw'],"Ogra reduces LPG rates by Rsl4 per kg
+72,72,2021-12-01,['https://tribune.com.pk/epaper/news/Karachi/2021-12-01/YzJlNjY0MGNhYmM3MTM2NDFlOTc5NGQ0MjNmMTk1ZDcuanBlZw'],"Ogra reduces LPG rates by Rsl4 per kg
 
 The government has decided to keep fuel prices unchanged effective from December 1, 2021. Oil prices in the global Market had witnessed a sharp decline of around $10 per barrel last Friday, following outbreak of a new variant of Covid-19.
 
@@ -2222,13 +2302,13 @@ With the decision of maintaining current prices, petrol will be sold at Rs145.82
 
 High-speed diesel which is widely used in the transport and agriculture sectors would be available at the current price of Rs 142.62 per liter.
 
-Kerosene oil which is used in the remote areas of Pakistan as a substitute for Liquefied Petroleum Gas (LPG) has been maintained at Rs 116.53 per liter for the next two weeks. The government has also maintained the current price of Light Diesel Oil (LDO) at Rs114.07 per liter.",201.0,144.82,141.62,Fuel prices remain unchanged despite drop in international oil prices,0.0,0.05,0.4,0.3,0.25,0.0,0.05,0.6,0.3,0.05,0.0,0.0,0.15,0.75,0.1,0.0,0.05,0.25,0.6,0.1,-0.95,-0.75,-0.75,-0.35000000000000003
-72,2021-11-16,['https://tribune.com.pk/epaper/news/Karachi/2021-11-16/NjU4OWUwYmI3ZjVkYjBkMmViYzQyZDZkNGQxNTJlMmYuanBlZw'],"The prices of the petroleum products will remain unchanged for the second half of November, as Prime Minister Imran Khan rejected on Monday the recommendations for any increase in their prices, the Finance Division said in a notification.
+Kerosene oil which is used in the remote areas of Pakistan as a substitute for Liquefied Petroleum Gas (LPG) has been maintained at Rs 116.53 per liter for the next two weeks. The government has also maintained the current price of Light Diesel Oil (LDO) at Rs114.07 per liter.",201.0,144.82,141.62,Fuel prices remain unchanged despite drop in international oil prices,0.0,0.05,0.4,0.3,0.25,0.0,0.05,0.6,0.3,0.05,0.0,0.0,0.15,0.75,0.1,0.0,0.05,0.25,0.6,0.1,-0.95,-0.75,-0.75,-0.35
+73,73,2021-11-16,['https://tribune.com.pk/epaper/news/Karachi/2021-11-16/NjU4OWUwYmI3ZjVkYjBkMmViYzQyZDZkNGQxNTJlMmYuanBlZw'],"The prices of the petroleum products will remain unchanged for the second half of November, as Prime Minister Imran Khan rejected on Monday the recommendations for any increase in their prices, the Finance Division said in a notification.
 
 According to the notification, the oil prices which were notified on November 4 would continue for the fortnight. Accordingly, petrol will be sold for Rs145.82 per litre, diesel for Rs142.62 per litre, kerosene oil and the light diesel for Rs116.53 and Rs114.07 per litre, respectively.
 
-""Despite rising petroleum product prices globally, the prime minister of Pakistan has kindly rejected the proposal for enhancement in the prices,"" it said.",106.0,140.82,137.62,POL prices remain unchanged,0.0,0.05,0.85,0.05,0.05,0.1,0.6,0.2,0.05,0.05,0.0,0.01,0.98,0.01,0.0,0.05,0.6,0.35,0.0,0.0,0.0,0.7,-0.10000000000000002,0.6499999999999999
-73,2021-11-05,"['https://tribune.com.pk/epaper/news/Karachi/2021-11-05/ZjZhMzdhYjAzN2U2ODcwNjQyY2FkMzY0OTU1ODVmMzguanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-11-05/MGVhZmY4ZDA0YTJlZjlkNDFiZTg3ZDFkZjNkMTQzNDcuanBlZw']","Petrol becomes dearer by Rs8.03 to Rs 145.82 per litre; diesel rate shoots up to Rs 142.62
+""Despite rising petroleum product prices globally, the prime minister of Pakistan has kindly rejected the proposal for enhancement in the prices,"" it said.",106.0,140.82,137.62,POL prices remain unchanged,0.0,0.05,0.85,0.05,0.05,0.1,0.6,0.2,0.05,0.05,0.0,0.01,0.98,0.01,0.0,0.05,0.6,0.35,0.0,0.0,0.0,0.7,-0.1,0.6499999999999999
+74,74,2021-11-05,"['https://tribune.com.pk/epaper/news/Karachi/2021-11-05/ZjZhMzdhYjAzN2U2ODcwNjQyY2FkMzY0OTU1ODVmMzguanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-11-05/MGVhZmY4ZDA0YTJlZjlkNDFiZTg3ZDFkZjNkMTQzNDcuanBlZw']","Petrol becomes dearer by Rs8.03 to Rs 145.82 per litre; diesel rate shoots up to Rs 142.62
 
 The government on Thursday jacked up the prices of petroleum products by up to Rs8.14 per litre on the pretext that the earlier relief provided to the consumers had dented the fixed levy budget during the first quarter of fiscal year 2020-21 by Rs132.5 billion.
 
@@ -2252,8 +2332,8 @@ It said that the prices of petroleum products had been increased partially as co
 
 ""In fact, the government has absorbed the bulk of the pressure after making adjustments in the sales tax and Petroleum Levy.""
 
-The Finance Division stated that the government was cognisant of its responsibility to provide maximum relief to the consumers.",392.0,145.82,142.62,Govt jacks up petroleum prices,0.0,0.05,0.1,0.55,0.3,0.0,0.05,0.3,0.45,0.2,0.0,0.0,0.05,0.6,0.35,0.0,0.25,0.4,0.35,0.0,-1.2999999999999998,-0.09999999999999998,-1.0999999999999999,-0.8
-74,2021-10-17,"['https://tribune.com.pk/epaper/news/Karachi/2021-10-17/MDg2ZTRhZjVmN2Y2OGEyYmU1ZWVmZTA0NjIwZWU2NTYuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-10-17/YzJhMDI0YTgwM2NjNTU3MmQzYzIwNmFhY2FhNjUyMmEuanBlZw']","Petrol to be sold at Rs137.79; diesel at Rs134.48 per litre
+The Finance Division stated that the government was cognisant of its responsibility to provide maximum relief to the consumers.",392.0,145.82,142.62,Govt jacks up petroleum prices,0.0,0.05,0.1,0.55,0.3,0.0,0.05,0.3,0.45,0.2,0.0,0.0,0.05,0.6,0.35,0.0,0.25,0.4,0.35,0.0,-1.2999999999999998,-0.0999999999999999,-1.1,-0.8
+75,75,2021-10-17,"['https://tribune.com.pk/epaper/news/Karachi/2021-10-17/MDg2ZTRhZjVmN2Y2OGEyYmU1ZWVmZTA0NjIwZWU2NTYuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-10-17/YzJhMDI0YTgwM2NjNTU3MmQzYzIwNmFhY2FhNjUyMmEuanBlZw']","Petrol to be sold at Rs137.79; diesel at Rs134.48 per litre
 
 The government on Saturday announced a massive increase in the prices of all major petroleum products, citing soaring energy prices in the global markets in the wake of the post-Covid economic recovery worldwide.
 
@@ -2308,7 +2388,7 @@ On the hike in petrol price, PPP Chairman Bilawal Bhutto Zardari said that the P
 Bilawal said increasing the price of petrol a day after the hike in power tariff proves ""Imran Khan is an anti-people prime minister"".
 
 He asked the people to support the PPP to get rid of the government which is pushing Pakistan into the mire of inflation.",881.0,145.82,142.62,Petrol bomb' triggers nationwide anger,0.0,0.01,0.05,0.6,0.34,0.0,0.02,0.15,0.57,0.26,0.0,0.0,0.0,0.25,0.75,0.0,0.01,0.29,0.32,0.38,-1.75,-1.07,-1.27,-1.0699999999999998
-75,2021-10-01,"['https://tribune.com.pk/epaper/news/Karachi/2021-10-01/ODQwMjBkODYwMmMwODk2YTdjNWRjMDQ0NzljN2VhZmQuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-10-01/YzgxYzdkOTIxM2YzYWY4YzdhNzEyYmNhNWVlMTk1ZmQuanBlZw']","Diesel dearer by Rs2 per litre, LDO by Rs8.82 per litre
+76,76,2021-10-01,"['https://tribune.com.pk/epaper/news/Karachi/2021-10-01/ODQwMjBkODYwMmMwODk2YTdjNWRjMDQ0NzljN2VhZmQuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-10-01/YzgxYzdkOTIxM2YzYWY4YzdhNzEyYmNhNWVlMTk1ZmQuanBlZw']","Diesel dearer by Rs2 per litre, LDO by Rs8.82 per litre
 
 The government on Thursday increased the price of petrol by Rs 4 per litre, taking its price to a record level of Rs 127.30 per litre.
 
@@ -2332,8 +2412,8 @@ The government in a statement said that due to increase in price of oil in the i
 
 But Prime Minister Imran Khan decided against the recommendation of Ogra and passed on minimum increase in price of oil to the consumers.
 
-The finance ministry added that oil prices in Pakistan were still cheaper than in the region.",328.0,145.82,142.62,Petrol price jacked up to Rs 127 per litre,0.0,0.05,0.2,0.5,0.25,0.0,0.02,0.15,0.5,0.33,0.0,0.0,0.15,0.65,0.2,0.02,0.18,0.25,0.3,0.25,-1.05,-0.5800000000000001,-0.95,-1.1400000000000001
-76,2021-09-16,"['https://tribune.com.pk/epaper/news/Karachi/2021-09-16/ZDM3Yzc0ZGUzZGVhZDE0Mzk1OTM1YTIwZTQxMWQ0NmIuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-09-16/NmM4YjdkOGZjZDY4NjYzYjlkMGJmZDYxMTI3NzU1ZjAuanBlZw']","Increase in line with fluctuation in world prices and local currency rate
+The finance ministry added that oil prices in Pakistan were still cheaper than in the region.",328.0,145.82,142.62,Petrol price jacked up to Rs 127 per litre,0.0,0.05,0.2,0.5,0.25,0.0,0.02,0.15,0.5,0.33,0.0,0.0,0.15,0.65,0.2,0.02,0.18,0.25,0.3,0.25,-1.05,-0.5800000000000001,-0.95,-1.14
+77,77,2021-09-16,"['https://tribune.com.pk/epaper/news/Karachi/2021-09-16/ZDM3Yzc0ZGUzZGVhZDE0Mzk1OTM1YTIwZTQxMWQ0NmIuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-09-16/NmM4YjdkOGZjZDY4NjYzYjlkMGJmZDYxMTI3NzU1ZjAuanBlZw']","Increase in line with fluctuation in world prices and local currency rate
 
 The government on Wednesday jacked up the prices of petroleum products by over Rs 5 per litre from Thursday (today) in line with fluctuation in global oil prices and the local currency, according to a statement issued by finance ministry.
 
@@ -2348,7 +2428,7 @@ Earlier on August 31, the government had turned down Ogra's recommendation of in
 The latest increase in the price will have impact on the life of people, particularly those living in remote areas like northern parts of Pakistan, where kerosene is used for cooking purposes because of the non-availability of liquefied petroleum gas (LPG).
 
 High speed diesel is mainly used in transport and agriculture sectors. The increase in its price will also have direct inflationary impact. LDO is used in industry.",314.0,137.79,134.48,"Petrol, diesel prices jacked up by Rs 5",0.0,0.05,0.15,0.6,0.2,0.0,0.05,0.25,0.5,0.2,0.0,0.0,0.15,0.7,0.15,0.0,0.05,0.3,0.5,0.15,-1.0,-0.75,-0.95,-0.85
-77,2021-09-01,['https://tribune.com.pk/epaper/news/Karachi/2021-09-01/ZWFkM2RkZjIzYTgyZWI5MmRiN2QzYjc0ZTg0YmFlMTMuanBlZw'],"Govt says rates revised to 'provide maximum relief to consumers'
+78,78,2021-09-01,['https://tribune.com.pk/epaper/news/Karachi/2021-09-01/ZWFkM2RkZjIzYTgyZWI5MmRiN2QzYjc0ZTg0YmFlMTMuanBlZw'],"Govt says rates revised to 'provide maximum relief to consumers'
 
 The federal government has reduced the price of petrol by Rs1.5 per litre for the next fortnight effective September 1.
 
@@ -2371,7 +2451,7 @@ Kerosene oil is used by the Pakistan armed forces and in remote areas like north
 ""It is pertinent to mention that petroleum levy is kept at a minimum which is a clear reflection that government is fully cognisant of the impact of fuel prices on the prices of basic items that affect people directly"".
 
 The Petroleum Division had recommended a reduction by up to Rs5 per litre in fuel prices, sources privy to the development told The Express Tribune.",296.0,127.3,122.04,Petrol price slashed by Rs 1.5 per litre,0.1,0.6,0.2,0.05,0.05,0.1,0.6,0.25,0.04,0.01,0.1,0.65,0.25,0.0,0.0,0.25,0.5,0.23,0.02,0.0,0.8500000000000001,0.98,0.6499999999999999,0.74
-78,2021-08-01,"['https://tribune.com.pk/epaper/news/Karachi/2021-08-01/NDVlZGZkZTViYjk3ZDNjMWIyOTkyMjhlMzYyOWI1OGIuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-08-01/NjE0NjRjY2I1YThmYjk5ZmVjODk5ZDNkYjlmOTYwODQuanBlZw']","HSD and LDO will continue to be sold at same rates
+79,79,2021-08-01,"['https://tribune.com.pk/epaper/news/Karachi/2021-08-01/NDVlZGZkZTViYjk3ZDNjMWIyOTkyMjhlMzYyOWI1OGIuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-08-01/NjE0NjRjY2I1YThmYjk5ZmVjODk5ZDNkYjlmOTYwODQuanBlZw']","HSD and LDO will continue to be sold at same rates
 
 The government on Friday jacked up the price of petrol by Rs1.71 per litre effective from August 1 (Sunday), following fluctuation in the global oil prices. The Finance Division issued a statement in this regard on Saturday. The decision was made as per the recommendation of Oil and Gas Regulatory Authority (Ogra). The new price of petrol will be Rs 119.80 per litre against the current rate of Rs 118.09 per litre. However, there was no change in the price of high speed diesel (HSD). HSD, which is majorly used by the agriculture and transport sectors, will continue to be sold at Rs 116.53 per litre.
 
@@ -2388,7 +2468,7 @@ This was the second time the prices of petroleum products had been increased in 
 Earlier, the government had increased the prices of all petroleum products by up to 4.7% at the beginning of July to pass on ""partial impact"" of rise in international prices.
 
 The ex-depot price of petrol was increased by Rs2 per litre and that of HSD by Rs1.44 per litre. The ex-depot price of kerosene was increased by Rs3.86 per litre and that of LDO by Rs3.72 per litre, respectively.",314.0,118.3,115.03,Govt jacks up petrol price by Rs 1.71 per litre,0.0,0.05,0.1,0.6,0.25,0.0,0.05,0.2,0.5,0.25,0.0,0.0,0.2,0.7,0.1,0.0,0.05,0.25,0.5,0.2,-0.8999999999999999,-0.85,-1.05,-0.95
-79,2021-07-16,"['https://tribune.com.pk/epaper/news/Karachi/2021-07-16/MmVmNWZlYjE2YmY4NjY5M2FjNWM1ZmRkNjI2Yzc1NWMuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-07-16/Njk4ZTg0M2Y2YzYwMjRkNTdlYzYzNDZjMDEzOThkZWEuanBlZw']","Diesel increased by Rs2.54; LPG rate raised by R5 to Rs 165 per kg
+80,80,2021-07-16,"['https://tribune.com.pk/epaper/news/Karachi/2021-07-16/MmVmNWZlYjE2YmY4NjY5M2FjNWM1ZmRkNjI2Yzc1NWMuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-07-16/Njk4ZTg0M2Y2YzYwMjRkNTdlYzYzNDZjMDEzOThkZWEuanBlZw']","Diesel increased by Rs2.54; LPG rate raised by R5 to Rs 165 per kg
 
 Prime Minister Imran Khan has approved an increase in the price of petrol by Rs5.40 per litre in addition to LPG exceeding the official rate of Rs160 per kg after a hike of Rs 5 per kg.
 
@@ -2422,8 +2502,8 @@ Similarly, the price of commercial cylinder has been increased by Rs225. ""It is
 
 The price of LPG in Gilgit has reached Rs185 per kg.
 
-The increase in prices comes at a time when the consumption of petroleum products in the power sector has declined by 43% and the demand and supply gap between gas production and consumption is likely to widen further in the next decade.",490.0,119.8,116.53,Petrol price up by Rs 5.40 per litre,0.0,0.05,0.7,0.2,0.05,0.0,0.05,0.1,0.55,0.3,0.0,0.0,0.85,0.15,0.0,0.0,0.07,0.18,0.53,0.22,-0.15,-0.8999999999999999,-0.25000000000000006,-1.0999999999999999
-80,2021-07-01,"['https://tribune.com.pk/epaper/news/Karachi/2021-07-01/ZTc3ZjNlODQ5NzNkODQ4OWUyODFmMmFjZjQ5ZmY0ZTIuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-07-01/YzVjNjdmMjBiMTE5ODM5NTRjOWUwZWRmMjdjOWQzYjEuanBlZw']","The government has increased the prices of petrol by Rs2 per litre and that of high speed diesel (HSD) by Rs 1.44 per litre for the first fortnight of July, effective from today (Thursday).
+The increase in prices comes at a time when the consumption of petroleum products in the power sector has declined by 43% and the demand and supply gap between gas production and consumption is likely to widen further in the next decade.",490.0,119.8,116.53,Petrol price up by Rs 5.40 per litre,0.0,0.05,0.7,0.2,0.05,0.0,0.05,0.1,0.55,0.3,0.0,0.0,0.85,0.15,0.0,0.0,0.07,0.18,0.53,0.22,-0.15,-0.8999999999999999,-0.25,-1.1
+81,81,2021-07-01,"['https://tribune.com.pk/epaper/news/Karachi/2021-07-01/ZTc3ZjNlODQ5NzNkODQ4OWUyODFmMmFjZjQ5ZmY0ZTIuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-07-01/YzVjNjdmMjBiMTE5ODM5NTRjOWUwZWRmMjdjOWQzYjEuanBlZw']","The government has increased the prices of petrol by Rs2 per litre and that of high speed diesel (HSD) by Rs 1.44 per litre for the first fortnight of July, effective from today (Thursday).
 
 The government has also hiked the price of kerosene oil by Rs3.86 per litre and the price of light diesel oil (LDO) by Rs3.72 per litre, said a statement issued by the Finance Division on Wednesday.
 
@@ -2441,8 +2521,8 @@ Ogra on Tuesday recommended that the government increase the price of petrol by 
 
 In its calculation submitted to the Petroleum Division and the Finance Division, Ogra had proposed an increase in the prices of almost all the petroleum products, Ogra's calculation was based on the existing petroleum levy of Rs 3.61 per litre and Rs2.97 per litre on the HSD and petrol respectively. After the increase, the price of petrol will go up from the existing Rs 110.69 per litre to Rs112.69 per litre and the price of the HSD will go up from the current Rs 112.55 per litre to Rs113.99 per litre.
 
-Similarly, the price of kerosene will go up to Rs85.75 per litre from the existing Rs81.89 per litre and the LDO will go up from the existing Rs79.68 to Rs83.40 per litre. """,356.0,119.8,116.53,Govt jacks up petrol price by Rs 2,0.0,0.05,0.1,0.55,0.3,0.0,0.05,0.4,0.35,0.2,0.0,0.0,0.2,0.65,0.15,0.0,0.35,0.45,0.2,0.0,-0.95,0.14999999999999997,-1.0999999999999999,-0.7
-81,2021-06-16,"['https://tribune.com.pk/epaper/news/Karachi/2021-06-16/NmZkMThjMDg3ZWNmZTFiZmZmYjgyYjM0Njk3NTc5N2QuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-06-16/MWViMzgzYzQ3OTMzZGJhMTFiYmVkNjc1NTM5ZjYyZGQuanBlZw']","The government on Tuesday increased the price of petrol by Rs2.13 per litre effective from June 16 (today). It also raised the price of high speed diesel (HSD) by Rs 1.79 per litre, the price of kerosene oil by Rs 1.89 per litre and the price of light diesel oil (LDO) by Rs2.03 per litre.
+Similarly, the price of kerosene will go up to Rs85.75 per litre from the existing Rs81.89 per litre and the LDO will go up from the existing Rs79.68 to Rs83.40 per litre. """,356.0,119.8,116.53,Govt jacks up petrol price by Rs 2,0.0,0.05,0.1,0.55,0.3,0.0,0.05,0.4,0.35,0.2,0.0,0.0,0.2,0.65,0.15,0.0,0.35,0.45,0.2,0.0,-0.95,0.1499999999999999,-1.1,-0.7
+82,82,2021-06-16,"['https://tribune.com.pk/epaper/news/Karachi/2021-06-16/NmZkMThjMDg3ZWNmZTFiZmZmYjgyYjM0Njk3NTc5N2QuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-06-16/MWViMzgzYzQ3OTMzZGJhMTFiYmVkNjc1NTM5ZjYyZGQuanBlZw']","The government on Tuesday increased the price of petrol by Rs2.13 per litre effective from June 16 (today). It also raised the price of high speed diesel (HSD) by Rs 1.79 per litre, the price of kerosene oil by Rs 1.89 per litre and the price of light diesel oil (LDO) by Rs2.03 per litre.
 
 The Oil and Gas Regulatory Authority (Ogra) had proposed an increase in the price of petrol by Rs 4.20 per litre and the HSD by Rs3.50 per litre. The HSD is widely used in agriculture and transport sectors. Therefore, any increase in its price will also result in inflation.
 
@@ -2452,8 +2532,8 @@ The government has increased the price of kerosene oil from Rs80 to Rs81.89 per 
 
 Earlier, on June 1, Prime Minister Imran Khan decided to maintain the prices of petroleum products as set on May 17. The government had not increased the prices of petroleum products since April 16 so that there might not be a corresponding increase in the prices of essential items.
 
-Ogra calculates ex-depot prices of petroleum products in view of the rate of petroleum levy and general sales tax. Petroleum products are a significant contributor to taxes as the government is currently charging a double tax. It is charging a petroleum levy and general sales tax, resulting in higher prices.",310.0,118.09,116.53,Govt raises petrol price by Rs 2.13,0.0,0.05,0.6,0.25,0.1,0.0,0.05,0.2,0.6,0.15,0.0,0.0,0.6,0.35,0.05,0.0,0.02,0.35,0.45,0.18,-0.44999999999999996,-0.79,-0.4,-0.8499999999999999
-82,2021-06-01,['https://tribune.com.pk/epaper/news/Karachi/2021-06-01/ZmIzYmY0NWRmOTU1ZWRlZWJlYTdkZmM4MjIyNjM1MTguanBlZw'],"The government on Monday decided to maintain the current oil prices effective from June 1, 2021.
+Ogra calculates ex-depot prices of petroleum products in view of the rate of petroleum levy and general sales tax. Petroleum products are a significant contributor to taxes as the government is currently charging a double tax. It is charging a petroleum levy and general sales tax, resulting in higher prices.",310.0,118.09,116.53,Govt raises petrol price by Rs 2.13,0.0,0.05,0.6,0.25,0.1,0.0,0.05,0.2,0.6,0.15,0.0,0.0,0.6,0.35,0.05,0.0,0.02,0.35,0.45,0.18,-0.4499999999999999,-0.79,-0.4,-0.8499999999999999
+83,83,2021-06-01,['https://tribune.com.pk/epaper/news/Karachi/2021-06-01/ZmIzYmY0NWRmOTU1ZWRlZWJlYTdkZmM4MjIyNjM1MTguanBlZw'],"The government on Monday decided to maintain the current oil prices effective from June 1, 2021.
 
 According to a statement issued by the finance ministry, Prime Minister Imran Khan decided to maintain the prices of petroleum products as they were on May 17, 2021.
 
@@ -2477,8 +2557,8 @@ LPG prices
 
 Meanwhile, Ogra has increased the price of LPG by Rs8 per kilo effective from June 1, 2021.
 
-It issued notification to increase the price of LPG by Rs8 to Rs 141 per kg, Rs 1,667 per 11.8kg domestic cylinder, and Rs6,415 per commercial cylinder.",309.0,112.69,113.99,Govt keeps fuel prices unchanged,0.0,0.1,0.75,0.1,0.05,0.05,0.4,0.3,0.2,0.05,0.0,0.02,0.96,0.02,0.0,0.25,0.45,0.15,0.15,0.0,0.0,0.8,-0.1,0.19999999999999998
-83,2021-05-18,['https://tribune.com.pk/epaper/news/Karachi/2021-05-18/YTFhYjk4ZTZiZmVhOGM4YTg3MDFmMWMwZjZlODQ0NzMuanBlZw'],"Expects to bear Rs2.77 billion revenue loss for maintaining rates
+It issued notification to increase the price of LPG by Rs8 to Rs 141 per kg, Rs 1,667 per 11.8kg domestic cylinder, and Rs6,415 per commercial cylinder.",309.0,112.69,113.99,Govt keeps fuel prices unchanged,0.0,0.1,0.75,0.1,0.05,0.05,0.4,0.3,0.2,0.05,0.0,0.02,0.96,0.02,0.0,0.25,0.45,0.15,0.15,0.0,0.0,0.8,-0.1,0.1999999999999999
+84,84,2021-05-18,['https://tribune.com.pk/epaper/news/Karachi/2021-05-18/YTFhYjk4ZTZiZmVhOGM4YTg3MDFmMWMwZjZlODQ0NzMuanBlZw'],"Expects to bear Rs2.77 billion revenue loss for maintaining rates
 
 The government on Monday decided to keep fuel prices unchanged for the next fortnight in a bid to provide relief to the consumers.
 
@@ -2499,7 +2579,7 @@ The government had slashed the prices of petroleum products up to Rs2.32 per lit
 The government had reduced the price of HSD by Rs2.32 per litre, petrol Rs1.79 per litre, SKO Rs2.06 per litre, and LDO Rs2.21 per litre. The government had also reduced the prices of petroleum products from April to 15, 2021.
 
 The agriculture and transport sectors widely use HSD. Therefore, the decision to keep oil price unchanged will have a positive impact on these two sectors.",286.0,110.69,112.55,Govt keeps fuel prices unchanged,0.0,0.1,0.7,0.15,0.05,0.1,0.55,0.2,0.1,0.05,0.005,0.02,0.95,0.02,0.005,0.35,0.5,0.15,0.0,0.0,1.734723475976807e-18,1.2,-0.15,0.55
-84,2021-05-01,['https://tribune.com.pk/epaper/news/Karachi/2021-05-01/OTQxNGEzZmQ0MGYyMjFmYTQ4NTBjMmMwNGEwNGM3M2QuanBlZw'],"Cumulative revenue impact of decision will be Rs4.8 billion
+85,85,2021-05-01,['https://tribune.com.pk/epaper/news/Karachi/2021-05-01/OTQxNGEzZmQ0MGYyMjFmYTQ4NTBjMmMwNGEwNGM3M2QuanBlZw'],"Cumulative revenue impact of decision will be Rs4.8 billion
 
 The federal government on Friday decided to keep oil prices unchanged in a bid to provide relief to consumers in the holy month of Ramazan.
 
@@ -2527,8 +2607,8 @@ After the revised price, the LPG cylinder would be sold in the open market at Rs
 
 Whereas, the per metric ton LPG rate has been fixed at Rs 133,254.19 for May. The commodity sale price per metric ton was Rs 145,643.23 during April.
 
-The new price would be effective from May 1.",387.0,108.56,110.76,Govt keeps petroleum prices unchanged,0.1,0.2,0.5,0.15,0.05,0.05,0.45,0.4,0.08,0.02,0.0,0.05,0.9,0.05,0.0,0.15,0.6,0.25,0.0,0.0,0.0,0.8999999999999999,0.15000000000000002,0.43000000000000005
-85,2021-04-16,['https://tribune.com.pk/epaper/news/Karachi/2021-04-16/OTg2NGYyYWFjMzM0MDU4OTA3ZTc3Y2Q4ZjVlODI4MzMuanBlZw'],"PM takes decision despite Finance Division's opposition  The government on Thursday slashed the prices of petroleum products by up to Rs2.32 per litre effective from Friday (today).
+The new price would be effective from May 1.",387.0,108.56,110.76,Govt keeps petroleum prices unchanged,0.1,0.2,0.5,0.15,0.05,0.05,0.45,0.4,0.08,0.02,0.0,0.05,0.9,0.05,0.0,0.15,0.6,0.25,0.0,0.0,0.0,0.8999999999999999,0.15,0.43
+86,86,2021-04-16,['https://tribune.com.pk/epaper/news/Karachi/2021-04-16/OTg2NGYyYWFjMzM0MDU4OTA3ZTc3Y2Q4ZjVlODI4MzMuanBlZw'],"PM takes decision despite Finance Division's opposition  The government on Thursday slashed the prices of petroleum products by up to Rs2.32 per litre effective from Friday (today).
 
 It decreased the price of high speed diesel (HSD) by Rs2.32 per litre, petrol by Rs1.79 per litre, kerosene oil by Rs2.06 per litre and light diesel oil (LDO) by Rs2.21 per litre.
 
@@ -2550,8 +2630,8 @@ The price of light diesel oil has also come down to Rs77.65 against Rs79.86 with
 
 The governments currently collecting two types of taxes on petroleum products. It collects petroleum levy in addition to receiving general sales tax.
 
-The petroleum levy was supposed to be spent on building infrastructure, like developing oil storages but the government did not use it for the purpose. For this reason, Pakistan has the lowest oil storage capacity compared to India and Bangladesh.",340.0,108.56,110.76,Govt cuts petrol price by Rs 1.79 per litre,0.0,0.6,0.3,0.05,0.05,0.1,0.6,0.2,0.08,0.02,0.05,0.7,0.25,0.0,0.0,0.1,0.55,0.25,0.1,0.0,0.7999999999999999,0.6500000000000001,0.44999999999999996,0.6799999999999999
-86,2021-04-01,"['https://tribune.com.pk/epaper/news/Karachi/2021-04-01/OTczOTRhYTQ3ZDA2N2FiNGZiNTU4MjI2MTRhZDQxMWYuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-04-01/ZDVhZmU4ZjI5ODBmM2E4YjQ4ZWY5ODY4YzM2MWM0ZDUuanBlZw']","The government on Wednesday slashed prices of petroleum products by up to Rs 3 per litre effective from April 1, 2021.
+The petroleum levy was supposed to be spent on building infrastructure, like developing oil storages but the government did not use it for the purpose. For this reason, Pakistan has the lowest oil storage capacity compared to India and Bangladesh.",340.0,108.56,110.76,Govt cuts petrol price by Rs 1.79 per litre,0.0,0.6,0.3,0.05,0.05,0.1,0.6,0.2,0.08,0.02,0.05,0.7,0.25,0.0,0.0,0.1,0.55,0.25,0.1,0.0,0.7999999999999999,0.6500000000000001,0.4499999999999999,0.6799999999999999
+87,87,2021-04-01,"['https://tribune.com.pk/epaper/news/Karachi/2021-04-01/OTczOTRhYTQ3ZDA2N2FiNGZiNTU4MjI2MTRhZDQxMWYuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-04-01/ZDVhZmU4ZjI5ODBmM2E4YjQ4ZWY5ODY4YzM2MWM0ZDUuanBlZw']","The government on Wednesday slashed prices of petroleum products by up to Rs 3 per litre effective from April 1, 2021.
 
 It reduced the price of high-speed diesel (HSD) by Rs3 per litre, petrol by RS1.55 per litre, kerosene oil by Rs 1.55 per litre and light diesel oil (LDO) by Rs1.56 per litre.
 
@@ -2565,8 +2645,8 @@ The price of light diesel oil has come down to Rs79.86 against Rs81.42 pet litre
 
 When global oil prices went down due to Covid-fuelled lockdowns, Pakistan was the only country that imposed ban on import of cheaper petroleum products whereas other countries like India, Bangladesh and China imported oil in bulk to fill their storages.
 
-Pakistan has faced oil crisis in 2010, 2015 and in June 2020 that has exposed the country's vulnerable energy security. Oil storages are considered to be a strategic asset for any country. But Pakistan has not built enough storages despite collecting billions of rupees from consumer.",307.0,108.56,110.76,Petrol price cut by Rs 1.55 per litre,0.0,0.6,0.3,0.05,0.05,0.05,0.2,0.35,0.3,0.1,0.05,0.65,0.3,0.0,0.0,0.0,0.1,0.15,0.45,0.3,0.75,-0.9500000000000001,0.44999999999999996,-0.19999999999999998
-87,2021-03-16,['https://tribune.com.pk/epaper/news/Karachi/2021-03-16/NGJiMmY1NTMzZDdkOGI5ZmJlMWViZjFmMDNhNTIwZTkuanBlZw'],"Government keeps petrol, HSD rates unchanged
+Pakistan has faced oil crisis in 2010, 2015 and in June 2020 that has exposed the country's vulnerable energy security. Oil storages are considered to be a strategic asset for any country. But Pakistan has not built enough storages despite collecting billions of rupees from consumer.",307.0,108.56,110.76,Petrol price cut by Rs 1.55 per litre,0.0,0.6,0.3,0.05,0.05,0.05,0.2,0.35,0.3,0.1,0.05,0.65,0.3,0.0,0.0,0.0,0.1,0.15,0.45,0.3,0.75,-0.95,0.4499999999999999,-0.1999999999999999
+88,88,2021-03-16,['https://tribune.com.pk/epaper/news/Karachi/2021-03-16/NGJiMmY1NTMzZDdkOGI5ZmJlMWViZjFmMDNhNTIwZTkuanBlZw'],"Government keeps petrol, HSD rates unchanged
 
 The federal government on Monday increased the prices of kerosene oil and light diesel oil (LDO), effective from March 16 (today). However, no changes were made in the prices of petrol and high speed diesel (HSD).
 
@@ -2580,8 +2660,8 @@ However, it maintained the existing price of HSD at Rs116.08 per litre and that 
 
 The kerosene oil is used for cooking purpose in remote areas where liquefied petroleum gas (LPG) is not available while the LDO is used in the industry.
 
-According to a statement issued by the Finance Division, the government has been absorbing the upward price fluctuation in the international market in order to provide maximum relief to the end consumers.",175.0,108.56,110.76,"Prices of kerosene oil, LDO jacked up",0.0,0.05,0.1,0.55,0.3,0.05,0.15,0.55,0.2,0.05,0.0,0.0,0.05,0.7,0.25,0.02,0.48,0.4,0.1,0.0,-1.2,0.42,-1.0999999999999999,-0.050000000000000044
-88,2021-03-01,"['https://tribune.com.pk/epaper/news/Karachi/2021-03-01/MThlZTgxYzBiMzA3ZWVlZWMwNjNmN2IxNTk2MDY1ZjAuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-03-01/MmIyNmE5YzExZGViYWQ1MmU1ZDQ2YTIzNjA1MzQ4NmUuanBlZw']","Prime Minister Imran Khan has rejected a summary moved by the Oil and Gas Regulatory Authority (Ogra) to increase the petroleum prices for the next fortnight by approximately over Rs 6 per litre, saying ""the people must be given a relief"".
+According to a statement issued by the Finance Division, the government has been absorbing the upward price fluctuation in the international market in order to provide maximum relief to the end consumers.",175.0,108.56,110.76,"Prices of kerosene oil, LDO jacked up",0.0,0.05,0.1,0.55,0.3,0.05,0.15,0.55,0.2,0.05,0.0,0.0,0.05,0.7,0.25,0.02,0.48,0.4,0.1,0.0,-1.2,0.42,-1.1,-0.05
+89,89,2021-03-01,"['https://tribune.com.pk/epaper/news/Karachi/2021-03-01/MThlZTgxYzBiMzA3ZWVlZWMwNjNmN2IxNTk2MDY1ZjAuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-03-01/MmIyNmE5YzExZGViYWQ1MmU1ZDQ2YTIzNjA1MzQ4NmUuanBlZw']","Prime Minister Imran Khan has rejected a summary moved by the Oil and Gas Regulatory Authority (Ogra) to increase the petroleum prices for the next fortnight by approximately over Rs 6 per litre, saying ""the people must be given a relief"".
 
 According to a statement issued by the PM House on Sunday, Ogra had proposed an increase of Rs 6.22 per litre in the price of petrol, Rs6.82 for high speed diesel, Rs6.37 for kerosene oil and Rs5.78 light diesel oil.
 
@@ -2591,8 +2671,8 @@ The existing prices would remain effective till March 15, according to a stateme
 
 The PM House statement added that the prime minister said he is fully cognizant of the burden on the common man and has already geared up the government machinery to ensure the availability of everyday use commodities at low prices.
 
-Premier Imran said the welfare of the masses is his prime responsibility. Despite the fact that the prices of petroleum prices in the international markets are going up, the PM said, he decided not to accept Ogra's proposed raise. ""The people would get the petroleum products at the same price.""",209.0,110.35,113.08,PM rejects petrol price hike proposal,0.1,0.6,0.2,0.05,0.05,0.1,0.65,0.2,0.03,0.02,0.15,0.7,0.15,0.0,0.0,0.55,0.3,0.15,0.0,0.0,1.0,1.4000000000000001,0.6499999999999999,0.78
-89,2021-02-16,"['https://tribune.com.pk/epaper/news/Karachi/2021-02-16/NTljOTdlMDI1ODNkNTc2ZWI3M2YwOWU2ZWI4ZjczOTYuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-02-16/YTljNGQzYTYwNjIwZTc5YWJmNTU0OWRlZjEyOWNjOWMuanBlZw']","Turns down OGRA'S recommendation in order to provide relief to people
+Premier Imran said the welfare of the masses is his prime responsibility. Despite the fact that the prices of petroleum prices in the international markets are going up, the PM said, he decided not to accept Ogra's proposed raise. ""The people would get the petroleum products at the same price.""",209.0,110.35,113.08,PM rejects petrol price hike proposal,0.1,0.6,0.2,0.05,0.05,0.1,0.65,0.2,0.03,0.02,0.15,0.7,0.15,0.0,0.0,0.55,0.3,0.15,0.0,0.0,1.0,1.4,0.6499999999999999,0.78
+90,90,2021-02-16,"['https://tribune.com.pk/epaper/news/Karachi/2021-02-16/NTljOTdlMDI1ODNkNTc2ZWI3M2YwOWU2ZWI4ZjczOTYuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-02-16/YTljNGQzYTYwNjIwZTc5YWJmNTU0OWRlZjEyOWNjOWMuanBlZw']","Turns down OGRA'S recommendation in order to provide relief to people
 
 Prime Minister Imran Khan on Monday rejected the Oil and Gas Regulatory Authority's (Ogra) recommendation to increase the prices of petroleum products. According to a statement issued by the PM Office, Premier Imran turned down the proposal in order to provide relief to the people. Ogra had proposed an increase of Rs14.07 per litre in the price of petrol, Rs 13.61 per litre in high speed diesel (HSD), Rs10.79 per litre kerosene oil and Rs7.43 per litre light diesel oil (LDO).
 
@@ -2624,8 +2704,8 @@ Currently, there is double taxation on petroleum products. The consumers are not
 
 Due to lack of storage facilities, the country was unable to benefit from the dip in global oil prices.
 
-It was an alarming situation that Pakistan had imposed a ban on import of oil due to lack of storages when other countries were importing petroleum products in bulk to beef up storages.",549.0,111.9,116.08,PM rejects increase in POL prices,0.1,0.5,0.3,0.05,0.05,0.1,0.3,0.25,0.25,0.1,0.15,0.75,0.1,0.0,0.0,0.1,0.15,0.35,0.25,0.15,1.05,-0.2,0.55,0.04999999999999999
-90,2021-02-01,"['https://tribune.com.pk/epaper/news/Karachi/2021-02-01/Njk3NWFhYTQwZDlhYjBjNmQ5OWU2YjJkYzgwYmY5YTguanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-02-01/MzM0NzlmNTRlMjc2YWRiOWZhYTY3NGE0MzU2YWY2YjcuanBlZw']","Petrol becomes dearer by Rs2.70 per litre, HSD Rs2.88
+It was an alarming situation that Pakistan had imposed a ban on import of oil due to lack of storages when other countries were importing petroleum products in bulk to beef up storages.",549.0,111.9,116.08,PM rejects increase in POL prices,0.1,0.5,0.3,0.05,0.05,0.1,0.3,0.25,0.25,0.1,0.15,0.75,0.1,0.0,0.0,0.1,0.15,0.35,0.25,0.15,1.05,-0.2,0.55,0.0499999999999999
+91,91,2021-02-01,"['https://tribune.com.pk/epaper/news/Karachi/2021-02-01/Njk3NWFhYTQwZDlhYjBjNmQ5OWU2YjJkYzgwYmY5YTguanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-02-01/MzM0NzlmNTRlMjc2YWRiOWZhYTY3NGE0MzU2YWY2YjcuanBlZw']","Petrol becomes dearer by Rs2.70 per litre, HSD Rs2.88
 
 For the third time in one month, the federal government has increased the price of petrol by Rs 2.70 per litre effective from February 1 (Monday) after the approval of Premier Imran Khan. According to a statement issued by the PM Office on Sunday, ""Prime Minister Imran approved a minimum increase in the prices of petroleum products in the interest of the public, contrary to the recommendations sent by Ogra [Oil and Gas Regulatory Authority].""
 
@@ -2645,8 +2725,8 @@ This is the third time the government has jacked up the prices of petroleum prod
 
 Earlier, the sale of petroleum products grew in double digits in December last year following consistent revival of economic activities as major contribution came from the spike in demand for furnace oil to produce electricity during the ongoing gas crisis.
 
-Sales of motor spirit (MS/ petrol) went up by 5% to 0.67 million tonnes while HSD's grew 13% to 0,62 million tonnes during December compared to the same month of previous year.",398.0,111.9,116.08,POL rates edge up third time in a month,0.0,0.05,0.7,0.2,0.05,0.0,0.05,0.15,0.55,0.25,0.0,0.0,0.05,0.65,0.3,0.0,0.02,0.28,0.5,0.2,-1.25,-0.88,-0.25000000000000006,-1.0
-91,2021-01-16,"['https://tribune.com.pk/epaper/news/Karachi/2021-01-16/NjAxYzNiNGI5OGE1ZGQyNTJhZDg1MzBjZGY4YzcxNmUuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-01-16/MWMxNjc0NjhlMzY1ZjU5OGFkYTkyYzM5YmJlZTZmM2EuanBlZw']","Following approval from Prime Minister Imran Khan, the government on Friday increased the price of petrol by Rs 3.20 effective from January 16, 2021.
+Sales of motor spirit (MS/ petrol) went up by 5% to 0.67 million tonnes while HSD's grew 13% to 0,62 million tonnes during December compared to the same month of previous year.",398.0,111.9,116.08,POL rates edge up third time in a month,0.0,0.05,0.7,0.2,0.05,0.0,0.05,0.15,0.55,0.25,0.0,0.0,0.05,0.65,0.3,0.0,0.02,0.28,0.5,0.2,-1.25,-0.88,-0.25,-1.0
+92,92,2021-01-16,"['https://tribune.com.pk/epaper/news/Karachi/2021-01-16/NjAxYzNiNGI5OGE1ZGQyNTJhZDg1MzBjZGY4YzcxNmUuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-01-16/MWMxNjc0NjhlMzY1ZjU5OGFkYTkyYzM5YmJlZTZmM2EuanBlZw']","Following approval from Prime Minister Imran Khan, the government on Friday increased the price of petrol by Rs 3.20 effective from January 16, 2021.
 
 The Finance Division announced a hike of Rs3.20 per litre in the price of petrol and an increase of Rs2.95 per litre for high-speed diesel.
 
@@ -2671,7 +2751,7 @@ Consumers are paying two types of taxes, which include petroleum levy and genera
 Earlier, the sale of petroleum products grew in double digits in December 2020 following consistent revival of economic activities as major contribution came from the spike in demand for furnace oil to produce electricity during the ongoing gas crisis.
 
 Sales of motor spirit (MS/ petrol) went up by 5% to 0.67 million tons while high-speed diesel sales grew 13% to 0.62 million tons during December 2020 compared to the same month of previous year.",424.0,111.9,116.08,Govt jacks up prices of petroleum products,0.0,0.05,0.1,0.6,0.25,0.0,0.05,0.35,0.4,0.2,0.0,0.0,0.15,0.55,0.3,0.0,0.0,0.35,0.4,0.25,-1.15,-0.9,-1.05,-0.75
-92,2021-01-01,"['https://tribune.com.pk/epaper/news/Karachi/2021-01-01/YzgzOThhZGExZjEwMWRmMjI1OWEwNDM1ZDQ4YmY4NjIuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-01-01/OTlkYThmZWRhNjhiMjU1MTVlNzc2Zjk0NmE5Mzk1MDAuanBlZw']","The federal government on Thursday notified an increase of up to 5.8% in the prices of all petroleum products for the first half of January 2021. However, the increase was not in line with the recommendations of the Oil and Gas Regulatory Authority (Ogra).
+93,93,2021-01-01,"['https://tribune.com.pk/epaper/news/Karachi/2021-01-01/YzgzOThhZGExZjEwMWRmMjI1OWEwNDM1ZDQ4YmY4NjIuanBlZw', 'https://tribune.com.pk/epaper/news/Karachi/2021-01-01/OTlkYThmZWRhNjhiMjU1MTVlNzc2Zjk0NmE5Mzk1MDAuanBlZw']","The federal government on Thursday notified an increase of up to 5.8% in the prices of all petroleum products for the first half of January 2021. However, the increase was not in line with the recommendations of the Oil and Gas Regulatory Authority (Ogra).
 
 The regulator had recommended an increase of Rs10.68 per litre in the price of petrol. But Prime Minister Imran Khan rejected the suggestion and approved a hike of Rs 2.31 per litre, The new petrol price has gone up by 2.2% to Rs 106 per litre from Rs103.69 per litre, a statement issued by the PM Office said.
 
